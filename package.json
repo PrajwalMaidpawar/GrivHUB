@@ -1,0 +1,14 @@
+{
+  "name": "grievhub-root",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Root runner for GrievanceHUB",
+  "scripts": {
+    "dev": "powershell -ExecutionPolicy Bypass -File ./start-local.ps1",
+    "start": "powershell -ExecutionPolicy Bypass -File ./start-local.ps1",
+    "stop": "powershell -ExecutionPolicy Bypass -File ./stop-local.ps1",
+    "build": "npm --prefix ./GrivHUB run build",
+    "lint": "npm --prefix ./GrivHUB run lint",
+    "preview": "npm --prefix ./GrivHUB run preview"
+  }
+}
