@@ -1,0 +1,17 @@
+[
+  {
+    "actor_id": "USR-OFF-001",
+    "actor_role": "ADMIN",
+    "action_type": "USER_CREATED",
+    "target_type": "USER",
+    "target_id": "USR-OFF-B0A312",
+    "new_value": {
+      "name": "New Officer",
+      "role": "OFFICER",
+      "email": "new.off@city.gov"
+    },
+    "reason": "Created user account New Officer with role OFFICER",
+    "log_id": "ADM-LOG-202608-AB6D30",
+    "timestamp": "2026-08-21T20:41:26Z"
+  }
+]

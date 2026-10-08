@@ -1,0 +1,106 @@
+[
+  {
+    "department_id": "DEP-ROADS",
+    "name": "Roads and Infrastructure Department",
+    "description": "Responsible for municipal roads, bridges, flyovers, potholes, pavements, and civil roadworks.",
+    "supported_categories": [
+      "Roads and Infrastructure"
+    ],
+    "contact_email": "roads.bbmp@civic.gov.in",
+    "contact_phone": "+91-80-2222-1001",
+    "active": true,
+    "created_at": "2026-08-21T19:35:54Z",
+    "updated_at": "2026-08-21T19:35:54Z"
+  },
+  {
+    "department_id": "DEP-WATER",
+    "name": "Water Supply and Sewerage Board",
+    "description": "Responsible for potable piped water supply, pressure issues, pipeline leakages, and water tankers.",
+    "supported_categories": [
+      "Water Supply"
+    ],
+    "contact_email": "watersupply.bbmp@civic.gov.in",
+    "contact_phone": "+91-80-2222-1002",
+    "active": true,
+    "created_at": "2026-08-21T19:35:54Z",
+    "updated_at": "2026-08-21T19:35:54Z"
+  },
+  {
+    "department_id": "DEP-SWM",
+    "name": "Solid Waste Management and Sanitation Department",
+    "description": "Responsible for garbage collection, blackspots, street sweeping, segregation, and dumping remediation.",
+    "supported_categories": [
+      "Sanitation and Waste Management"
+    ],
+    "contact_email": "swm.bbmp@civic.gov.in",
+    "contact_phone": "+91-80-2222-1003",
+    "active": true,
+    "created_at": "2026-08-21T19:35:54Z",
+    "updated_at": "2026-08-21T19:35:54Z"
+  },
+  {
+    "department_id": "DEP-DRAIN",
+    "name": "Drainage and Stormwater Sewage Department",
+    "description": "Responsible for open stormwater drains (SWD), underground drainage (UGD), manholes, and flood mitigation.",
+    "supported_categories": [
+      "Drainage and Sewage"
+    ],
+    "contact_email": "drainage.bbmp@civic.gov.in",
+    "contact_phone": "+91-80-2222-1004",
+    "active": true,
+    "created_at": "2026-08-21T19:35:54Z",
+    "updated_at": "2026-08-21T19:35:54Z"
+  },
+  {
+    "department_id": "DEP-ELEC",
+    "name": "Street Lighting and Electrical Infrastructure",
+    "description": "Responsible for streetlights, high-mast lamps, dangerous exposed wiring, and streetlight timers.",
+    "supported_categories": [
+      "Street Lighting and Electrical Infrastructure"
+    ],
+    "contact_email": "electrical.bbmp@civic.gov.in",
+    "contact_phone": "+91-80-2222-1005",
+    "active": true,
+    "created_at": "2026-08-21T19:35:54Z",
+    "updated_at": "2026-08-21T19:35:54Z"
+  },
+  {
+    "department_id": "DEP-PARKS",
+    "name": "Parks, Horticulture and Urban Environment",
+    "description": "Responsible for public parks, walking tracks, overgrown dangerous tree branches, and civic tree planting.",
+    "supported_categories": [
+      "Parks and Environment"
+    ],
+    "contact_email": "parks.bbmp@civic.gov.in",
+    "contact_phone": "+91-80-2222-1006",
+    "active": true,
+    "created_at": "2026-08-21T19:35:54Z",
+    "updated_at": "2026-08-21T19:35:54Z"
+  },
+  {
+    "department_id": "DEP-TRANS",
+    "name": "Transportation and Traffic Infrastructure",
+    "description": "Responsible for traffic signals, zebra crossings, pedestrian subways, bus shelters, and signage.",
+    "supported_categories": [
+      "Transportation and Traffic Infrastructure"
+    ],
+    "contact_email": "traffic.bbmp@civic.gov.in",
+    "contact_phone": "+91-80-2222-1007",
+    "active": true,
+    "created_at": "2026-08-21T19:35:54Z",
+    "updated_at": "2026-08-21T19:35:54Z"
+  },
+  {
+    "department_id": "DEP-CIVIC",
+    "name": "General Civic Services and Revenue Administration",
+    "description": "Responsible for trade licenses, birth/death records, property tax queries, stray animal control, and general civic issues.",
+    "supported_categories": [
+      "General Civic Services"
+    ],
+    "contact_email": "generalcivic.bbmp@civic.gov.in",
+    "contact_phone": "+91-80-2222-1008",
+    "active": true,
+    "created_at": "2026-08-21T19:35:54Z",
+    "updated_at": "2026-08-21T19:35:54Z"
+  }
+]

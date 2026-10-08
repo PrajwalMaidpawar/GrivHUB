@@ -1,0 +1,36 @@
+[
+  {
+    "user_id": "USR-CITIZEN-001",
+    "name": "Ramesh Pawar",
+    "email": "citizen@example.com",
+    "role": "CITIZEN",
+    "phone": "+91-9876543210"
+  },
+  {
+    "user_id": "USR-OFF-001",
+    "name": "Rajesh Kumar",
+    "email": "rajesh.roads@bbmp.gov.in",
+    "role": "OFFICER",
+    "officer_id": "OFF-ROADS-001",
+    "department_id": "DEP-ROADS"
+  },
+  {
+    "user_id": "USR-ADMIN-001",
+    "name": "Municipal Commissioner / Administrator",
+    "email": "admin@bbmp.gov.in",
+    "role": "ADMIN",
+    "department_id": "ALL"
+  },
+  {
+    "name": "New Officer",
+    "email": "new.off@city.gov",
+    "phone": "",
+    "role": "OFFICER",
+    "department_id": "",
+    "officer_id": "",
+    "active": true,
+    "user_id": "USR-OFF-B0A312",
+    "created_at": "2026-08-21T20:41:26Z",
+    "updated_at": "2026-08-21T20:41:26Z"
+  }
+]

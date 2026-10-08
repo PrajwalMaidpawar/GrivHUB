@@ -1,0 +1,102 @@
+{
+  "Power Outage / No Supply": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1_score": 0.0,
+    "support": 0,
+    "tp": 0,
+    "fp": 1,
+    "fn": 0,
+    "tn": 641
+  },
+  "Voltage Fluctuation / Low Voltage": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1_score": 0.0,
+    "support": 0,
+    "tp": 0,
+    "fp": 0,
+    "fn": 0,
+    "tn": 642
+  },
+  "Meter Issues": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1_score": 0.0,
+    "support": 0,
+    "tp": 0,
+    "fp": 0,
+    "fn": 0,
+    "tn": 642
+  },
+  "Billing and Payment": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1_score": 0.0,
+    "support": 0,
+    "tp": 0,
+    "fp": 0,
+    "fn": 0,
+    "tn": 642
+  },
+  "Transformer Fault": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1_score": 0.0,
+    "support": 0,
+    "tp": 0,
+    "fp": 0,
+    "fn": 0,
+    "tn": 642
+  },
+  "Pole / Wire / Electrical Hazard": {
+    "precision": 0.6667,
+    "recall": 1.0,
+    "f1_score": 0.8,
+    "support": 2,
+    "tp": 2,
+    "fp": 1,
+    "fn": 0,
+    "tn": 639
+  },
+  "New Connection / Service Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1_score": 0.0,
+    "support": 0,
+    "tp": 0,
+    "fp": 0,
+    "fn": 0,
+    "tn": 642
+  },
+  "Street/Public Electrical Infrastructure": {
+    "precision": 1.0,
+    "recall": 0.9885,
+    "f1_score": 0.9942,
+    "support": 87,
+    "tp": 86,
+    "fp": 0,
+    "fn": 1,
+    "tn": 555
+  },
+  "Power Theft / Unauthorized Connection": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1_score": 0.0,
+    "support": 0,
+    "tp": 0,
+    "fp": 0,
+    "fn": 0,
+    "tn": 642
+  },
+  "General Consumer Services": {
+    "precision": 1.0,
+    "recall": 0.9982,
+    "f1_score": 0.9991,
+    "support": 553,
+    "tp": 552,
+    "fp": 0,
+    "fn": 1,
+    "tn": 89
+  }
+}

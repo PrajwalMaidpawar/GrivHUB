@@ -1,0 +1,30 @@
+# GrievanceHUB Enterprise Backend Dependencies
+# Python 3.10+ compatible
+
+# Core Web & API Framework
+Django>=4.2.0,<5.2.0
+djangorestframework>=3.14.0,<3.16.0
+django-cors-headers>=4.3.0,<4.5.0
+
+# WSGI & ASGI Production Servers
+gunicorn>=21.2.0,<23.0.0
+uvicorn>=0.28.0,<0.31.0
+
+# Database Client
+pymongo>=4.6.0
+
+# Machine Learning & Numerical Computing
+scikit-learn>=1.3.0,<1.6.0
+numpy>=1.24.0,<2.2.0
+joblib>=1.3.0,<1.5.0
+scipy>=1.11.0,<1.14.0
+
+# Utilities & Serialization
+python-dotenv>=1.0.0,<1.1.0
+requests>=2.31.0,<2.33.0
+pydantic>=2.5.0,<2.9.0
+
+# Testing & Quality Assurance
+pytest>=7.4.0,<8.3.0
+pytest-django>=4.7.0,<4.9.0
+pytest-cov>=4.1.0,<5.1.0

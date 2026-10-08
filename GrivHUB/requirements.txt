@@ -1,0 +1,2 @@
+# GrievanceHUB Enterprise Root Dependencies
+-r backend/requirements.txt

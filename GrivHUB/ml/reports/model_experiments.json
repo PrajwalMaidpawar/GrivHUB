@@ -1,0 +1,1646 @@
+[
+  {
+    "experiment_id": "EXP_001",
+    "model_name": "TF-IDF + Multinomial Naive Bayes (alpha=0.1)",
+    "model_type": "naive_bayes",
+    "configuration": {
+      "model_name": "TF-IDF + Multinomial Naive Bayes (alpha=0.1)",
+      "model_type": "naive_bayes",
+      "random_state": 42,
+      "feature_extraction": {
+        "ngram_range": [
+          1,
+          2
+        ],
+        "min_df": 2,
+        "max_df": 0.85,
+        "max_features": 10000,
+        "sublinear_tf": true,
+        "stop_words": "english"
+      },
+      "hyperparameters": {
+        "alpha": 0.1,
+        "fit_prior": true
+      },
+      "target_classes": [
+        "Power Outage / No Supply",
+        "Voltage Fluctuation / Low Voltage",
+        "Meter Issues",
+        "Billing and Payment",
+        "Transformer Fault",
+        "Pole / Wire / Electrical Hazard",
+        "New Connection / Service Request",
+        "Street/Public Electrical Infrastructure",
+        "Power Theft / Unauthorized Connection",
+        "General Consumer Services"
+      ]
+    },
+    "train_samples": 2997,
+    "val_samples": 642,
+    "vocab_size": 2842,
+    "training_time_sec": 0.3111,
+    "inference_latency_ms": 0.021,
+    "artifact_size_mb": 0.28,
+    "accuracy": 0.9969,
+    "macro_precision": 0.2978,
+    "macro_recall": 0.2996,
+    "macro_f1": 0.2987,
+    "weighted_f1": 0.9969,
+    "per_class": {
+      "Power Outage / No Supply": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "tn": 642
+      },
+      "Voltage Fluctuation / Low Voltage": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "tn": 642
+      },
+      "Meter Issues": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "tn": 642
+      },
+      "Billing and Payment": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "tn": 642
+      },
+      "Transformer Fault": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "tn": 642
+      },
+      "Pole / Wire / Electrical Hazard": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "support": 2,
+        "tp": 2,
+        "fp": 0,
+        "fn": 0,
+        "tn": 640
+      },
+      "New Connection / Service Request": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "tn": 642
+      },
+      "Street/Public Electrical Infrastructure": {
+        "precision": 0.9775,
+        "recall": 1.0,
+        "f1_score": 0.9886,
+        "support": 87,
+        "tp": 87,
+        "fp": 2,
+        "fn": 0,
+        "tn": 553
+      },
+      "Power Theft / Unauthorized Connection": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "tn": 642
+      },
+      "General Consumer Services": {
+        "precision": 1.0,
+        "recall": 0.9964,
+        "f1_score": 0.9982,
+        "support": 553,
+        "tp": 551,
+        "fp": 0,
+        "fn": 2,
+        "tn": 89
+      }
+    },
+    "confusion_matrix": [
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        87,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        551
+      ]
+    ]
+  },
+  {
+    "experiment_id": "EXP_002",
+    "model_name": "TF-IDF + Multinomial Naive Bayes (alpha=1.0)",
+    "model_type": "naive_bayes",
+    "configuration": {
+      "model_name": "TF-IDF + Multinomial Naive Bayes (alpha=1.0)",
+      "model_type": "naive_bayes",
+      "random_state": 42,
+      "feature_extraction": {
+        "ngram_range": [
+          1,
+          2
+        ],
+        "min_df": 2,
+        "max_df": 0.85,
+        "max_features": 10000,
+        "sublinear_tf": true,
+        "stop_words": "english"
+      },
+      "hyperparameters": {
+        "alpha": 1.0,
+        "fit_prior": true
+      },
+      "target_classes": [
+        "Power Outage / No Supply",
+        "Voltage Fluctuation / Low Voltage",
+        "Meter Issues",
+        "Billing and Payment",
+        "Transformer Fault",
+        "Pole / Wire / Electrical Hazard",
+        "New Connection / Service Request",
+        "Street/Public Electrical Infrastructure",
+        "Power Theft / Unauthorized Connection",
+        "General Consumer Services"
+      ]
+    },
+    "train_samples": 2997,
+    "val_samples": 642,
+    "vocab_size": 2842,
+    "training_time_sec": 0.1906,
+    "inference_latency_ms": 0.018,
+    "artifact_size_mb": 0.28,
+    "accuracy": 0.9984,
+    "macro_precision": 0.2989,
+    "macro_recall": 0.2998,
+    "macro_f1": 0.2993,
+    "weighted_f1": 0.9984,
+    "per_class": {
+      "Power Outage / No Supply": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "tn": 642
+      },
+      "Voltage Fluctuation / Low Voltage": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "tn": 642
+      },
+      "Meter Issues": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "tn": 642
+      },
+      "Billing and Payment": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "tn": 642
+      },
+      "Transformer Fault": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "tn": 642
+      },
+      "Pole / Wire / Electrical Hazard": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "support": 2,
+        "tp": 2,
+        "fp": 0,
+        "fn": 0,
+        "tn": 640
+      },
+      "New Connection / Service Request": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "tn": 642
+      },
+      "Street/Public Electrical Infrastructure": {
+        "precision": 0.9886,
+        "recall": 1.0,
+        "f1_score": 0.9943,
+        "support": 87,
+        "tp": 87,
+        "fp": 1,
+        "fn": 0,
+        "tn": 554
+      },
+      "Power Theft / Unauthorized Connection": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "tn": 642
+      },
+      "General Consumer Services": {
+        "precision": 1.0,
+        "recall": 0.9982,
+        "f1_score": 0.9991,
+        "support": 553,
+        "tp": 552,
+        "fp": 0,
+        "fn": 1,
+        "tn": 89
+      }
+    },
+    "confusion_matrix": [
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        87,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        552
+      ]
+    ]
+  },
+  {
+    "experiment_id": "EXP_003",
+    "model_name": "TF-IDF + Logistic Regression (C=1.0, Balanced)",
+    "model_type": "logistic_regression",
+    "configuration": {
+      "model_name": "TF-IDF + Logistic Regression (C=1.0, Balanced)",
+      "model_type": "logistic_regression",
+      "random_state": 42,
+      "feature_extraction": {
+        "ngram_range": [
+          1,
+          2
+        ],
+        "min_df": 2,
+        "max_df": 0.85,
+        "max_features": 12000,
+        "sublinear_tf": true,
+        "stop_words": "english"
+      },
+      "hyperparameters": {
+        "C": 1.0,
+        "max_iter": 35,
+        "class_weight": "balanced"
+      },
+      "target_classes": [
+        "Power Outage / No Supply",
+        "Voltage Fluctuation / Low Voltage",
+        "Meter Issues",
+        "Billing and Payment",
+        "Transformer Fault",
+        "Pole / Wire / Electrical Hazard",
+        "New Connection / Service Request",
+        "Street/Public Electrical Infrastructure",
+        "Power Theft / Unauthorized Connection",
+        "General Consumer Services"
+      ]
+    },
+    "train_samples": 2997,
+    "val_samples": 642,
+    "vocab_size": 2842,
+    "training_time_sec": 11.0642,
+    "inference_latency_ms": 0.021,
+    "artifact_size_mb": 0.51,
+    "accuracy": 0.9829,
+    "macro_precision": 0.2946,
+    "macro_recall": 0.298,
+    "macro_f1": 0.2962,
+    "weighted_f1": 0.9876,
+    "per_class": {
+      "Power Outage / No Supply": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0,
+        "tn": 641
+      },
+      "Voltage Fluctuation / Low Voltage": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "tn": 642
+      },
+      "Meter Issues": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "tn": 642
+      },
+      "Billing and Payment": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 5,
+        "fn": 0,
+        "tn": 637
+      },
+      "Transformer Fault": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "tn": 642
+      },
+      "Pole / Wire / Electrical Hazard": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "support": 2,
+        "tp": 2,
+        "fp": 0,
+        "fn": 0,
+        "tn": 640
+      },
+      "New Connection / Service Request": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "tn": 642
+      },
+      "Street/Public Electrical Infrastructure": {
+        "precision": 0.9457,
+        "recall": 1.0,
+        "f1_score": 0.9721,
+        "support": 87,
+        "tp": 87,
+        "fp": 5,
+        "fn": 0,
+        "tn": 550
+      },
+      "Power Theft / Unauthorized Connection": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "tn": 642
+      },
+      "General Consumer Services": {
+        "precision": 1.0,
+        "recall": 0.9801,
+        "f1_score": 0.99,
+        "support": 553,
+        "tp": 542,
+        "fp": 0,
+        "fn": 11,
+        "tn": 89
+      }
+    },
+    "confusion_matrix": [
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        87,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        5,
+        0,
+        542
+      ]
+    ]
+  },
+  {
+    "experiment_id": "EXP_004",
+    "model_name": "TF-IDF + Logistic Regression (C=2.0, Balanced)",
+    "model_type": "logistic_regression",
+    "configuration": {
+      "model_name": "TF-IDF + Logistic Regression (C=2.0, Balanced)",
+      "model_type": "logistic_regression",
+      "random_state": 42,
+      "feature_extraction": {
+        "ngram_range": [
+          1,
+          2
+        ],
+        "min_df": 2,
+        "max_df": 0.85,
+        "max_features": 12000,
+        "sublinear_tf": true,
+        "stop_words": "english"
+      },
+      "hyperparameters": {
+        "C": 2.0,
+        "max_iter": 35,
+        "class_weight": "balanced"
+      },
+      "target_classes": [
+        "Power Outage / No Supply",
+        "Voltage Fluctuation / Low Voltage",
+        "Meter Issues",
+        "Billing and Payment",
+        "Transformer Fault",
+        "Pole / Wire / Electrical Hazard",
+        "New Connection / Service Request",
+        "Street/Public Electrical Infrastructure",
+        "Power Theft / Unauthorized Connection",
+        "General Consumer Services"
+      ]
+    },
+    "train_samples": 2997,
+    "val_samples": 642,
+    "vocab_size": 2842,
+    "training_time_sec": 9.5588,
+    "inference_latency_ms": 0.071,
+    "artifact_size_mb": 0.51,
+    "accuracy": 0.9813,
+    "macro_precision": 0.2943,
+    "macro_recall": 0.2969,
+    "macro_f1": 0.2955,
+    "weighted_f1": 0.986,
+    "per_class": {
+      "Power Outage / No Supply": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0,
+        "tn": 641
+      },
+      "Voltage Fluctuation / Low Voltage": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "tn": 642
+      },
+      "Meter Issues": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "tn": 642
+      },
+      "Billing and Payment": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 5,
+        "fn": 0,
+        "tn": 637
+      },
+      "Transformer Fault": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "tn": 642
+      },
+      "Pole / Wire / Electrical Hazard": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "support": 2,
+        "tp": 2,
+        "fp": 0,
+        "fn": 0,
+        "tn": 640
+      },
+      "New Connection / Service Request": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "tn": 642
+      },
+      "Street/Public Electrical Infrastructure": {
+        "precision": 0.9451,
+        "recall": 0.9885,
+        "f1_score": 0.9663,
+        "support": 87,
+        "tp": 86,
+        "fp": 5,
+        "fn": 1,
+        "tn": 550
+      },
+      "Power Theft / Unauthorized Connection": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "tn": 642
+      },
+      "General Consumer Services": {
+        "precision": 0.9982,
+        "recall": 0.9801,
+        "f1_score": 0.9891,
+        "support": 553,
+        "tp": 542,
+        "fp": 1,
+        "fn": 11,
+        "tn": 88
+      }
+    },
+    "confusion_matrix": [
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        86,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        5,
+        0,
+        542
+      ]
+    ]
+  },
+  {
+    "experiment_id": "EXP_005",
+    "model_name": "TF-IDF + Linear SVM (C=1.0, Balanced)",
+    "model_type": "linear_svm",
+    "configuration": {
+      "model_name": "TF-IDF + Linear SVM (C=1.0, Balanced)",
+      "model_type": "linear_svm",
+      "random_state": 42,
+      "feature_extraction": {
+        "ngram_range": [
+          1,
+          2
+        ],
+        "min_df": 2,
+        "max_df": 0.85,
+        "max_features": 12000,
+        "sublinear_tf": true,
+        "stop_words": "english"
+      },
+      "hyperparameters": {
+        "C": 1.0,
+        "max_iter": 30,
+        "class_weight": "balanced"
+      },
+      "probability_calibration": {
+        "enabled": true,
+        "method": "sigmoid_softmax"
+      },
+      "target_classes": [
+        "Power Outage / No Supply",
+        "Voltage Fluctuation / Low Voltage",
+        "Meter Issues",
+        "Billing and Payment",
+        "Transformer Fault",
+        "Pole / Wire / Electrical Hazard",
+        "New Connection / Service Request",
+        "Street/Public Electrical Infrastructure",
+        "Power Theft / Unauthorized Connection",
+        "General Consumer Services"
+      ]
+    },
+    "train_samples": 2997,
+    "val_samples": 642,
+    "vocab_size": 2842,
+    "training_time_sec": 3.7331,
+    "inference_latency_ms": 0.017,
+    "artifact_size_mb": 0.28,
+    "accuracy": 0.9969,
+    "macro_precision": 0.2667,
+    "macro_recall": 0.2987,
+    "macro_f1": 0.2793,
+    "weighted_f1": 0.9978,
+    "per_class": {
+      "Power Outage / No Supply": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0,
+        "tn": 641
+      },
+      "Voltage Fluctuation / Low Voltage": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "tn": 642
+      },
+      "Meter Issues": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "tn": 642
+      },
+      "Billing and Payment": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "tn": 642
+      },
+      "Transformer Fault": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "tn": 642
+      },
+      "Pole / Wire / Electrical Hazard": {
+        "precision": 0.6667,
+        "recall": 1.0,
+        "f1_score": 0.8,
+        "support": 2,
+        "tp": 2,
+        "fp": 1,
+        "fn": 0,
+        "tn": 639
+      },
+      "New Connection / Service Request": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "tn": 642
+      },
+      "Street/Public Electrical Infrastructure": {
+        "precision": 1.0,
+        "recall": 0.9885,
+        "f1_score": 0.9942,
+        "support": 87,
+        "tp": 86,
+        "fp": 0,
+        "fn": 1,
+        "tn": 555
+      },
+      "Power Theft / Unauthorized Connection": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "tn": 642
+      },
+      "General Consumer Services": {
+        "precision": 1.0,
+        "recall": 0.9982,
+        "f1_score": 0.9991,
+        "support": 553,
+        "tp": 552,
+        "fp": 0,
+        "fn": 1,
+        "tn": 89
+      }
+    },
+    "confusion_matrix": [
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        86,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        552
+      ]
+    ]
+  },
+  {
+    "experiment_id": "EXP_006",
+    "model_name": "TF-IDF + Linear SVM (C=2.0, Balanced)",
+    "model_type": "linear_svm",
+    "configuration": {
+      "model_name": "TF-IDF + Linear SVM (C=2.0, Balanced)",
+      "model_type": "linear_svm",
+      "random_state": 42,
+      "feature_extraction": {
+        "ngram_range": [
+          1,
+          2
+        ],
+        "min_df": 2,
+        "max_df": 0.85,
+        "max_features": 12000,
+        "sublinear_tf": true,
+        "stop_words": "english"
+      },
+      "hyperparameters": {
+        "C": 2.0,
+        "max_iter": 30,
+        "class_weight": "balanced"
+      },
+      "probability_calibration": {
+        "enabled": true,
+        "method": "sigmoid_softmax"
+      },
+      "target_classes": [
+        "Power Outage / No Supply",
+        "Voltage Fluctuation / Low Voltage",
+        "Meter Issues",
+        "Billing and Payment",
+        "Transformer Fault",
+        "Pole / Wire / Electrical Hazard",
+        "New Connection / Service Request",
+        "Street/Public Electrical Infrastructure",
+        "Power Theft / Unauthorized Connection",
+        "General Consumer Services"
+      ]
+    },
+    "train_samples": 2997,
+    "val_samples": 642,
+    "vocab_size": 2842,
+    "training_time_sec": 2.2207,
+    "inference_latency_ms": 0.056,
+    "artifact_size_mb": 0.28,
+    "accuracy": 0.9969,
+    "macro_precision": 0.2667,
+    "macro_recall": 0.2987,
+    "macro_f1": 0.2793,
+    "weighted_f1": 0.9978,
+    "per_class": {
+      "Power Outage / No Supply": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0,
+        "tn": 641
+      },
+      "Voltage Fluctuation / Low Voltage": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "tn": 642
+      },
+      "Meter Issues": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "tn": 642
+      },
+      "Billing and Payment": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "tn": 642
+      },
+      "Transformer Fault": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "tn": 642
+      },
+      "Pole / Wire / Electrical Hazard": {
+        "precision": 0.6667,
+        "recall": 1.0,
+        "f1_score": 0.8,
+        "support": 2,
+        "tp": 2,
+        "fp": 1,
+        "fn": 0,
+        "tn": 639
+      },
+      "New Connection / Service Request": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "tn": 642
+      },
+      "Street/Public Electrical Infrastructure": {
+        "precision": 1.0,
+        "recall": 0.9885,
+        "f1_score": 0.9942,
+        "support": 87,
+        "tp": 86,
+        "fp": 0,
+        "fn": 1,
+        "tn": 555
+      },
+      "Power Theft / Unauthorized Connection": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "tn": 642
+      },
+      "General Consumer Services": {
+        "precision": 1.0,
+        "recall": 0.9982,
+        "f1_score": 0.9991,
+        "support": 553,
+        "tp": 552,
+        "fp": 0,
+        "fn": 1,
+        "tn": 89
+      }
+    },
+    "confusion_matrix": [
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        86,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        552
+      ]
+    ]
+  }
+]

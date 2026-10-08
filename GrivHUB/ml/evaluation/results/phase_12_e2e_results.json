@@ -1,0 +1,60 @@
+{
+  "test_timestamp": "2026-08-21T12:35:00Z",
+  "model_version": "1.0.0",
+  "scenarios_tested": 4,
+  "results": [
+    {
+      "scenario": "Pothole Complaint in Domlur (East Zone, Ward 112)",
+      "grievance_id": "GRV-202608-D01E6A",
+      "predicted_category": "Roads and Infrastructure",
+      "confidence": 0.809,
+      "department_id": "DEP-ROADS",
+      "department_name": "Roads and Infrastructure Department",
+      "officer_id": "OFF-ROADS-001",
+      "officer_name": "Rajesh Kumar",
+      "status": "ASSIGNED",
+      "routing_reason": "Routed to Roads and Infrastructure Department -> Assigned to Rajesh Kumar (EXACT_WARD Match, Active Workload: 0 -> 1)"
+    },
+    {
+      "scenario": "Water Supply Pipeline Disruption (East Zone, Ward 112)",
+      "grievance_id": "GRV-202608-3D3670",
+      "predicted_category": "Water Supply",
+      "confidence": 0.9323,
+      "department_id": "DEP-WATER",
+      "department_name": "Water Supply and Sewerage Board",
+      "officer_id": "OFF-WATER-001",
+      "officer_name": "Pooja Hegde",
+      "status": "ASSIGNED",
+      "routing_reason": "Routed to Water Supply and Sewerage Board -> Assigned to Pooja Hegde (EXACT_WARD Match, Active Workload: 0 -> 1)"
+    },
+    {
+      "scenario": "Garbage Blackspot Dumping (East Zone, Ward 111)",
+      "grievance_id": "GRV-202608-5D7971",
+      "predicted_category": "Sanitation and Waste Management",
+      "confidence": 0.8475,
+      "department_id": "DEP-SWM",
+      "department_name": "Solid Waste Management and Sanitation Department",
+      "officer_id": "OFF-SWM-001",
+      "officer_name": "Kavita Rao",
+      "status": "ASSIGNED",
+      "routing_reason": "Routed to Solid Waste Management and Sanitation Department -> Assigned to Kavita Rao (EXACT_WARD Match, Active Workload: 0 -> 1)"
+    },
+    {
+      "scenario": "Sparking Streetlight Fault (South Zone, Ward 131)",
+      "grievance_id": "GRV-202608-4F3F35",
+      "predicted_category": "Street Lighting and Electrical Infrastructure",
+      "confidence": 0.998,
+      "department_id": "DEP-ELEC",
+      "department_name": "Street Lighting and Electrical Infrastructure",
+      "officer_id": "OFF-ELEC-001",
+      "officer_name": "Deepak Joshi",
+      "status": "ASSIGNED",
+      "routing_reason": "Routed to Street Lighting and Electrical Infrastructure -> Assigned to Deepak Joshi (CITY_WIDE Match, Active Workload: 0 -> 1)"
+    }
+  ],
+  "reassignment_test": {
+    "grievance_id": "GRV-202608-D01E6A",
+    "history_count": 2,
+    "final_assigned_officer": "OFF-ROADS-003"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "default_max_officer_workload": 10,
+  "auto_closure_hours": 72,
+  "min_ml_confidence_threshold": 0.6,
+  "allowed_file_types": [
+    "image/jpeg",
+    "image/png",
+    "image/webp",
+    "application/pdf"
+  ],
+  "max_attachment_size_mb": 10,
+  "supported_languages": [
+    "en",
+    "hi",
+    "kn",
+    "ta",
+    "te"
+  ],
+  "strict_jurisdiction_routing": true,
+  "citizen_reopen_window_days": 7,
+  "auto_closure_enabled": true,
+  "updated_at": "2026-08-21T20:28:00Z",
+  "updated_by": "SYSTEM"
+}

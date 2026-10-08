@@ -1,0 +1,81 @@
+{
+  "dataset_version": "1.0.0",
+  "creation_date": "2026-09-09T15:50:00.220692+00:00",
+  "source_datasets": [
+    "Indian OpenCity BBMP Electrical Sub-Domain (Real Public Grievances)"
+  ],
+  "total_raw_records": 10000,
+  "valid_records_before_dedup": 10000,
+  "unique_records_retained": 4282,
+  "deduplication_summary": {
+    "initial_valid_records": 10000,
+    "duplicate_source_ids_removed": 0,
+    "exact_text_duplicates_found": 5718,
+    "exact_text_duplicates_removed": 5718,
+    "near_duplicates_detected": 1538,
+    "unique_records_retained": 4282,
+    "deduplication_rate_pct": 57.18
+  },
+  "pii_summary": {
+    "email_count": 1,
+    "phone_count": 92,
+    "aadhaar_count": 0,
+    "pan_count": 0,
+    "total_pii": 93
+  },
+  "target_categories": [
+    "Power Outage / No Supply",
+    "Voltage Fluctuation / Low Voltage",
+    "Meter Issues",
+    "Billing and Payment",
+    "Transformer Fault",
+    "Pole / Wire / Electrical Hazard",
+    "New Connection / Service Request",
+    "Street/Public Electrical Infrastructure",
+    "Power Theft / Unauthorized Connection",
+    "General Consumer Services"
+  ],
+  "class_distribution": {
+    "Power Outage / No Supply": {
+      "count": 1,
+      "percentage": 0.02
+    },
+    "Voltage Fluctuation / Low Voltage": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "Meter Issues": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "Billing and Payment": {
+      "count": 2,
+      "percentage": 0.05
+    },
+    "Transformer Fault": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "Pole / Wire / Electrical Hazard": {
+      "count": 13,
+      "percentage": 0.3
+    },
+    "New Connection / Service Request": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "Street/Public Electrical Infrastructure": {
+      "count": 580,
+      "percentage": 13.55
+    },
+    "Power Theft / Unauthorized Connection": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "General Consumer Services": {
+      "count": 3686,
+      "percentage": 86.08
+    }
+  },
+  "random_state": 42
+}

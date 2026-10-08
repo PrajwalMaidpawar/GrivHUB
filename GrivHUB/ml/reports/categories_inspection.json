@@ -1,0 +1,99 @@
+{
+  "opencity": {
+    "total_records": 126974,
+    "categories": {
+      "Electrical": 116,
+      "Solid Waste (Garbage) Related": 43,
+      "Road Maintenance(Engg)": 14,
+      "veterinary": 9,
+      "Forest": 11,
+      "Health Dept": 1,
+      "Others": 1,
+      "Storm  Water Drain(SWD)": 3,
+      "Advertisement": 1,
+      "Parks and Play grounds": 1
+    },
+    "top_subcats": {
+      "Electrical -> Street Light Not Working": 112,
+      "Solid Waste (Garbage) Related -> Garbage dump": 28,
+      "Solid Waste (Garbage) Related -> Garbage vehicle not arrived": 8,
+      "Forest -> Removal of dead/fallen trees": 6,
+      "Road Maintenance(Engg) -> Road side drains": 6,
+      "Forest -> obstructions Branches / Trees.": 5,
+      "Solid Waste (Garbage) Related -> Garbage dumping in vacant sites": 5,
+      "Road Maintenance(Engg) -> footpath encroachment": 3,
+      "Electrical -> Requirement For New Street Lights": 3,
+      "veterinary -> Stray dog related complaints": 2,
+      "veterinary -> Animal Rescue - Not well - Requires attention": 2,
+      "Road Maintenance(Engg) -> Potholes": 2,
+      "Storm  Water Drain(SWD) -> Sewerage water left in SWD": 2,
+      "veterinary -> Fatally injured - Needs immediate attention": 2,
+      "Health Dept -> Unhygienic  premises in hospital": 1,
+      "Others -> Others": 1,
+      "veterinary -> Anti Rabies Vaccination of stray dogs": 1,
+      "veterinary -> shifting of the street dogs to other places": 1,
+      "Solid Waste (Garbage) Related -> Sweeping not done": 1,
+      "Solid Waste (Garbage) Related -> Garbage transfer not as per norms & area not kept clean": 1
+    },
+    "statuses": {
+      "Registered": 198,
+      "Closed": 1,
+      "In Progress": 1
+    },
+    "sample_wards": [
+      "Jagajeevanram Nagar",
+      "Kammanahalli",
+      "Banaswadi",
+      "Gandhi Nagar",
+      "Kumaraswamy Layout",
+      "Jogupalya",
+      "Vijanapura",
+      "Shanthi Nagar",
+      "Uttarahalli",
+      "Doddanekkundi"
+    ]
+  },
+  "nyc_311": {
+    "complaint_types": {
+      "Illegal Parking": 26,
+      "Noise - Residential": 18,
+      "Derelict Vehicles": 8,
+      "Dirty Condition": 8,
+      "Noise - Vehicle": 8,
+      "PAINT/PLASTER": 7,
+      "FLOORING/STAIRS": 7,
+      "Abandoned Vehicle": 7,
+      "Blocked Driveway": 7,
+      "Damaged Tree": 5,
+      "Traffic Signal Condition": 5,
+      "HEAT/HOT WATER": 5,
+      "Noise - Helicopter": 5,
+      "Illegal Dumping": 4,
+      "Encampment": 4,
+      "DOOR/WINDOW": 4,
+      "Noise - Street/Sidewalk": 4,
+      "Street Condition": 3,
+      "Water System": 3,
+      "PLUMBING": 3,
+      "GENERAL": 3,
+      "Missed Collection": 3,
+      "Street Light Condition": 3,
+      "Graffiti": 2,
+      "APPLIANCE": 2
+    },
+    "agencies": {
+      "DSNY": 32,
+      "HPD": 36,
+      "DOT": 19,
+      "NYPD": 80,
+      "DEP": 9,
+      "DPR": 7,
+      "DHS": 2,
+      "DOB": 4,
+      "DOHMH": 3,
+      "EDC": 5,
+      "DCWP": 2,
+      "TLC": 1
+    }
+  }
+}

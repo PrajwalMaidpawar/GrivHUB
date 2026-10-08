@@ -1,0 +1,644 @@
+record_id,complaint_text,actual_category,predicted_category,source_dataset,confidence_score
+20767526,Unable to Generate the receipt after property tax payment. in Giri Nagar Mobile no updated,Billing and Payment,Billing and Payment,INDIAN_OPENCITY_BBMP,1.0
+20762029,Garbage vehicle not arrived in Herohalli Garbage vehicle has been sent to door collection sir,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764608,Garbage dumping in vacant sites in Anjanapur Complaint cleared,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764680,Garbage dump in Bilekahalli Tharmocol In This place and clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20765650,BBMP Properties Lease issues in Hanumantha Nagar Field inspection assigned to ARO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.6333
+20766172,Footpath in Subramanya Nagar Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767409,Garbage vehicle not arrived in Maruthi Seva Nagar Cleared,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764232,Fogging in Ramamurthy Nagar Field inspection assigned to SHI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764598,Animal Rescue - Not well - Requires attention in Horamavu Complaint attended,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767499,Ekhata Other corrections in Shakambari Nagar Please contact ARO Office JP Nagar along with supporting Documents for correction and Requestion letter,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762234,Stray/Rabid dog bite in C.V.Raman Nagar Explained the bbmp guidelines for pet owners,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766633,Flex and banners in Varthur this is revenue department plz assign concern department,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763027,Road side drains in Chikpete Field inspection assigned to Customer Support Representative officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771639,Garbage dumping in vacant sites in Thanisandra Field inspection assigned to Marshal officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763776,"Gym/Children Play equipment in the parks in Chokkasandra These civil works done by EE project so please contact [PHONE] ,[PHONE]",General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771274,Stray dog related complaints in Kushal Nagar Field inspection assigned to VI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764923,UnAuthorised Building Constructions in Agaram Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770405,Garbage dump in Kavalbyrasandra Resolved,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770834,Stray dog related complaints in Uttarahalli Field inspection assigned to VI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766982,Garbage dump in Mangammanapalya Cleared,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766005,Debris Removal / Construction Material in Jnanabharathi Ward vvv,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771677,Garbage dump in Kavalbyrasandra Field inspection assigned to Marshal officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763971,Garbage vehicle not arrived in Jayachamarajendra Nagar Clear sir,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762059,Stray cattle related complaints in Arakere Field inspection assigned to VI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766985,Debris Removal / Construction Material in Pulikeshi Nagar Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763948,Garbage dump in Vannarpet Clear garbage point,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763806,Garbage thrown in storm water drain in Kodigehalli Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764782,Footpath in Shanthi Nagar Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763731,Debris Removal / Construction Material in HBR Layout Action taken,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770510,Garbage dump in Hemmigepura Complaint clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769240,Footpath in Subhash Nagar Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9999
+20770991,obstructions Branches / Trees. in Shanthala Nagar Field inspection assigned to DYRFO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768488,obstructions Branches / Trees. in Chamrajpet Field inspection assigned to DYRFO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766211,Others in Begur Field inspection assigned to Customer Support Representative officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762954,water stagnation in Mangammanapalya Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769658,Garbage dump in Hoodi Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764944,Garbage vehicle not arrived in Katriguppe Clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769826,Garbage dump in Sarvagna Nagar Field inspection assigned to Marshal officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764373,Garbage vehicle not arrived in Rajarajeshwari Nagar Cleared,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766246,Road Infrastructure in Dharmarayaswamy Temple Ward Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762243,Potholes in Sri Rammandira Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766324,Removal of dead/fallen trees in Hosahalli Field inspection assigned to DYRFO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20765705,Garbage dump in Hoodi This Not Comes under BBMP Limits please contact panchayti office,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762259,Ekhata - name correction in Padmanabha Nagar Please submit relevant documents for correction,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763382,Sweeping not done in Shakambari Nagar Cleared,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767132,Dengue positive in S.K.Garden Field inspection assigned to SHI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763661,Debris Removal / Construction Material in Jnanabharathi Ward DDD,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768415,Stray/Rabid dog bite in Jaraganahalli Field inspection assigned to VI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768729,Removal of dead/fallen trees in Rajaji Nagar Field inspection assigned to DYRFO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766415,Water related issue in Jayanagar East Field inspection assigned to Customer Support Representative officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762204,Potholes in Dodda Bidarkallu Its belongs To Bwssb,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9997
+20768337,Sweeping not done in Vidyapeetha Field inspection assigned to JHI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763667,Ekhata Other corrections in Vidyaranyapura TECNICAL ISSUE. THIS IS IN PROCESS,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769900,Burning of Garbage in Open Space in Bommanahalli Field inspection assigned to Marshal officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771014,Garbage dumping in vacant sites in Jayangar Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771216,Potholes in Sampangiram Nagar Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20761837,Debris Removal / Construction Material in BTM Layout Drain work is in progress,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768496,obstructions Branches / Trees. in Banaswadi [PHONE],General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767111,Dengue positive in C.V.Raman Nagar Field inspection assigned to SHI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770029,Garbage dump in Banashankari Temple Ward Field inspection assigned to Marshal officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768403,Other Khata / ekhata issues in Dodda Bidarkallu Field inspection assigned to ARO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9904
+20767251,obstructions Branches / Trees. in HBR Layout Please provide request letter tree photos tax paid receipt,General Consumer Services,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,1.0
+20770460,Footpath in Chikkalasandra Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771231,Ekhata - name correction in Gottigere Field inspection assigned to ARO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9957
+20765091,Burning of Garbage in Open Space in Dodda Bidarkallu Complaint cleared,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9999
+20769387,footpath encroachment in Visvesvarapuram Complaint pertains to vv puram ward,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763431,Road side drains in Ullalu Bwssb complaint about chamber,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770651,Debris Removal / Construction Material in Hegganahalli Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766018,Garbage dump in Dr.Rajkumar Ward Close,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20761723,"Animal Rescue - Not well - Requires attention in Hombegowda Nagar Please contact Dr.D.N Srinath, ADAH, Mobile no:[PHONE]",General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762294,Garbage dump in Pattabhiram Nagar Garbeg clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20765281,UnAuthorised Building Constructions in Sanjay Nagar Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771062,Garbage dump in Jnanabharathi Ward Field inspection assigned to Marshal officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769361,obstructions Branches / Trees. in Rajaji Nagar Field inspection assigned to DYRFO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762829,Garbage In Market Premises in Sampangiram Nagar Field inspection assigned to ARO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.5351
+20762365,Removal of dead/fallen trees in Domlur cleared,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764968,Issues Related to Parks/Medians/Circles/Island. in Newthippasandra Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771219,Potholes in Bommanahalli Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767971,Water related issue in Vijay Nagar Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9999
+20765127,Increase in mosquito density in Chokkasandra Attended,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769360,Maintenance of SWD in Peenya Industrial Area Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9999
+20769869,Removal of dead/fallen trees in Ullalu Field inspection assigned to DYRFO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764290,Road side drains in Pulikeshi Nagar Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766106,Garbage vehicle not arrived in Pattabhiram Nagar Today collection,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770139,Garbage dump in Kammanahalli Field inspection assigned to Marshal officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764376,Animal Rescue - Not well - Requires attention in Vidyaranyapura Spoke with the concern person,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768981,Gym/Children Play equipment in the parks in Jayamahal Field inspection assigned to HS officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20765325,Stray dog related complaints in HAL Airport Did not pick up the call No relocation of dogs can be done as per supreme court order,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20765242,Garbage dump in Vannarpet Complaint clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771585,Flex and banners in Arakere Field inspection assigned to ARO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9946
+20771290,Garbage dump in Koramangala Field inspection assigned to Marshal officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770467,Road Infrastructure in Begur Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763011,Others in Jeevanbhima Nagar Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763260,"Issues related Snakes/Birds/Monkeys in Arakere Please contact Aranya Bhavan, 18th cross Malleshwaram",General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771552,Garbage dumping in vacant sites in S.K.Garden Field inspection assigned to Marshal officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763472,Animal Rescue - Not well - Requires attention in Jayachamarajendra Nagar Field inspection assigned to VI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762966,Air/Noise pollution in Varthur Attended,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769624,Removal of dead/fallen trees in Gayathri Nagar Field inspection assigned to DYRFO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20765544,Garbage vehicle not arrived in J.P.Nagar Garbage vechile arrived,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768434,Garbage dump in Domlur Clear sir,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769667,obstructions Branches / Trees. in Katriguppe Field inspection assigned to DYRFO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20761801,water stagnation in Jogupalya Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768183,Garbage dump in Uttarahalli Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769535,Removal of dead/fallen trees in Doddanekkundi Field inspection assigned to DYRFO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769138,"obstructions Branches / Trees. in Singasandra Please submit application to BBMP, Forest Department",General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20765603,Potholes in Jayanagar East Field inspection assigned to Customer Support Representative officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770010,obstructions Branches / Trees. in BTM Layout Field inspection assigned to DYRFO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768325,Debris Removal / Construction Material in Chokkasandra Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771146,Ekhata missing in online in Nagapura Field inspection assigned to ARO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9985
+20763762,Garbage vehicle not arrived in Manorayanapalya Arri,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20765354,Garbage dumping in vacant sites in Yadiyuru Clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766425,Removal of dead/fallen trees in Siddapura Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764875,Issues Related to Parks/Medians/Circles/Island. in Vignana Nagar Field inspection assigned to HS officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762552,Stray cattle related complaints in Begur Please call Dr.Shivakumar E ph- [PHONE]. For Cattle issues.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766160,Complaint against SW collector/ SWM official for violation of SWM Rules in Gottigere Complaint cleared,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763451,UnAuthorised Building Constructions in Madiwala Field inspection assigned to ADTP officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770963,Garbage dump in Ramamurthy Nagar Field inspection assigned to Marshal officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767977,Road cutting in Jayanagar East BWSSB WORK IS IN PROCESS,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764409,Road Infrastructure in Sudam Nagar Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768276,Garbage dump in Basavanapura Cl,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762596,Maintenance of SWD in Anjanapur Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762925,Sweeping not done in Jagajeevanram Nagar Field inspection assigned to JHI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768526,Garbage vehicle not arrived in Begur This complaint is cleared sir,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769243,Garbage dumping in vacant sites in Vasanthapura Cleared,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767388,UnAuthorised Building Constructions in Vasanthapura Field inspection assigned to AEE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20761836,Spraying in Rajamahal Clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762583,TEC in Jayanagar East Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770526,Garbage dump in Banashankari Temple Ward Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770849,Dead animal(s) in Gottigere Field inspection assigned to Customer Support Representative officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767379,Road Infrastructure in Nagapura Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20765547,Removal of dead/fallen trees in C.V.Raman Nagar Plz upload photos,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769468,Sweeping not done in Vishwanathnagenahalli Field inspection assigned to JHI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771149,Other Khata / ekhata issues in Hemmigepura Field inspection assigned to ARO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9994
+20763433,Sweeping not done in Maruthi Mandira Ward Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766790,Garbage vehicle not arrived in Doddanekkundi Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20765147,Garbage vehicle not arrived in Sunkenahalli Cleared,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764805,Road Infrastructure in Koramangala Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20765807,Animal birth control/neutering of stray dogs in Domlur Field inspection assigned to VI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770125,Maintenance of SWD in Ramamurthy Nagar Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769690,Garbage dump in Dr.Rajkumar Ward Field inspection assigned to Marshal officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764296,Road side drains in Vijay Nagar Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20765079,Road Infrastructure in Vasanthapura Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20765837,Garbage dumping in vacant sites in Bapuji Nagar Cleared,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768125,Complaint against SW collector/ SWM official for violation of SWM Rules in Kaveripura I've warned Auto driver not to ask any Money from public.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768545,Garbage dump in Shanthala Nagar Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771329,Garbage vehicle not arrived in Nagavara Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769567,obstructions Branches / Trees. in Neelasandra Field inspection assigned to DYRFO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767048,Fatally injured - Needs immediate attention in Padmanabha Nagar Sir Please contact stray dog rescue team officer Dr Shrinath Assistant Director mb [PHONE],General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762696,Ekhata - name correction in Vidyaranyapura null,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769230,Garbage dump in Basavanapura Clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762242,obstructions Branches / Trees. in Basavanagudi Resolved,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768857,Dengue positive in Banaswadi Field inspection assigned to SHI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768699,Removal of dead/fallen trees in Vasanthapura Field inspection assigned to RFO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764903,Dead animal(s) in C.V.Raman Nagar Not dead animal,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768596,Garbage dump in Ejipura Field inspection assigned to Marshal officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763306,Road cutting in Shanthi Nagar Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766894,Sweeping not done in Padmanabha Nagar Field inspection assigned to JHI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764763,Stray dog related complaints in Maruthi Mandira Ward Closed,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769754,Garbage dump in Basavanapura Field inspection assigned to Marshal officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762547,Complaint against SW collector/ SWM official for violation of SWM Rules in Maruthi Seva Nagar Complent is clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768861,Garbage dump in Gandhi Nagar Not proper adress. We can't identify which petrol pump. Kindly complaint again with proper adress Thank you,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762551,Road Infrastructure in J.P.Park Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9999
+20764062,Ekhata Area Correction in Begur ನಿಯಮಾನುಸಾರ ಕ್ತಮಕೈಗೊಳ್ಳಲಾಗುವುದು,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762677,Garbage dump in Ganga Nagar Complaint Resolved,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767993,Garbage transfer not as per norms & area not kept clean in Doddanekkundi Cleared,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762407,Road cutting in Bellandur Field inspection assigned to Customer Support Representative officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763758,"Garbage dump in Chikpete This is not Garbage Complaints,,,, wood waste, Debris is there, Plzz Forward Engineering dpt",General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768201,Animal Rescue - Not well - Requires attention in Yelahanka old Satellite Town Spoken with the concern person,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9999
+20767924,Increase in mosquito density in Rajarajeshwari Nagar Field inspection assigned to SHI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767550,Footpath in Laggere Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768755,Garbage dump in Chowdeshwari Ward Complaint cleared,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762358,"Animal Rescue - Not well - Requires attention in Sudam Nagar Please contact Dr.D.N Srinath, ADAH, Mobile no:[PHONE]",General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762418,Air/Noise pollution in Jakkur Attended,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20765798,Garbage dump in Hoodi This Not in BBMP Limits please contact Margondanhalli Panchayati office,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770502,Increase in mosquito density in Anjanapur Field inspection assigned to SHI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762470,Garbage dump in Domlur Cleared thank you,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768319,Debris Removal / Construction Material in HSR Layout Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770414,Garbage vehicle not arrived in Hanumantha Nagar Clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768705,obstructions Branches / Trees. in Newthippasandra Field inspection assigned to DYRFO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762430,"Garbage dump in Singasandra It doesn't belongs to bbmp limits ,its comes under electronic city panchayati limit.",General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764480,"Garbage dump in Kadugondanahalli CLEARED,",General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20765499,Debris Removal / Construction Material in Thanisandra The above complaint comes to major roads,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764111,Garbage dump in Ulsoor Garbage cleared,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763733,Garbage vehicle not arrived in Hosakerehalli Problem clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767666,Garbage vehicle not arrived in Chokkasandra Clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770143,Burning of Garbage in Open Space in Rajarajeshwari Nagar Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769607,Potholes in Lingarajapuram Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768454,Other Khata / ekhata issues in Ejipura Please contact ward accountant Mrs. Usha Devi,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770727,Maintenance of SWD in Doddanekkundi Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770343,Issues Related to Parks/Medians/Circles/Island. in HSR Layout Field inspection assigned to HS officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769945,ekhata approval pending with ARO in Mangammanapalya Field inspection assigned to ARO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.993
+20767081,Sweeping not done in Sarvagna Nagar Field inspection assigned to JHI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20765357,Ekhata - name correction in Herohalli cleared,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767362,Garbage dumping in vacant sites in Singasandra Attended complaint and cleared sir,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770741,Animal Rescue - Not well - Requires attention in Herohalli Field inspection assigned to VI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770732,Ekhata Other corrections in Madiwala Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20765146,Garbage dump in Katriguppe Cle,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766727,Garbage dump in Kadugodi Not cleared yet.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20761709,Stray dog related complaints in Vijanapura No relocation of dogs can be done as per supreme court order,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766591,obstructions Branches / Trees. in Sanjay Nagar Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763823,Sweeping not done in Kottigepalya Resolved,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762433,ekhata approval pending with ARO in Singasandra ನಿಯಮಾನುಸಾರ ಕ್ರಮ ಕೈಗೊಳ್ಳಲಾಗುವುದು,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766870,Garbage dump in Kengeri Complaint clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9998
+20764418,water stagnation in K.R.Puram Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767619,Potholes in Singasandra Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767653,Stray dog related complaints in Nagapura Attended,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766918,Garbage vehicle not arrived in Jakkasandra Clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763840,Issues Related to Parks/Medians/Circles/Island. in Dr.Rajkumar Ward parks are not opened at proper timing and they close soon Complaint Cleared,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764780,Garbage transfer not as per norms & area not kept clean in Shankaramata Clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770538,Garbage dump in Hemmigepura Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762841,Garbage vehicle not arrived in Kadugondanahalli Clearing,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20761921,Removal of dead/fallen trees in Thanisandra Field inspection assigned to DYRFO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768303,Others in Moodalapalya Field inspection assigned to Customer Support Representative officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769519,Garbage dump in Chokkasandra Clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762364,Road side drains in Uttarahalli .,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762901,Dead animal(s) in Kammanahalli Field inspection assigned to JHI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768390,obstructions Branches / Trees. in Bagalagunte please give an request letter to bbmp forest department office in bagalagunte,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770920,obstructions Branches / Trees. in Basavanapura Field inspection assigned to DYRFO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767267,Animal birth control/neutering of stray dogs in Uttarahalli Field inspection assigned to VI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762616,Road cutting in Padmanabha Nagar Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764945,Footpath in Katriguppe Major road,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767427,Sweeping not done in Domlur Field inspection assigned to JHI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771105,Garbage dump in Rajarajeshwari Nagar Field inspection assigned to Marshal officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764036,Garbage dump in Muneshwara Nagar Male,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771662,Potholes in Bilekahalli Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763557,obstructions Branches / Trees. in Arakere Resolved,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767304,new Khata / Ekhata registration / creation in Varthur as inform to you the details already forward to concern case worker plz wait they will do,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771531,Issues Related to Parks/Medians/Circles/Island. in Someshwara Field inspection assigned to HS officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771071,Flex and banners in Banashankari Temple Ward Removed,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764127,Garbage vehicle not arrived in Sudam Nagar Clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764933,Road Infrastructure in H.M.T Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763087,water stagnation in Ramamurthy Nagar Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770858,Garbage dumping in vacant sites in Jayamahal Field inspection assigned to Marshal officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766067,"Removal of dead/fallen trees in Bilekahalli Please submit application to BBMP, Forest Department",General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770298,Garbage vehicle not arrived in Kuvempu Nagar Field inspection assigned to Marshal officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766887,Garbage dump in Gangenahalli Clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762467,Dead animal(s) in Vignana Nagar Cleared,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762907,Garbage dump in Giri Nagar Clear sir,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769473,obstructions Branches / Trees. in Visvesvarapuram Field inspection assigned to DYRFO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769532,Road side drains in Vasanthapura .,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769737,Other Khata / ekhata issues in Horamavu Field inspection assigned to ARO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9997
+20762383,Debris Removal / Construction Material in Newthippasandra Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771401,Burning of Garbage in Open Space in Kengeri Field inspection assigned to Marshal officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9998
+20767471,Ekhata missing in online in Gottigere Kindly visit ARO office with the Relevant Documents,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766965,"obstructions Branches / Trees. in Malleshwaram Please contact Area Supervisor, Suresh-[PHONE]",General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767084,Other Khata / ekhata issues in HSR Layout Field inspection assigned to ARO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9997
+20766215,Animal Rescue - Not well - Requires attention in Kaveripura Closed,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767143,Potholes in Hoodi its clear soon,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769581,shifting of the street dogs to other places in Devasandra Field inspection assigned to VI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762887,"Other Khata / ekhata issues in Kengeri We have sent from our office to whitelist the katha book, please wait for some time Please check that the application you have submitted is now CITIZEN SUBMISSIO",General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762848,Removal of dead/fallen trees in Pattabhiram Nagar Resolved,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764114,Stray dog related complaints in Bagalagunte attended,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766931,Ekhata Other corrections in Gottigere Correction Done and pending for Approval in RO Login Shortly it will Approve,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770910,Potholes in Hebbal Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767520,Garbage thrown in storm water drain in Hemmigepura Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770739,Road Infrastructure in Kengeri Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9983
+20764853,obstructions Branches / Trees. in Bagalagunte please upload a picture,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767519,ekhata approval pending with ARO in Doddanekkundi Field inspection assigned to ARO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9985
+20768671,Ekhata missing in online in Govindraja Nagara Field inspection assigned to ARO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9983
+20768607,Road side drains in Konena Agrahara Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770180,Overhanging cables in Subramanya Nagar Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9999
+20763447,Road Infrastructure in Hoodi Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771164,Removal of dead/fallen trees in Hanumantha Nagar Field inspection assigned to DYRFO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764423,Debris Removal / Construction Material in Bellandur Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767650,Animal Rescue - Not well - Requires attention in Dodda Bidarkallu Dog's cought for animals birth control operation and vaccination,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769686,Garbage dump in Konanakunte Forwarded Task,General Consumer Services,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9989
+20765299,"UnAuthorised Constructions in Hagadooru Forwarded Task Shivakuntamma Temple road,",General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764793,Road side drains in Manorayanapalya Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768047,Burning of Garbage in Open Space in Vignana Nagar Clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771125,"Khata Services (Registration, Transfer, Bifurcation and Amalgamation) in Jnanabharathi Ward ಅರ್ಜಿದಾರರಿಗೆ ದೂರವಾಣಿ ಮುಖಾಂತರ ಸದರಿ ಸ್ವತ್ತಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ದಿನಾಂಕ:-07-01-2025ರ ಸುತ್ತೋಲೆಯಂತೆ ಹೊಸ ಆಸ್ತಿ ಅರ್ಜಿ ಸಲ",General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20765997,Stray/Rabid dog bite in Jnanabharathi Ward Attended,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762150,Others in Aramane Nagar Forwarded Task to Major Roads,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762544,"new Khata / Ekhata registration / creation in Horamavu EPID NO.2487950477 IS REJECTED, APPLY ONEMORE",General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764693,Garbage dump in Shankaramata Clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762436,Road side drains in Shivaji Nagar Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769327,Stray/Rabid dog bite in Vannarpet Field inspection assigned to VI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770045,obstructions Branches / Trees. in Marenahalli Field inspection assigned to DYRFO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762572,Technical Issue In Ekhata in Jakkur The issue is related to the Kaveri. We have apprised the issue with the Kaveri support team. They are working on this issue. Once the issue is resolved will update ,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9999
+20761781,Air/Noise pollution in Azad Nagar Court stay order is there about this trade. Complaint is under progress,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9999
+20771632,Sewerage water left in SWD in Vidyaranyapura Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768800,"Garbage dump in Benniganahalli Garbage is clear, big branches r there",General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764702,Garbage dump in Rajamahal Complaint clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768430,Garbage dump in Nagavara Clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768799,Garbage dump in A.Narayanapura Field inspection assigned to Marshal officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762006,obstructions Branches / Trees. in Vasanthapura Resolved,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766057,Garbage vehicle not arrived in Chowdeshwari Ward Complaint cleared,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762510,Animal Death Need cremartion support in Kacharakanahalli Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764628,Garbage dump in Maruthi Seva Nagar Complent is clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764920,Unsafe Hoardings in H.M.T .,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9999
+20763311,Garbage vehicle not arrived in Bellandur Address not mentioned,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767336,Animal birth control/neutering of stray dogs in HBR Layout Dogs caught for ABC,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768069,Pet dog licence in Banashankari Temple Ward Complaint Attended,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9996
+20767208,Potholes in Hoysala Nagar Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766510,Food Quality in Doddabommasandra Field inspection assigned to SHI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771641,obstructions Branches / Trees. in Anjanapur Field inspection assigned to RFO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769721,Air/Noise pollution in Mallasandra Field inspection assigned to SHI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766835,Garbage vehicle not arrived in Jalahalli Resolved,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20765766,Sewerage water left in SWD in Hemmigepura Forwarded Task It is not possible to clear the garbage in this area because there is sewage water. We will clear it after the sewage water stops.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770088,Footpath in Mahalakshmipuram Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764256,Road side drains in Marathalli Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769886,UnAuthorised Constructions in Chokkasandra Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770330,Stray dog related complaints in Shiva Nagar Field inspection assigned to VI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770548,Garbage dump in Jnanabharathi Ward It is not cleaned,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768290,Garbage vehicle not arrived in Hoysala Nagar Garbage cleared sir,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764390,Garbage dump in Basavanapura This spot,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767082,Garbage dump in Ganga Nagar Closed,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769022,Garbage dump in Anjanapur Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768165,Garbage vehicle not arrived in K.R.Market Field inspection assigned to Marshal officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20765145,Garbage dump in H.M.T Compliant clear informed to customer Sir,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763827,Potholes in Attiguppe NO ACTION. BLINDLY CLOSED.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768384,Debris Removal / Construction Material in HAL Airport CLOSE,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767537,Issues related Snakes/Birds/Monkeys in Kottigepalya Field inspection assigned to DYRFO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769591,Feeder Harassment by Association / Gated Community in Jakkur Field inspection assigned to VI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763396,Garbage vehicle not arrived in Benniganahalli Irresponsible perons in your campus,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763363,Garbage vehicle not arrived in BTM Layout Cleared,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770619,Issues Related to Parks/Medians/Circles/Island. in Hagadooru Field inspection assigned to HS officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768219,Removal of dead/fallen trees in Kodigehalli Field inspection assigned to DYRFO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770586,Garbage vehicle not arrived in Kavalbyrasandra Resolved,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762554,Garbage dumping in vacant sites in Konanakunte Clear,General Consumer Services,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,1.0
+20770998,Garbage dump in Devarajeevanahalli Field inspection assigned to Marshal officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767659,"Garbage dump in Benniganahalli Public tried to complaint registed will done or not , Public Said to close the compalint",General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770362,Garbage dump in Vidyapeetha This block auto repair Tommorow will be cleard,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762732,Sweeping not done in Rajamahal ಕ್ಲಿಯರ್,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771525,Garbage dump in Visvesvarapuram Field inspection assigned to Marshal officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771361,Animal Rescue - Not well - Requires attention in HAL Airport Field inspection assigned to VI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764825,Others in Vijay Nagar Field inspection assigned to Customer Support Representative officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762427,footpath encroachment in Bommanahalli Cars are still there,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764816,Complaint against SW collector/ SWM official for violation of SWM Rules in Garudacharpalya Clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20765689,footpath encroachment in Muneshwara Nagar Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770905,Dead animal(s) in Hampi Nagar Field inspection assigned to JHI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771117,"Khata Services (Registration, Transfer, Bifurcation and Amalgamation) in Uttarahalli THIS COMPLAINAT DOES NOT BELONGS TO ARO VIDYARANYAPURA SUB DIVISION. PLEASE APPLY CONCERNED OFFICE.",General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766304,Complaint against SW collector/ SWM official for violation of SWM Rules in Lingarajapuram Resolved,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763187,footpath encroachment in Basaveshwara Nagar Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20761980,Gym/Children Play equipment in the parks in Kumaraswamy Layout resolved complaint,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767686,Maintenance of SWD in Vidyaranyapura Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20765925,Cleanliness of Canteen /Food Area in Hebbal Inform to concern person,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768900,Garbage dump in Govindraja Nagara Field inspection assigned to Marshal officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20761687,Road Infrastructure in Chamrajpet Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768194,Fatally injured - Needs immediate attention in J.P.Park Referred to rescue team,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770697,shifting of the street dogs to other places in Begur Field inspection assigned to VI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768292,Road cutting in Bommanahalli Field inspection assigned to Customer Support Representative officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763786,Debris Removal / Construction Material in Hanumantha Nagar Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770600,Garbage dump in Giri Nagar Clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766525,Garbage dumping in vacant sites in Kavalbyrasandra Resolved,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771314,Road side drains in Jnanabharathi Ward Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771644,Garbage dump in Padmanabha Nagar Field inspection assigned to Marshal officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769100,Air/Noise pollution in Ganga Nagar Field inspection assigned to SHI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771249,Garbage dump in Hoodi Field inspection assigned to Marshal officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769405,Garbage dump in Banaswadi Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771182,Garbage nuisance while transporting in Bilekahalli Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20765528,Removal of dead/fallen trees in C.V.Raman Nagar 63614 30192,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769284,Garbage vehicle not arrived in Manorayanapalya Cleared,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762997,Debris Removal / Construction Material in Kottigepalya Cleared,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767992,Road cutting in Kodigehalli Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763964,Garbage dump in Jagajeevanram Nagar Cleared,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770597,UnAuthorised Constructions in BTM Layout Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767886,Road side drains in Horamavu Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20765115,Garbage dump in Gurappanapalya It's clear....,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770149,Garbage dump in Konanakunte Field inspection assigned to Marshal officer.,General Consumer Services,Billing and Payment,INDIAN_OPENCITY_BBMP,1.0
+20770166,Garbage dumping in vacant sites in Nayandanahalli Field inspection assigned to Marshal officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20761721,Garbage vehicle not arrived in Vannarpet Complaint clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767348,Garbage dumping in vacant sites in Hoodi Field inspection assigned to Marshal officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763763,Garbage dumping in vacant sites in Rajagopala Nagar Complaint cleared,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767169,Stagnation of water on road/ Water logging in Jayanagar East Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20765456,Garbage dumping in vacant sites in Jaraganahalli Complaint clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763180,Animal Rescue - Not well - Requires attention in Chokkasandra attended,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771593,water stagnation in Lakkasandra Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769418,Complaint against SW collector/ SWM official for violation of SWM Rules in Hemmigepura Field inspection assigned to Marshal officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770635,Garbage dump in Vijay Nagar Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20765170,Garbage vehicle not arrived in Banashankari Temple Ward Clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770521,Road Infrastructure in Byrasandra Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768270,ekhata approval pending with ARO in Varthur APPLICATION SUBMITTED AND THE APPLICATION IS WITH CW he will be clear as soon as possible,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769824,ekhata approval pending with ARO in Kadugodi Field inspection assigned to ARO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9955
+20763253,"Removal of dead/fallen trees in Kamakshipalya Please contact Area Supervisor, Maruth-[PHONE]",General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770155,footpath encroachment in Lakkasandra Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769808,Garbage dumping in vacant sites in Hongasandra Field inspection assigned to Marshal officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20761864,Garbage dump in Gurappanapalya Clear....,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768426,Debris Removal / Construction Material in Chikpete Resolved,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764970,"Garbage dump in Benniganahalli This address not found in this ward, public not responding call",General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768184,Road cutting in Kammanahalli Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767480,Ekhata Other corrections in Gali Anjaneya Swamy Temple Ward Field inspection assigned to ARO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9855
+20768864,Dengue positive in Doddanekkundi Field inspection assigned to SHI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766626,Animal Rescue - Not well - Requires attention in Lakkasandra Sir Please contact stray dog rescue team officer Dr Shrinath Assistant Director mb [PHONE],General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766659,footpath encroachment in Benniganahalli Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762499,Garbage vehicle not arrived in Sri Rammandira Cleared sir,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768869,Dengue positive in A.Narayanapura Field inspection assigned to SHI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767077,Footpath in Basavanagudi Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769814,Removal of dead/fallen trees in Malleshwaram Field inspection assigned to DYRFO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770783,Animal Cruelty/Ill-Treated / Abused in Hoodi Field inspection assigned to VI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763779,Garbage dump in Siddapura Secondary point,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769297,Sweeping not done in Rajarajeshwari Nagar Field inspection assigned to JHI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763717,Garbage dump in Gayathri Nagar Complaint resolved,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9999
+20763115,Garbage dump in Hemmigepura Daily dumping happening. Please deploy marshals to prevent dumping,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762319,"Gym/Children Play equipment in the parks in Jayachamarajendra Nagar This Grievance is Comes Under EE Project, East Zone.",General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9999
+20770550,Debris Removal / Construction Material in Lakkasandra Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762818,Issues Related to Parks/Medians/Circles/Island. in Shanthala Nagar Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767748,Garbage dump in Bilekahalli Black spot Daily clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768014,Garbage dump in Kadugodi Panchayat limit,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763517,Noise during Building Construction in Basavanagudi Field inspection assigned to ADTP officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764535,Spraying in Hampi Nagar Attended,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9992
+20766298,Gym/Children Play equipment in the parks in Kengeri Field inspection assigned to HS officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9998
+20766847,Road Infrastructure in Hoodi Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768749,Road side drains in Jeevanbhima Nagar Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767118,Garbage dump in Koramangala Clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768757,Garbage dump in S.K.Garden Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770498,Sweeping not done in Anjanapur Field inspection assigned to JHI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20765104,Garbage vehicle not arrived in Gali Anjaneya Swamy Temple Ward Clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768288,Ekhata Area Correction in Arakere pls submit application for any correction,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768502,Road side drains in Garudacharpalya Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770486,Garbage dump in Dharmarayaswamy Temple Ward Clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764905,Sweeping not done in Vignana Nagar Close,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771678,Animal Rescue - Not well - Requires attention in Singasandra Field inspection assigned to VI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20765144,obstructions Branches / Trees. in Jayachamarajendra Nagar +91 90354 49535,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763595,Other Khata / ekhata issues in Hoodi Clarification given and closed,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767395,Other Khata / ekhata issues in Yelachenahalli pls contact ro office,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769448,ekhata approval pending with ARO in Ramamurthy Nagar Field inspection assigned to ARO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9957
+20766789,Fatally injured - Needs immediate attention in Nagapura Visit the spot ut dog not found,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767847,Debris Removal / Construction Material in Sudduguntepalya Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769548,footpath encroachment in BTM Layout Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764399,Fatally injured - Needs immediate attention in Peenya Industrial Area attended,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20765816,Removal of dead/fallen trees in Begur Resolved,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770140,Others in Vignana Nagar Field inspection assigned to Customer Support Representative officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768564,Garbage dump in Hampi Nagar Clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764385,water stagnation in Jakkur This compliant comes under Major roads,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762525,Garbage dumping in vacant sites in Aramane Nagar Clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20765178,Potholes in Bellandur Estimate done and sent for approval work will start at the earliest,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766871,Other Khata / ekhata issues in Uttarahalli this property belongs aro uttarahalli,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9975
+20765825,Public dustbins not cleaned in Bapuji Nagar Cleared,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770892,Removal of dead/fallen trees in Kadugondanahalli Field inspection assigned to DYRFO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762158,Garbage vehicle not arrived in Basavanapura This not bbmp,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771040,Garbage vehicle not arrived in Anjanapur Field inspection assigned to Marshal officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764694,Potholes in Konanakunte Completed,General Consumer Services,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,1.0
+20762403,Garbage transfer not as per norms & area not kept clean in Sunkenahalli Cleared,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770680,Garbage vehicle not arrived in Hemmigepura Complaint clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770634,Road Infrastructure in Bellandur Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771189,Ekhata missing in online in Sarakki Field inspection assigned to ARO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9983
+20765926,Garbage vehicle not arrived in A.Narayanapura Attended,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769849,Maintenance of SWD in Byatarayanapura Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764538,water stagnation in Jayangar Cleavage,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768464,Garbage dumping in vacant sites in Gottigere Complaint cleared,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769872,ekhata approval pending with ARO in Gurappanapalya Field inspection assigned to ARO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9937
+20769411,Fatally injured - Needs immediate attention in Basavanapura Field inspection assigned to VI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20765214,Without permission digging of road in J.P.Park Field inspection assigned to AEE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9999
+20766597,Garbage dump in Cottonpet Gurbeg cleard sir,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767425,Increase in mosquito density in Domlur Attended,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763810,"Garbage dump in Vasanthapura No action taken, Garbage heap remains. Casual approach from the marshall.",General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764881,Dead animal(s) in Hemmigepura No remarks,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770306,Potholes in Laggere Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768240,obstructions Branches / Trees. in Horamavu Field inspection assigned to DYRFO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763877,Potholes in Kengeri Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769364,"Removal of dead/fallen trees in Yelachenahalli Please submit application to BBMP, Forest Department",General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769104,Debris Removal / Construction Material in Begur Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762576,Complaint against SW collector/ SWM official for violation of SWM Rules in Vasanth Nagar Revenue department,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769481,Footpath in H.M.T Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769840,Stray/Rabid dog bite in Nagapura Field inspection assigned to VI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770001,Stray dog related complaints in Doddabommasandra Field inspection assigned to VI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20765174,Garbage dump in Benniganahalli Complaint resolved sir,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769696,Garbage transfer not as per norms & area not kept clean in Basavanagudi Clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764361,water stagnation in Jakkasandra Clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766227,Sweeping not done in Rajarajeshwari Nagar Resolved,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766431,Debris Removal / Construction Material in Basaveshwara Nagar Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763807,Debris Removal / Construction Material in Someshwara Field inspection assigned to Customer Support Representative officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766329,"Removal of dead/fallen trees in Mahalakshmipuram Please contact Area Supervisor, Naga-[PHONE]",General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771136,Garbage dump in Singasandra Field inspection assigned to Marshal officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769372,Garbage dump in Newthippasandra Cleared,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767347,Sweeping not done in Siddapura Field inspection assigned to JHI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771588,Road side drains in Sarvagna Nagar Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771571,Maintenance of SWD in Uttarahalli Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9999
+20762929,Road side drains in Jnanabharathi Ward aa,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771356,Dead animal(s) in Hoodi Field inspection assigned to JHI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764734,Stray/Rabid dog bite in A.Narayanapura Complaint attended,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771277,Animal Rescue - Not well - Requires attention in Yelachenahalli Field inspection assigned to VI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762673,Garbage vehicle not arrived in Yelachenahalli Clered,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20765422,obstructions Branches / Trees. in Basavanagudi Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770664,Fatally injured - Needs immediate attention in Shanthi Nagar Field inspection assigned to VI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764684,Footpath in Jayanagar East Kindly upload photo,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769604,"obstructions Branches / Trees. in Konanakunte Please submit application to BBMP, Forest Department",General Consumer Services,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9988
+20762310,Issues Related to Parks/Medians/Circles/Island. in Kottigepalya Field inspection assigned to HS officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762562,Garbage dump in Azad Nagar Complaints Clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770018,obstructions Branches / Trees. in Ganga Nagar Field inspection assigned to DYRFO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764135,Road side drains in Sudam Nagar Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768681,footpath encroachment in Mangammanapalya Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766296,Removal of dead/fallen trees in Kavalbyrasandra Field inspection assigned to DYRFO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771320,Footpath in Newthippasandra Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9998
+20769226,Potholes in Basavanapura Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769306,obstructions Branches / Trees. in Hebbal Field inspection assigned to DYRFO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771104,Anti Rabies Vaccination of stray dogs in Newthippasandra ARV drive is being conducted every year in all the wards of Bbmp on rotation basis. ARV drive will be conducted in this respective ward on its ,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20765454,Garbage dump in H.M.T Compliant clear Sir this complaint under ward no 15,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768411,Garbage vehicle not arrived in Kumaraswamy Layout Clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762658,Road cutting in Azad Nagar Field inspection assigned to Customer Support Representative officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766585,obstructions Branches / Trees. in Sanjay Nagar Field inspection assigned to DYRFO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763358,Road cutting in Dodda Bidarkallu Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9999
+20768266,Garbage dump in Thanisandra Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767397,Road cutting in Hanumantha Nagar Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770329,Maintenance of SWD in Bapuji Nagar Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762285,Garbage vehicle not arrived in Jakkasandra Garbage cleared,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770908,"Khata Services (Registration, Transfer, Bifurcation and Amalgamation) in Sampangiram Nagar Field inspection assigned to ARO officer.",General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9998
+20765134,Garbage dump in Giri Nagar Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768960,Garbage dump in Ulsoor Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766116,"Animal Rescue - Not well - Requires attention in Konena Agrahara As you said that the dog was rescued by the public, your complaint is closed on your consent.",General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771229,obstructions Branches / Trees. in Ullalu Field inspection assigned to DYRFO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766259,Others in Newthippasandra Field inspection assigned to Customer Support Representative officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762883,water stagnation in Hongasandra Solved,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766607,Anti Rabies Vaccination of stray dogs in Vannarpet Field inspection assigned to VI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762831,Fatally injured - Needs immediate attention in Dodda Bidarkallu Dog's cought for animals birth control and vaccination,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762941,Garbage dump in Byatarayanapura Complaint attend resolved,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766041,Spraying in Pattabhiram Nagar Field inspection assigned to SHI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770607,Garbage vehicle not arrived in Kottigepalya Cleared,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764432,Garbage dumping in vacant sites in Doddanekkundi Close,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763737,Garbage dump in Puttenahalli Sir inform to arakeyray ward revenue office to give notice to land owner,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20765294,Animal birth control/neutering of stray dogs in Jakkur STRICTLY NO RELOCATION OF DOGS IT'S AGAINST THE RULE.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20766072,Road Infrastructure in J.P.Nagar Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767080,Garbage dumping in vacant sites in Ganga Nagar Cleared,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769956,Debris Removal / Construction Material in Varthur Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763777,Garbage dump in Marappana Palya Clera,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9999
+20770900,obstructions Branches / Trees. in Doddanekkundi Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770575,Animal birth control/neutering of stray dogs in Jakkur Field inspection assigned to VI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20761761,Animal Cruelty/Relocated in Dayananda Nagar Attended,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9999
+20771372,obstructions Branches / Trees. in Vidyapeetha Field inspection assigned to DYRFO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770937,Garbage nuisance while transporting in Arakere Field inspection assigned to Marshal officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20765298,Stray/Rabid dog bite in Doddanekkundi Complaint attended,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768807,Stray dog related complaints in Kadugondanahalli Your request for relocation of stray dogs is a punishable Offense under law. So Relocation cannot be done.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767308,Garbage dump in Malleshwaram Clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764551,Garbage dumping in vacant sites in Ullalu Clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767049,Road side drains in Singasandra Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768334,Potholes in Nayandanahalli Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769994,Food Quality in Hegganahalli Field inspection assigned to SHI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769495,Animal Rescue - Not well - Requires attention in Kodigehalli Field inspection assigned to VI officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770121,Gym/Children Play equipment in the parks in Madiwala Field inspection assigned to HS officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764225,Garbage dump in Aramane Nagar Fals complete,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768500,Removal of dead/fallen trees in Jeevanbhima Nagar Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762075,obstructions Branches / Trees. in Konanakunte Please submit application to Forest Department,General Consumer Services,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9997
+20768928,Potholes in Marathalli Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767969,Others in Sudduguntepalya Field inspection assigned to Customer Support Representative officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764731,footpath encroachment in Sampangiram Nagar Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764508,Garbage dump in Jayamahal All garbage clared,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762842,Road cutting in Begur Action initiated,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762134,Debris Removal / Construction Material in BTM Layout Attended,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762157,Burning of Garbage in Open Space in Jnanabharathi Ward Clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20767073,Dengue positive in BTM Layout Forwarded Task,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768815,obstructions Branches / Trees. in Sri Nagar Field inspection assigned to DYRFO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762774,Dead animal(s) in Mathikere Closed,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20768335,Garbage vehicle not arrived in Hoodi Vehicle arrived in the area and cleared,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771628,Garbage dump in Horamavu Field inspection assigned to Marshal officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770457,Road Infrastructure in Bellandur Field inspection assigned to AE officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20769779,Other Khata / ekhata issues in Begur Field inspection assigned to ARO officer.,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,0.9994
+20762948,Garbage dump in Vasanth Nagar Daily cleared garbage,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770429,Garbage vehicle not arrived in Bagalagunte Clear,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20763547,Ekhata - name correction in Hoodi CORRECTION DONE & CLOSED,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764609,Issues Related to Parks/Medians/Circles/Island. in Mathikere Complaints on bbmp park timings Cleared,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20764882,Segregation of waste is not done in Doddanekkundi Attended,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20765273,"Removal of dead/fallen trees in Kamakshipalya Please contact Area Supervisor, Maruthi-[PHONE]",General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20770463,Garbage dump in Yelachenahalli Cleared,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20762060,Garbage vehicle not arrived in Singasandra Attended complaint and cleared sir,General Consumer Services,General Consumer Services,INDIAN_OPENCITY_BBMP,1.0
+20771006,Earthing Issue relate to Electric Poles/Panel Boards in Vishwanathnagenahalli Wrong complaint,Pole / Wire / Electrical Hazard,Pole / Wire / Electrical Hazard,INDIAN_OPENCITY_BBMP,1.0
+20763566,Earthing Issue relate to Electric Poles/Panel Boards in Banashankari Temple Ward ATTENDED,Pole / Wire / Electrical Hazard,Pole / Wire / Electrical Hazard,INDIAN_OPENCITY_BBMP,1.0
+20770203,Park Lights Not Working in Chokkasandra Field inspection assigned to AE officer.,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9157
+20764654,Street Light Not Working in Sudam Nagar Attended,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9921
+20771618,Street Light Not Working in Kempegowda Ward Field inspection assigned to JE officer.,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9998
+20765973,Street Light Not Working in Hegganahalli Attended,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9947
+20771630,Street Light Not Working in Newthippasandra Field inspection assigned to AE officer.,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9989
+20767911,Street Light Not Working in Vidyapeetha ATTENDED,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9996
+20771516,Street Light Not Working in Vignana Nagar Field inspection assigned to AE officer.,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9773
+20767443,Street Light Not Working in Ramamurthy Nagar Difficult to find the adress pick up the phone call,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.5222
+20762348,"Street Light Not Working in Kumaraswamy Layout This complaint belong to old ward no 184. Bommanahalli zone, informed to concerned engineer thank you",Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.5158
+20765739,Street Light Not Working in Shankaramata Complaint attended,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9948
+20767665,Street Light Not Working in Laggere Attended,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9997
+20766642,Street Light Not Working in Thanisandra This is Budgetary work. New fitting will be provided on priority as and when available,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9768
+20767367,Street Light Not Working in Arakere Atteded,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9988
+20763001,Street Light Not Working in Sunkenahalli Belong to west zone. thank you,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.8809
+20768429,Open Electrical Junction Box in Hebbal Field inspection assigned to AE officer.,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.817
+20767932,Street Light Not Working in Shettyhalli Panchayat limit,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.7633
+20771461,Street Light Not Working in Nagapura Field inspection assigned to AE officer.,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.986
+20769398,Street Light Not Working in Devasandra Field inspection assigned to AE officer.,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9741
+20767718,Requirement For New Street Lights in Bilekahalli Field inspection assigned to JE officer.,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,1.0
+20763658,Street Light Not Working in Gottigere Attended,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9996
+20767824,Street Light Not Working in Dayananda Nagar Field inspection assigned to JE officer.,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9999
+20770564,Street Lights Switched On During Day Time in Hosahalli attended,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9987
+20768917,Street Light Not Working in Sarvagna Nagar Field inspection assigned to AE officer.,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9595
+20762412,Street Light Not Working in Hoysala Nagar Required for new fitting,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9929
+20764549,Street Light Not Working in Deepanjali Nagar Yeshwanth singh Complainant Mobile [PHONE] Grievance Details Grievance No. 20766825 Zone Name South Ward Name/Ward No. Bapuji Nagar/134 Category Electrical,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9973
+20767821,Street Light Not Working in Dodda Bidarkallu The complainant given number is not reachable,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,1.0
+20764642,"Street Light Not Working in Dodda Bidarkallu Outbof BBMP limit, Madanyknhalli",Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9977
+20769834,Street Light Not Working in Konena Agrahara Field inspection assigned to AE officer.,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.957
+20765652,Street Light Not Working in Nandini Layout Complaint attended,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9884
+20767684,Street Light Not Working in Kadugodi Attended,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.996
+20769173,Street Light Not Working in Puttenahalli Atteded,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9995
+20771505,Street Light Not Working in Kavalbyrasandra Field inspection assigned to AE officer.,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9879
+20765642,Street Light Not Working in Rajarajeshwari Nagar The same street lights are not working today. Please provide permanent solution,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9677
+20761871,Street Light Not Working in Laggere Resolved,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9995
+20765190,Requirement For New Street Lights in Hemmigepura This complaint belongs to BDA kindly contact them,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9972
+20761923,Street Light Not Working in Hoysala Nagar Issue not yet solved,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9514
+20764560,Street Light Not Working in Yelachenahalli Attended,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9996
+20765708,Street Light Not Working in Byrasandra attended,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9996
+20768353,Street Light Not Working in S.K.Garden Field inspection assigned to AE officer.,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9838
+20763155,Street Light Not Working in Binnipet Complaint Attended,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9993
+20770958,Street Light Not Working in Uttarahalli Forwarded Task,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9994
+20764545,Street Light Not Working in Chikpete Complaint Attended,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9996
+20770676,Street Light Not Working in Uttarahalli Atteded,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,1.0
+20764133,Street Lights Switched On During Day Time in Horamavu Attended,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9965
+20767025,Requirement For New Street Lights in Kengeri Complainant is asking new street light will be provided on priority when the stock is available,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9991
+20763209,Street Light Not Working in Rajarajeshwari Nagar Resolved,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9842
+20766863,Street Light Not Working in Devarajeevanahalli Resolved,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9991
+20770729,Street Light Not Working in Herohalli Attended,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9997
+20771631,Street Light Not Working in Hosahalli Field inspection assigned to AE officer.,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9875
+20763694,Street Light Not Working in Hanumantha Nagar attended,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9941
+20770286,Requirement For New Street Lights in Jnanabharathi Ward Field inspection assigned to JE officer.,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,1.0
+20768693,Street Light Not Working in Shettyhalli Attended,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9965
+20765543,Street Light Not Working in Ullalu Resolved,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9999
+20766402,Street Light Not Working in Kempapura Agrahara Attended,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9857
+20771550,Requirement For New Street Lights in Hemmigepura Field inspection assigned to JE officer.,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,1.0
+20763974,Street Light Not Working in Karisandra Attended,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9993
+20768361,Street Light Not Working in Peenya Industrial Area Attended,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9821
+20764103,Requirement For New Street Lights in Hoysala Nagar Required for new fitting,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9929
+20767854,Street Light Not Working in Kammanahalli Cleared,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9981
+20765520,Street Light Not Working in Jnanabharathi Ward Not resolved. Electric pole identification number is visible in the attached picture.,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9974
+20771624,Street Light Not Working in Mahalakshmipuram Field inspection assigned to AE officer.,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.982
+20771623,Street Light Not Working in Hagadooru Field inspection assigned to AE officer.,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9581
+20764100,Street Light Not Working in Byatarayanapura This is Budgetary work. New fitting will be provided on priority as and when available,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9704
+20770334,Street Light Not Working in Shakambari Nagar Field inspection assigned to AE officer.,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9849
+20770450,Street Light Not Working in Anjanapur This Complaint belongs to south zone,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9847
+20770411,Street Light Not Working in Giri Nagar attended,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9973
+20771515,Street Light Not Working in Yadiyuru Field inspection assigned to AE officer.,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9776
+20767927,Street Light Not Working in Rajarajeshwari Nagar The complainant is not answering the call,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9141
+20771535,Street Light Not Working in Vijay Nagar Field inspection assigned to AE officer.,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9784
+20770316,Street Light Not Working in Hampi Nagar Field inspection assigned to AE officer.,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9965
+20763259,Street Light Not Working in Maruthi Seva Nagar Attended,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.985
+20763002,Street Light Not Working in Herohalli Resolved,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9995
+20766511,Street Light Not Working in Herohalli The complainant is asking new street light will be provided on priority when the stock is available,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9934
+20767701,Street Light Not Working in Herohalli Complainant is asking new street light will be provided on priority when the stock is available,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9852
+20761929,Street Light Not Working in Gandhi Nagar Complaint Attended,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.989
+20763743,Street Light Not Working in Sudam Nagar belong to East Zone,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.8944
+20761972,Street Light Not Working in Lakkasandra Attended,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9994
+20763893,Street Light Not Working in Ganga Nagar New light fitting has to be fix to this pole has CCMS project is under progress we have taken your request we will fix new LED light once tender works starts as,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9532
+20771261,Street Light Not Working in Vasanthapura Field inspection assigned to JE officer.,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,1.0
+20765691,Street Light Not Working in Bapuji Nagar belong to west zone,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9363
+20771643,Street Light Not Working in Herohalli Field inspection assigned to JE officer.,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,1.0
+20769773,Street Light Not Working in Radhakrishna Temple Field inspection assigned to AE officer.,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9365
+20770436,Street Light Not Working in Padmanabha Nagar attended,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9966
+20770240,Street Light Not Working in J.P.Park Field inspection assigned to JE officer.,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,1.0
+20764915,Street Lights Switched On During Day Time in Lingarajapuram Cleared,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9959
+20768497,Street Light Not Working in Kempegowda Ward Resolved,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9634
+20769496,Street Light Not Working in Sampangiram Nagar Field inspection assigned to AE officer.,Street/Public Electrical Infrastructure,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9867

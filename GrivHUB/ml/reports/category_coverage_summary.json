@@ -1,0 +1,94 @@
+{
+  "coverage_by_category": [
+    {
+      "target_category": "Water Supply",
+      "indian_direct": 4,
+      "indian_possible": 0,
+      "indian_total": 4,
+      "nyc_direct": 808,
+      "nyc_possible": 47,
+      "nyc_total": 855,
+      "total_usable_records": 859,
+      "coverage_level": "Moderate"
+    },
+    {
+      "target_category": "Roads and Infrastructure",
+      "indian_direct": 844,
+      "indian_possible": 266,
+      "indian_total": 1110,
+      "nyc_direct": 1707,
+      "nyc_possible": 0,
+      "nyc_total": 1707,
+      "total_usable_records": 2817,
+      "coverage_level": "Strong"
+    },
+    {
+      "target_category": "Sanitation and Waste Management",
+      "indian_direct": 4040,
+      "indian_possible": 71,
+      "indian_total": 4111,
+      "nyc_direct": 1987,
+      "nyc_possible": 0,
+      "nyc_total": 1987,
+      "total_usable_records": 6098,
+      "coverage_level": "Strong"
+    },
+    {
+      "target_category": "Drainage and Sewage",
+      "indian_direct": 96,
+      "indian_possible": 0,
+      "indian_total": 96,
+      "nyc_direct": 366,
+      "nyc_possible": 0,
+      "nyc_total": 366,
+      "total_usable_records": 462,
+      "coverage_level": "Moderate"
+    },
+    {
+      "target_category": "Street Lighting and Electrical Infrastructure",
+      "indian_direct": 2626,
+      "indian_possible": 6,
+      "indian_total": 2632,
+      "nyc_direct": 507,
+      "nyc_possible": 0,
+      "nyc_total": 507,
+      "total_usable_records": 3139,
+      "coverage_level": "Strong"
+    },
+    {
+      "target_category": "Parks and Environment",
+      "indian_direct": 654,
+      "indian_possible": 15,
+      "indian_total": 669,
+      "nyc_direct": 1224,
+      "nyc_possible": 0,
+      "nyc_total": 1224,
+      "total_usable_records": 1893,
+      "coverage_level": "Strong"
+    },
+    {
+      "target_category": "Transportation and Traffic Infrastructure",
+      "indian_direct": 0,
+      "indian_possible": 8,
+      "indian_total": 8,
+      "nyc_direct": 630,
+      "nyc_possible": 297,
+      "nyc_total": 927,
+      "total_usable_records": 935,
+      "coverage_level": "Moderate"
+    },
+    {
+      "target_category": "General Civic Services",
+      "indian_direct": 493,
+      "indian_possible": 767,
+      "indian_total": 1260,
+      "nyc_direct": 0,
+      "nyc_possible": 46,
+      "nyc_total": 46,
+      "total_usable_records": 1306,
+      "coverage_level": "Strong"
+    }
+  ],
+  "indian_excluded_records": 110,
+  "nyc_excluded_records": 2381
+}

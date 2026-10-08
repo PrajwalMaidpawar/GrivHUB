@@ -1,0 +1,42 @@
+{
+  "model_name": "TF-IDF + Linear SVM",
+  "model_type": "linear_svm",
+  "version": "1.0.0",
+  "random_state": 42,
+  "feature_extraction": {
+    "vectorizer": "TfidfVectorizer",
+    "ngram_range": [1, 2],
+    "min_df": 2,
+    "max_df": 0.85,
+    "max_features": 15000,
+    "sublinear_tf": true,
+    "norm": "l2",
+    "stop_words": "english",
+    "lowercase": true,
+    "strip_accents": "unicode"
+  },
+  "hyperparameters": {
+    "C": 1.0,
+    "loss": "squared_hinge",
+    "penalty": "l2",
+    "dual": "auto",
+    "max_iter": 2000,
+    "class_weight": "balanced",
+    "tol": 1e-4
+  },
+  "probability_calibration": {
+    "enabled": true,
+    "method": "sigmoid",
+    "cv": "prefit"
+  },
+  "target_classes": [
+    "Drainage and Sewage",
+    "General Civic Services",
+    "Parks and Environment",
+    "Roads and Infrastructure",
+    "Sanitation and Waste Management",
+    "Street Lighting and Electrical Infrastructure",
+    "Transportation and Traffic Infrastructure",
+    "Water Supply"
+  ]
+}

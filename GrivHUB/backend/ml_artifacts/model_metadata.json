@@ -1,0 +1,35 @@
+{
+  "artifact_version": "1.0.0",
+  "model_name": "GrievanceHUB Core Municipal Classifier",
+  "algorithm": "Multinomial Logistic Regression (L2 Balanced)",
+  "framework": "GrievanceHUB Sparse Python ML Engine",
+  "training_dataset_version": "1.0.0",
+  "training_date": "2026-09-09T15:53:22Z",
+  "evaluation_date": "2026-09-09T15:53:22Z",
+  "target_categories_count": 10,
+  "target_categories": [
+    "Power Outage / No Supply",
+    "Voltage Fluctuation / Low Voltage",
+    "Meter Issues",
+    "Billing and Payment",
+    "Transformer Fault",
+    "Pole / Wire / Electrical Hazard",
+    "New Connection / Service Request",
+    "Street/Public Electrical Infrastructure",
+    "Power Theft / Unauthorized Connection",
+    "General Consumer Services"
+  ],
+  "vocabulary_features": 2842,
+  "random_state": 42,
+  "test_metrics": {
+    "test_records": 643,
+    "accuracy": 0.9891,
+    "macro_precision": 0.3435,
+    "macro_recall": 0.3987,
+    "macro_f1": 0.3627,
+    "weighted_f1": 0.9895,
+    "avg_latency_ms": 0.217
+  },
+  "acceptance_status": "READY_FOR_PROJECT_INTEGRATION",
+  "confidence_threshold": 0.75
+}

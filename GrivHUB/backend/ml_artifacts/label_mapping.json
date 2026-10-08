@@ -1,0 +1,38 @@
+{
+  "classes": [
+    "Power Outage / No Supply",
+    "Voltage Fluctuation / Low Voltage",
+    "Meter Issues",
+    "Billing and Payment",
+    "Transformer Fault",
+    "Pole / Wire / Electrical Hazard",
+    "New Connection / Service Request",
+    "Street/Public Electrical Infrastructure",
+    "Power Theft / Unauthorized Connection",
+    "General Consumer Services"
+  ],
+  "label_to_idx": {
+    "Power Outage / No Supply": 0,
+    "Voltage Fluctuation / Low Voltage": 1,
+    "Meter Issues": 2,
+    "Billing and Payment": 3,
+    "Transformer Fault": 4,
+    "Pole / Wire / Electrical Hazard": 5,
+    "New Connection / Service Request": 6,
+    "Street/Public Electrical Infrastructure": 7,
+    "Power Theft / Unauthorized Connection": 8,
+    "General Consumer Services": 9
+  },
+  "idx_to_label": {
+    "0": "Power Outage / No Supply",
+    "1": "Voltage Fluctuation / Low Voltage",
+    "2": "Meter Issues",
+    "3": "Billing and Payment",
+    "4": "Transformer Fault",
+    "5": "Pole / Wire / Electrical Hazard",
+    "6": "New Connection / Service Request",
+    "7": "Street/Public Electrical Infrastructure",
+    "8": "Power Theft / Unauthorized Connection",
+    "9": "General Consumer Services"
+  }
+}

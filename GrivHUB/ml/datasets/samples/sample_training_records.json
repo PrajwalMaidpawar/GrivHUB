@@ -1,0 +1,206 @@
+{
+  "Street/Public Electrical Infrastructure": [
+    {
+      "source_dataset": "INDIAN_OPENCITY_BBMP",
+      "source_record_id": "20771690",
+      "complaint_text": "Street Light Not Working in Jagajeevanram Nagar. Municipal field inspection assigned to JE officer.",
+      "source_category": "Electrical",
+      "source_subcategory": "Street Light Not Working",
+      "target_category": "Street/Public Electrical Infrastructure",
+      "mapping_status": "DIRECT MATCH",
+      "agency": "syed zameer/JE",
+      "location": {
+        "ward_or_borough": "Jagajeevanram Nagar",
+        "address": null,
+        "zip_code": null,
+        "latitude": null,
+        "longitude": null
+      },
+      "created_date": "2025-06-19 10:39:00.000000000",
+      "status": "Registered",
+      "record_id": "GHUB_IND_000001"
+    },
+    {
+      "source_dataset": "INDIAN_OPENCITY_BBMP",
+      "source_record_id": "20771689",
+      "complaint_text": "Street Light Not Working in Kammanahalli. Municipal field inspection assigned to AE officer.",
+      "source_category": "Electrical",
+      "source_subcategory": "Street Light Not Working",
+      "target_category": "Street/Public Electrical Infrastructure",
+      "mapping_status": "DIRECT MATCH",
+      "agency": "Vinay Kumar/AE",
+      "location": {
+        "ward_or_borough": "Kammanahalli",
+        "address": null,
+        "zip_code": null,
+        "latitude": null,
+        "longitude": null
+      },
+      "created_date": "2025-06-19 10:36:00.000000000",
+      "status": "Registered",
+      "record_id": "GHUB_IND_000002"
+    },
+    {
+      "source_dataset": "INDIAN_OPENCITY_BBMP",
+      "source_record_id": "20771687",
+      "complaint_text": "Street Light Not Working in Gandhi Nagar. Municipal field inspection assigned to JE officer.",
+      "source_category": "Electrical",
+      "source_subcategory": "Street Light Not Working",
+      "target_category": "Street/Public Electrical Infrastructure",
+      "mapping_status": "DIRECT MATCH",
+      "agency": "syed zameer/JE",
+      "location": {
+        "ward_or_borough": "Gandhi Nagar",
+        "address": null,
+        "zip_code": null,
+        "latitude": null,
+        "longitude": null
+      },
+      "created_date": "2025-06-19 10:34:00.000000000",
+      "status": "Registered",
+      "record_id": "GHUB_IND_000004"
+    },
+    {
+      "source_dataset": "INDIAN_OPENCITY_BBMP",
+      "source_record_id": "20771685",
+      "complaint_text": "Street Light Not Working in Jogupalya. Municipal field inspection assigned to AE officer.",
+      "source_category": "Electrical",
+      "source_subcategory": "Street Light Not Working",
+      "target_category": "Street/Public Electrical Infrastructure",
+      "mapping_status": "DIRECT MATCH",
+      "agency": "Durga Prasad/AE",
+      "location": {
+        "ward_or_borough": "Jogupalya",
+        "address": null,
+        "zip_code": null,
+        "latitude": null,
+        "longitude": null
+      },
+      "created_date": "2025-06-19 10:31:00.000000000",
+      "status": "Registered",
+      "record_id": "GHUB_IND_000006"
+    },
+    {
+      "source_dataset": "INDIAN_OPENCITY_BBMP",
+      "source_record_id": "20771684",
+      "complaint_text": "Street Light Not Working in Vijanapura. Municipal field inspection assigned to AE officer.",
+      "source_category": "Electrical",
+      "source_subcategory": "Street Light Not Working",
+      "target_category": "Street/Public Electrical Infrastructure",
+      "mapping_status": "DIRECT MATCH",
+      "agency": "Sachin Malagi/AE",
+      "location": {
+        "ward_or_borough": "Vijanapura",
+        "address": null,
+        "zip_code": null,
+        "latitude": null,
+        "longitude": null
+      },
+      "created_date": "2025-06-19 10:30:00.000000000",
+      "status": "Registered",
+      "record_id": "GHUB_IND_000007"
+    }
+  ],
+  "General Consumer Services": [
+    {
+      "source_dataset": "INDIAN_OPENCITY_BBMP",
+      "source_record_id": "20771688",
+      "complaint_text": "Garbage dump in Banaswadi. Municipal field inspection assigned to Marshal officer.",
+      "source_category": "Solid Waste (Garbage) Related",
+      "source_subcategory": "Garbage dump",
+      "target_category": "General Consumer Services",
+      "mapping_status": "DIRECT MATCH",
+      "agency": "Marshal Ward No 27/Marshal",
+      "location": {
+        "ward_or_borough": "Banaswadi",
+        "address": null,
+        "zip_code": null,
+        "latitude": null,
+        "longitude": null
+      },
+      "created_date": "2025-06-19 10:35:00.000000000",
+      "status": "Registered",
+      "record_id": "GHUB_IND_000003"
+    },
+    {
+      "source_dataset": "INDIAN_OPENCITY_BBMP",
+      "source_record_id": "20771686",
+      "complaint_text": "Garbage dump in Kumaraswamy Layout. Municipal field inspection assigned to Marshal officer.",
+      "source_category": "Solid Waste (Garbage) Related",
+      "source_subcategory": "Garbage dump",
+      "target_category": "General Consumer Services",
+      "mapping_status": "DIRECT MATCH",
+      "agency": "Marshal Ward No 181/Marshal",
+      "location": {
+        "ward_or_borough": "Kumaraswamy Layout",
+        "address": null,
+        "zip_code": null,
+        "latitude": null,
+        "longitude": null
+      },
+      "created_date": "2025-06-19 10:34:00.000000000",
+      "status": "Registered",
+      "record_id": "GHUB_IND_000005"
+    },
+    {
+      "source_dataset": "INDIAN_OPENCITY_BBMP",
+      "source_record_id": "20771682",
+      "complaint_text": "Garbage dump in Uttarahalli. Municipal field inspection assigned to Marshal officer.",
+      "source_category": "Solid Waste (Garbage) Related",
+      "source_subcategory": "Garbage dump",
+      "target_category": "General Consumer Services",
+      "mapping_status": "DIRECT MATCH",
+      "agency": "Marshal Ward No 184/Marshal",
+      "location": {
+        "ward_or_borough": "Uttarahalli",
+        "address": null,
+        "zip_code": null,
+        "latitude": null,
+        "longitude": null
+      },
+      "created_date": "2025-06-19 10:24:00.000000000",
+      "status": "Registered",
+      "record_id": "GHUB_IND_000009"
+    },
+    {
+      "source_dataset": "INDIAN_OPENCITY_BBMP",
+      "source_record_id": "20771679",
+      "complaint_text": "Stray dog related complaints in Shankaramata. Municipal field inspection assigned to VI officer.",
+      "source_category": "veterinary",
+      "source_subcategory": "Stray dog related complaints",
+      "target_category": "General Consumer Services",
+      "mapping_status": "DIRECT MATCH",
+      "agency": "Lokesh/VI",
+      "location": {
+        "ward_or_borough": "Shankaramata",
+        "address": null,
+        "zip_code": null,
+        "latitude": null,
+        "longitude": null
+      },
+      "created_date": "2025-06-19 10:20:00.000000000",
+      "status": "Registered",
+      "record_id": "GHUB_IND_000012"
+    },
+    {
+      "source_dataset": "INDIAN_OPENCITY_BBMP",
+      "source_record_id": "20771678",
+      "complaint_text": "Animal Rescue - Not well - Requires attention in Singasandra. Municipal field inspection assigned to VI officer.",
+      "source_category": "veterinary",
+      "source_subcategory": "Animal Rescue - Not well - Requires attention",
+      "target_category": "General Consumer Services",
+      "mapping_status": "DIRECT MATCH",
+      "agency": "Krishnaiah/VI",
+      "location": {
+        "ward_or_borough": "Singasandra",
+        "address": null,
+        "zip_code": null,
+        "latitude": null,
+        "longitude": null
+      },
+      "created_date": "2025-06-19 10:18:00.000000000",
+      "status": "Registered",
+      "record_id": "GHUB_IND_000013"
+    }
+  ]
+}

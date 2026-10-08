@@ -1,0 +1,13 @@
+{
+  "pipeline": "clean_grievance_text",
+  "ngram_range": [
+    1,
+    2
+  ],
+  "min_df": 2,
+  "max_df": 0.85,
+  "sublinear_tf": true,
+  "stop_words": "english",
+  "lowercase": true,
+  "vocabulary_size": 2842
+}

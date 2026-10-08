@@ -1,0 +1,27 @@
+{
+  "total_samples": 642,
+  "total_correct": 640,
+  "accuracy": 0.9969,
+  "macro_precision": 0.2978,
+  "macro_recall": 0.2996,
+  "macro_f1": 0.2987,
+  "weighted_precision": 0.997,
+  "weighted_recall": 0.9969,
+  "weighted_f1": 0.9969,
+  "classes": [
+    "Power Outage / No Supply",
+    "Voltage Fluctuation / Low Voltage",
+    "Meter Issues",
+    "Billing and Payment",
+    "Transformer Fault",
+    "Pole / Wire / Electrical Hazard",
+    "New Connection / Service Request",
+    "Street/Public Electrical Infrastructure",
+    "Power Theft / Unauthorized Connection",
+    "General Consumer Services"
+  ],
+  "training_time_sec": 0.3111,
+  "inference_time_sec": 0.0133,
+  "avg_inference_latency_ms": 0.021,
+  "vocab_size": 2842
+}

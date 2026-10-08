@@ -1,0 +1,196 @@
+Source Dataset,Source Category,Record Count,Percentage (%),Proposed GrievanceHUB Category,Mapping Status,Reason / Description
+Indian OpenCity (BBMP Sahaaya),Solid Waste (Garbage) Related -> Garbage dump,2661,26.61,Sanitation and Waste Management,DIRECT MATCH,"Solid waste collection, street sweeping, dumping, or dead animal disposal"
+Indian OpenCity (BBMP Sahaaya),Electrical -> Street Light Not Working,2497,24.97,Street Lighting and Electrical Infrastructure,DIRECT MATCH,Streetlight failure and electrical utility maintenance
+Indian OpenCity (BBMP Sahaaya),Solid Waste (Garbage) Related -> Garbage vehicle not arrived,916,9.16,Sanitation and Waste Management,DIRECT MATCH,"Solid waste collection, street sweeping, dumping, or dead animal disposal"
+Indian OpenCity (BBMP Sahaaya),Forest -> Removal of dead/fallen trees,297,2.97,Parks and Environment,DIRECT MATCH,"Fallen tree removal, branch pruning, park maintenance, or lake preservation"
+Indian OpenCity (BBMP Sahaaya),Forest -> obstructions Branches / Trees.,277,2.77,Parks and Environment,DIRECT MATCH,"Fallen tree removal, branch pruning, park maintenance, or lake preservation"
+Indian OpenCity (BBMP Sahaaya),Road Maintenance(Engg) -> Potholes,253,2.53,Roads and Infrastructure,DIRECT MATCH,"Road surface degradation, pothole, or footpath defect"
+Indian OpenCity (BBMP Sahaaya),Road Maintenance(Engg) -> Road side drains,194,1.94,Roads and Infrastructure,DIRECT MATCH,"Road surface degradation, pothole, or footpath defect"
+Indian OpenCity (BBMP Sahaaya),veterinary -> Stray dog related complaints,179,1.79,General Civic Services,DIRECT MATCH,"Stray animal control, dog menace, animal welfare"
+Indian OpenCity (BBMP Sahaaya),Road Infrastructure -> Road Infrastructure,174,1.74,Roads and Infrastructure,DIRECT MATCH,"Road surface degradation, pothole, or footpath defect"
+Indian OpenCity (BBMP Sahaaya),Solid Waste (Garbage) Related -> Garbage dumping in vacant sites,167,1.67,Sanitation and Waste Management,DIRECT MATCH,"Solid waste collection, street sweeping, dumping, or dead animal disposal"
+Indian OpenCity (BBMP Sahaaya),Road Maintenance(Engg) -> Debris Removal / Construction Material,149,1.49,Roads and Infrastructure,POSSIBLE MATCH,Municipal engineering road infrastructure maintenance
+Indian OpenCity (BBMP Sahaaya),Health Dept -> Dengue positive,132,1.32,General Civic Services,POSSIBLE MATCH,"Public health, hygiene inspection, food safety"
+Indian OpenCity (BBMP Sahaaya),Solid Waste (Garbage) Related -> Sweeping not done,126,1.26,Sanitation and Waste Management,DIRECT MATCH,"Solid waste collection, street sweeping, dumping, or dead animal disposal"
+Indian OpenCity (BBMP Sahaaya),veterinary -> Animal Rescue - Not well - Requires attention,97,0.97,General Civic Services,DIRECT MATCH,"Stray animal control, dog menace, animal welfare"
+Indian OpenCity (BBMP Sahaaya),Road Maintenance(Engg) -> water stagnation,89,0.89,Roads and Infrastructure,POSSIBLE MATCH,Municipal engineering road infrastructure maintenance
+Indian OpenCity (BBMP Sahaaya),Solid Waste (Garbage) Related -> Dead animal(s),89,0.89,Sanitation and Waste Management,DIRECT MATCH,"Solid waste collection, street sweeping, dumping, or dead animal disposal"
+Indian OpenCity (BBMP Sahaaya),veterinary -> Fatally injured - Needs immediate attention,87,0.87,General Civic Services,POSSIBLE MATCH,Municipal veterinary service
+Indian OpenCity (BBMP Sahaaya),Others -> Others,86,0.86,N/A,EXCLUDED,Unclear/unsupported municipal jurisdiction or unspecified category
+Indian OpenCity (BBMP Sahaaya),Road Maintenance(Engg) -> Footpath,81,0.81,Roads and Infrastructure,DIRECT MATCH,"Road surface degradation, pothole, or footpath defect"
+Indian OpenCity (BBMP Sahaaya),Road Maintenance(Engg) -> Road cutting,69,0.69,Roads and Infrastructure,DIRECT MATCH,"Road surface degradation, pothole, or footpath defect"
+Indian OpenCity (BBMP Sahaaya),veterinary -> Animal birth control/neutering of stray dogs,65,0.65,General Civic Services,DIRECT MATCH,"Stray animal control, dog menace, animal welfare"
+Indian OpenCity (BBMP Sahaaya),Road Maintenance(Engg) -> footpath encroachment,63,0.63,Roads and Infrastructure,DIRECT MATCH,"Road surface degradation, pothole, or footpath defect"
+Indian OpenCity (BBMP Sahaaya),E khata / Khata services -> ekhata approval pending with ARO,63,0.63,General Civic Services,POSSIBLE MATCH,"Municipal documentation, property tax/khata records, civic administration"
+Indian OpenCity (BBMP Sahaaya),E khata / Khata services -> Other Khata / ekhata issues,59,0.59,General Civic Services,POSSIBLE MATCH,"Municipal documentation, property tax/khata records, civic administration"
+Indian OpenCity (BBMP Sahaaya),Parks and Play grounds -> Issues Related to Parks/Medians/Circles/Island.,54,0.54,Parks and Environment,DIRECT MATCH,"Fallen tree removal, branch pruning, park maintenance, or lake preservation"
+Indian OpenCity (BBMP Sahaaya),Electrical -> Street Lights Switched On During Day Time,53,0.53,Street Lighting and Electrical Infrastructure,DIRECT MATCH,Streetlight failure and electrical utility maintenance
+Indian OpenCity (BBMP Sahaaya),Electrical -> Requirement For New Street Lights,51,0.51,Street Lighting and Electrical Infrastructure,DIRECT MATCH,Streetlight failure and electrical utility maintenance
+Indian OpenCity (BBMP Sahaaya),veterinary -> Stray/Rabid dog bite,44,0.44,General Civic Services,DIRECT MATCH,"Stray animal control, dog menace, animal welfare"
+Indian OpenCity (BBMP Sahaaya),E khata / Khata services -> Technical Issue In Ekhata,42,0.42,General Civic Services,POSSIBLE MATCH,"Municipal documentation, property tax/khata records, civic administration"
+Indian OpenCity (BBMP Sahaaya),Storm  Water Drain(SWD) -> Maintenance of SWD,41,0.41,Drainage and Sewage,DIRECT MATCH,"Stormwater drain, desilting, sewer overflow, or culvert issue"
+Indian OpenCity (BBMP Sahaaya),Storm  Water Drain(SWD) -> Sewerage water left in SWD,40,0.4,Drainage and Sewage,DIRECT MATCH,"Stormwater drain, desilting, sewer overflow, or culvert issue"
+Indian OpenCity (BBMP Sahaaya),Health Dept -> Increase in mosquito density,40,0.4,General Civic Services,POSSIBLE MATCH,"Public health, hygiene inspection, food safety"
+Indian OpenCity (BBMP Sahaaya),"Revenue Department -> Khata Services (Registration, Transfer, Bifurcation and Amalgamation)",40,0.4,General Civic Services,POSSIBLE MATCH,"Municipal documentation, property tax/khata records, civic administration"
+Indian OpenCity (BBMP Sahaaya),Solid Waste (Garbage) Related -> Complaint against SW collector/ SWM official for violation of SWM Rules,37,0.37,Sanitation and Waste Management,POSSIBLE MATCH,Sanitation & waste related municipal issue
+Indian OpenCity (BBMP Sahaaya),Health Dept -> Air/Noise pollution,36,0.36,General Civic Services,POSSIBLE MATCH,"Public health, hygiene inspection, food safety"
+Indian OpenCity (BBMP Sahaaya),E khata / Khata services -> Ekhata missing in online,35,0.35,General Civic Services,POSSIBLE MATCH,"Municipal documentation, property tax/khata records, civic administration"
+Indian OpenCity (BBMP Sahaaya),veterinary -> shifting of the street dogs to other places,32,0.32,General Civic Services,DIRECT MATCH,"Stray animal control, dog menace, animal welfare"
+Indian OpenCity (BBMP Sahaaya),Solid Waste (Garbage) Related -> Burning of Garbage in Open Space,31,0.31,Sanitation and Waste Management,DIRECT MATCH,"Solid waste collection, street sweeping, dumping, or dead animal disposal"
+Indian OpenCity (BBMP Sahaaya),Solid Waste (Garbage) Related -> Garbage transfer not as per norms & area not kept clean,28,0.28,Sanitation and Waste Management,DIRECT MATCH,"Solid waste collection, street sweeping, dumping, or dead animal disposal"
+Indian OpenCity (BBMP Sahaaya),E khata / Khata services -> Ekhata - name correction,26,0.26,General Civic Services,POSSIBLE MATCH,"Municipal documentation, property tax/khata records, civic administration"
+Indian OpenCity (BBMP Sahaaya),Solid Waste (Garbage) Related -> Public dustbins not cleaned,24,0.24,Sanitation and Waste Management,POSSIBLE MATCH,Sanitation & waste related municipal issue
+Indian OpenCity (BBMP Sahaaya),Advertisement -> Flex and banners,22,0.22,General Civic Services,POSSIBLE MATCH,Illegal hoarding/flex banner removal
+Indian OpenCity (BBMP Sahaaya),veterinary -> Anti Rabies Vaccination of stray dogs,21,0.21,General Civic Services,DIRECT MATCH,"Stray animal control, dog menace, animal welfare"
+Indian OpenCity (BBMP Sahaaya),Town Planning -> UnAuthorised Building Constructions,20,0.2,General Civic Services,POSSIBLE MATCH,"Municipal documentation, property tax/khata records, civic administration"
+Indian OpenCity (BBMP Sahaaya),Solid Waste (Garbage) Related -> Garbage nuisance while transporting,18,0.18,Sanitation and Waste Management,DIRECT MATCH,"Solid waste collection, street sweeping, dumping, or dead animal disposal"
+Indian OpenCity (BBMP Sahaaya),Health Dept -> Unhygienic premises in Hotel etc,18,0.18,General Civic Services,POSSIBLE MATCH,"Public health, hygiene inspection, food safety"
+Indian OpenCity (BBMP Sahaaya),Road Maintenance(Engg) -> UnAuthorised Constructions,17,0.17,Roads and Infrastructure,POSSIBLE MATCH,Municipal engineering road infrastructure maintenance
+Indian OpenCity (BBMP Sahaaya),Parks and Play grounds -> Gym/Children Play equipment in the parks,16,0.16,Parks and Environment,DIRECT MATCH,"Fallen tree removal, branch pruning, park maintenance, or lake preservation"
+Indian OpenCity (BBMP Sahaaya),E khata / Khata services -> Ekhata Other corrections,16,0.16,General Civic Services,POSSIBLE MATCH,"Municipal documentation, property tax/khata records, civic administration"
+Indian OpenCity (BBMP Sahaaya),Health Dept -> Spraying,15,0.15,General Civic Services,POSSIBLE MATCH,"Public health, hygiene inspection, food safety"
+Indian OpenCity (BBMP Sahaaya),Storm  Water Drain(SWD) -> Garbage thrown in storm water drain,15,0.15,Drainage and Sewage,DIRECT MATCH,"Stormwater drain, desilting, sewer overflow, or culvert issue"
+Indian OpenCity (BBMP Sahaaya),veterinary -> Stray cattle related complaints,14,0.14,General Civic Services,DIRECT MATCH,"Stray animal control, dog menace, animal welfare"
+Indian OpenCity (BBMP Sahaaya),Electrical -> Earthing Issue relate to Electric Poles/Panel Boards,13,0.13,Street Lighting and Electrical Infrastructure,DIRECT MATCH,Streetlight failure and electrical utility maintenance
+Indian OpenCity (BBMP Sahaaya),Electrical -> Park Lights Not Working,12,0.12,Street Lighting and Electrical Infrastructure,DIRECT MATCH,Streetlight failure and electrical utility maintenance
+Indian OpenCity (BBMP Sahaaya),E khata / Khata services -> Ekhata Area Correction,12,0.12,General Civic Services,POSSIBLE MATCH,"Municipal documentation, property tax/khata records, civic administration"
+Indian OpenCity (BBMP Sahaaya),Town Planning -> Construction not done as per approved plan (Building Bye Law Violations),10,0.1,General Civic Services,POSSIBLE MATCH,"Municipal documentation, property tax/khata records, civic administration"
+Indian OpenCity (BBMP Sahaaya),Sanitation -> Urination in Public/Open Defecation,10,0.1,Sanitation and Waste Management,POSSIBLE MATCH,Sanitation & waste related municipal issue
+Indian OpenCity (BBMP Sahaaya),Road Maintenance(Engg) -> water leakage on road,10,0.1,Roads and Infrastructure,DIRECT MATCH,"Road surface degradation, pothole, or footpath defect"
+Indian OpenCity (BBMP Sahaaya),E khata / Khata services -> Khata / Ekhata mutation / transfer,9,0.09,General Civic Services,POSSIBLE MATCH,"Municipal documentation, property tax/khata records, civic administration"
+Indian OpenCity (BBMP Sahaaya),Revenue Department -> Discrepancy In Khata Certificate and Khata Extract,8,0.08,General Civic Services,POSSIBLE MATCH,"Municipal documentation, property tax/khata records, civic administration"
+Indian OpenCity (BBMP Sahaaya),Traffic Engineer Cell (TEC) -> TEC,8,0.08,Transportation and Traffic Infrastructure,POSSIBLE MATCH,Traffic management facility
+Indian OpenCity (BBMP Sahaaya),veterinary -> Animal Cruelty/Ill-Treated / Abused,8,0.08,General Civic Services,DIRECT MATCH,"Stray animal control, dog menace, animal welfare"
+Indian OpenCity (BBMP Sahaaya),Revenue Department -> Unable to generate the property tax challan,8,0.08,General Civic Services,POSSIBLE MATCH,"Municipal documentation, property tax/khata records, civic administration"
+Indian OpenCity (BBMP Sahaaya),Health Dept -> Fogging,8,0.08,General Civic Services,POSSIBLE MATCH,"Public health, hygiene inspection, food safety"
+Indian OpenCity (BBMP Sahaaya),veterinary -> Mutton/Chicken/fish stall Unhygienic maintenance,8,0.08,General Civic Services,POSSIBLE MATCH,Municipal veterinary service
+Indian OpenCity (BBMP Sahaaya),Forest -> Issues related Snakes/Birds/Monkeys,7,0.07,Parks and Environment,POSSIBLE MATCH,"Urban greenery, lake or park infrastructure"
+Indian OpenCity (BBMP Sahaaya),Sanitation -> Public toilet(s) blockage,6,0.06,General Civic Services,DIRECT MATCH,Public convenience / toilet facility cleanliness
+Indian OpenCity (BBMP Sahaaya),Road Maintenance(Engg) -> Overhanging cables,6,0.06,Roads and Infrastructure,POSSIBLE MATCH,Municipal engineering road infrastructure maintenance
+Indian OpenCity (BBMP Sahaaya),Electrical -> Open Electrical Junction Box,6,0.06,Street Lighting and Electrical Infrastructure,POSSIBLE MATCH,General municipal electrical grievance
+Indian OpenCity (BBMP Sahaaya),Town Planning -> Noise during Building Construction,6,0.06,General Civic Services,POSSIBLE MATCH,"Municipal documentation, property tax/khata records, civic administration"
+Indian OpenCity (BBMP Sahaaya),Plastic -> Use of banned single use plastic,5,0.05,N/A,EXCLUDED,Unclear/unsupported municipal jurisdiction or unspecified category
+Indian OpenCity (BBMP Sahaaya),Optical Fiber Cables (OFC) -> Without permission digging of road,5,0.05,Roads and Infrastructure,POSSIBLE MATCH,Road digging/cable hazard on street
+Indian OpenCity (BBMP Sahaaya),Parks and Play grounds -> Play Grounds,5,0.05,Parks and Environment,POSSIBLE MATCH,"Urban greenery, lake or park infrastructure"
+Indian OpenCity (BBMP Sahaaya),"veterinary -> Dog, cat Poor conditions / Breeding license validation",5,0.05,General Civic Services,DIRECT MATCH,"Stray animal control, dog menace, animal welfare"
+Indian OpenCity (BBMP Sahaaya),E khata / Khata services -> new Khata / Ekhata registration / creation,5,0.05,General Civic Services,POSSIBLE MATCH,"Municipal documentation, property tax/khata records, civic administration"
+Indian OpenCity (BBMP Sahaaya),veterinary -> Feeder Harassment  by Individual / Mob but no association,4,0.04,General Civic Services,POSSIBLE MATCH,Municipal veterinary service
+Indian OpenCity (BBMP Sahaaya),Solid Waste (Garbage) Related -> Segregation of waste is not done,4,0.04,Sanitation and Waste Management,DIRECT MATCH,"Solid waste collection, street sweeping, dumping, or dead animal disposal"
+Indian OpenCity (BBMP Sahaaya),E khata / Khata services -> Ekhata in previous owner name,4,0.04,General Civic Services,POSSIBLE MATCH,"Municipal documentation, property tax/khata records, civic administration"
+Indian OpenCity (BBMP Sahaaya),Lakes -> Lake not maintained properly,4,0.04,Parks and Environment,DIRECT MATCH,"Fallen tree removal, branch pruning, park maintenance, or lake preservation"
+Indian OpenCity (BBMP Sahaaya),Water Crisis -> Water related issue,4,0.04,Water Supply,DIRECT MATCH,"Drinking water supply, pipeline defect, or water pressure issue"
+Indian OpenCity (BBMP Sahaaya),Information Technology -> Others(Technical or Software Issues),3,0.03,N/A,EXCLUDED,Unclear/unsupported municipal jurisdiction or unspecified category
+Indian OpenCity (BBMP Sahaaya),veterinary -> Animal Cruelty/Relocated,3,0.03,General Civic Services,DIRECT MATCH,"Stray animal control, dog menace, animal welfare"
+Indian OpenCity (BBMP Sahaaya),Health Dept -> Zonal Violation of the Building,3,0.03,General Civic Services,POSSIBLE MATCH,"Public health, hygiene inspection, food safety"
+Indian OpenCity (BBMP Sahaaya),Health Dept -> Unavailability of staff,3,0.03,General Civic Services,POSSIBLE MATCH,"Public health, hygiene inspection, food safety"
+Indian OpenCity (BBMP Sahaaya),Advertisement -> Unsafe Hoardings,3,0.03,General Civic Services,POSSIBLE MATCH,Illegal hoarding/flex banner removal
+Indian OpenCity (BBMP Sahaaya),Lakes -> Dumping of garbage into lake,3,0.03,Parks and Environment,DIRECT MATCH,"Fallen tree removal, branch pruning, park maintenance, or lake preservation"
+Indian OpenCity (BBMP Sahaaya),Parks and Play grounds -> Environmental protection,3,0.03,Parks and Environment,POSSIBLE MATCH,"Urban greenery, lake or park infrastructure"
+Indian OpenCity (BBMP Sahaaya),Indira Canteen -> Food Quantity,3,0.03,General Civic Services,POSSIBLE MATCH,Civic public dining facility
+Indian OpenCity (BBMP Sahaaya),veterinary -> Animal Death Need cremartion support,3,0.03,General Civic Services,DIRECT MATCH,"Stray animal control, dog menace, animal welfare"
+Indian OpenCity (BBMP Sahaaya),Information Technology -> App Related Issues,2,0.02,N/A,EXCLUDED,Unclear/unsupported municipal jurisdiction or unspecified category
+Indian OpenCity (BBMP Sahaaya),veterinary -> Dog bite pet dog,2,0.02,General Civic Services,DIRECT MATCH,"Stray animal control, dog menace, animal welfare"
+Indian OpenCity (BBMP Sahaaya),Markets -> Encroachment,2,0.02,N/A,EXCLUDED,Unclear/unsupported municipal jurisdiction or unspecified category
+Indian OpenCity (BBMP Sahaaya),Estate -> Encroachment,2,0.02,General Civic Services,POSSIBLE MATCH,"Municipal documentation, property tax/khata records, civic administration"
+Indian OpenCity (BBMP Sahaaya),Sanitation -> Public toilet(s) cleaning,2,0.02,General Civic Services,DIRECT MATCH,Public convenience / toilet facility cleanliness
+Indian OpenCity (BBMP Sahaaya),Indira Canteen -> Others,2,0.02,General Civic Services,POSSIBLE MATCH,Civic public dining facility
+Indian OpenCity (BBMP Sahaaya),veterinary -> Street dogs attacking-pet Dogs,2,0.02,General Civic Services,DIRECT MATCH,"Stray animal control, dog menace, animal welfare"
+Indian OpenCity (BBMP Sahaaya),Indira Canteen -> Food Quality,2,0.02,General Civic Services,POSSIBLE MATCH,Civic public dining facility
+Indian OpenCity (BBMP Sahaaya),E khata / Khata services -> eKhata - name Mismatch,2,0.02,General Civic Services,POSSIBLE MATCH,"Municipal documentation, property tax/khata records, civic administration"
+Indian OpenCity (BBMP Sahaaya),veterinary -> Stray pig related complaints,2,0.02,General Civic Services,POSSIBLE MATCH,Municipal veterinary service
+Indian OpenCity (BBMP Sahaaya),veterinary -> Illegal pet shop / Animal cruelty / license check,2,0.02,General Civic Services,DIRECT MATCH,"Stray animal control, dog menace, animal welfare"
+Indian OpenCity (BBMP Sahaaya),Welfare Schemes -> Senior  Citizen,2,0.02,N/A,EXCLUDED,Unclear/unsupported municipal jurisdiction or unspecified category
+Indian OpenCity (BBMP Sahaaya),Revenue Department -> Unable to Generate the receipt after property tax payment.,2,0.02,General Civic Services,POSSIBLE MATCH,"Municipal documentation, property tax/khata records, civic administration"
+Indian OpenCity (BBMP Sahaaya),veterinary -> Aged street dogs please take action,2,0.02,General Civic Services,DIRECT MATCH,"Stray animal control, dog menace, animal welfare"
+Indian OpenCity (BBMP Sahaaya),Call Center -> Call center Issues,2,0.02,N/A,EXCLUDED,Unclear/unsupported municipal jurisdiction or unspecified category
+Indian OpenCity (BBMP Sahaaya),Health Dept -> Unhygienic  premises in hospital,1,0.01,General Civic Services,POSSIBLE MATCH,"Public health, hygiene inspection, food safety"
+Indian OpenCity (BBMP Sahaaya),veterinary -> Collect the food available to feed dogs,1,0.01,General Civic Services,DIRECT MATCH,"Stray animal control, dog menace, animal welfare"
+Indian OpenCity (BBMP Sahaaya),veterinary -> Street dog Adaptation process details,1,0.01,General Civic Services,DIRECT MATCH,"Stray animal control, dog menace, animal welfare"
+Indian OpenCity (BBMP Sahaaya),veterinary -> Animal Death Need to file FIR,1,0.01,General Civic Services,DIRECT MATCH,"Stray animal control, dog menace, animal welfare"
+Indian OpenCity (BBMP Sahaaya),veterinary -> Feeder Harassment by Association / Gated Community,1,0.01,General Civic Services,POSSIBLE MATCH,Municipal veterinary service
+Indian OpenCity (BBMP Sahaaya),veterinary -> Request for ABC,1,0.01,General Civic Services,POSSIBLE MATCH,Municipal veterinary service
+Indian OpenCity (BBMP Sahaaya),Education -> Examination Related Issues,1,0.01,N/A,EXCLUDED,Unclear/unsupported municipal jurisdiction or unspecified category
+Indian OpenCity (BBMP Sahaaya),Markets -> Trade License,1,0.01,N/A,EXCLUDED,Unclear/unsupported municipal jurisdiction or unspecified category
+Indian OpenCity (BBMP Sahaaya),Health Dept -> Birth & Death Registration,1,0.01,General Civic Services,POSSIBLE MATCH,"Public health, hygiene inspection, food safety"
+Indian OpenCity (BBMP Sahaaya),Sanitation -> No electricity in public toilet(s),1,0.01,General Civic Services,DIRECT MATCH,Public convenience / toilet facility cleanliness
+Indian OpenCity (BBMP Sahaaya),Lakes -> Dying of fishes in lake,1,0.01,Parks and Environment,DIRECT MATCH,"Fallen tree removal, branch pruning, park maintenance, or lake preservation"
+Indian OpenCity (BBMP Sahaaya),veterinary -> Pet dog licence,1,0.01,General Civic Services,DIRECT MATCH,"Stray animal control, dog menace, animal welfare"
+Indian OpenCity (BBMP Sahaaya),Projects Central -> Potholes,1,0.01,N/A,EXCLUDED,Unclear/unsupported municipal jurisdiction or unspecified category
+Indian OpenCity (BBMP Sahaaya),veterinary -> Animal Surgery gone wrong,1,0.01,General Civic Services,DIRECT MATCH,"Stray animal control, dog menace, animal welfare"
+Indian OpenCity (BBMP Sahaaya),Projects Central -> Stagnation of water on road/ Water logging,1,0.01,N/A,EXCLUDED,Unclear/unsupported municipal jurisdiction or unspecified category
+Indian OpenCity (BBMP Sahaaya),Revenue Department -> Others (JC),1,0.01,General Civic Services,POSSIBLE MATCH,"Municipal documentation, property tax/khata records, civic administration"
+Indian OpenCity (BBMP Sahaaya),veterinary -> Awareness session / Request for a session,1,0.01,General Civic Services,POSSIBLE MATCH,Municipal veterinary service
+Indian OpenCity (BBMP Sahaaya),Indira Canteen -> Cleanliness of Canteen /Food Area,1,0.01,General Civic Services,POSSIBLE MATCH,Civic public dining facility
+Indian OpenCity (BBMP Sahaaya),Lakes -> Lake fencing damaged,1,0.01,Parks and Environment,DIRECT MATCH,"Fallen tree removal, branch pruning, park maintenance, or lake preservation"
+Indian OpenCity (BBMP Sahaaya),Health Dept -> Indira Canteen,1,0.01,General Civic Services,POSSIBLE MATCH,"Public health, hygiene inspection, food safety"
+Indian OpenCity (BBMP Sahaaya),Lakes -> Sewage inflow to lake,1,0.01,Parks and Environment,DIRECT MATCH,"Fallen tree removal, branch pruning, park maintenance, or lake preservation"
+Indian OpenCity (BBMP Sahaaya),Markets -> Violation of rules by Shop rent / Leaser,1,0.01,N/A,EXCLUDED,Unclear/unsupported municipal jurisdiction or unspecified category
+Indian OpenCity (BBMP Sahaaya),Estate -> BBMP  Properties Lease issues,1,0.01,General Civic Services,POSSIBLE MATCH,"Municipal documentation, property tax/khata records, civic administration"
+Indian OpenCity (BBMP Sahaaya),Estate -> Violation of rules by property Leasers,1,0.01,General Civic Services,POSSIBLE MATCH,"Municipal documentation, property tax/khata records, civic administration"
+Indian OpenCity (BBMP Sahaaya),Property Tax services -> unable to generate property tax challan,1,0.01,N/A,EXCLUDED,Unclear/unsupported municipal jurisdiction or unspecified category
+Indian OpenCity (BBMP Sahaaya),Markets -> Garbage In Market Premises,1,0.01,N/A,EXCLUDED,Unclear/unsupported municipal jurisdiction or unspecified category
+Indian OpenCity (BBMP Sahaaya),Call Center -> others,1,0.01,N/A,EXCLUDED,Unclear/unsupported municipal jurisdiction or unspecified category
+NYC 311 (SODA OpenData),Street Condition,1077,10.77,Roads and Infrastructure,DIRECT MATCH,"Potholes, pavement cracking, roadway degradation, sidewalk cave-in"
+NYC 311 (SODA OpenData),Dirty Condition,811,8.11,Sanitation and Waste Management,DIRECT MATCH,"Trash accumulation, missed garbage pickup, illegal dumping, street cleanliness"
+NYC 311 (SODA OpenData),Water Maintenance,795,7.95,Water Supply,DIRECT MATCH,"Public water distribution, pipeline maintenance, water quality"
+NYC 311 (SODA OpenData),Noise,517,5.17,N/A,EXCLUDED,Non-municipal or specialized agency remit
+NYC 311 (SODA OpenData),Street Light Condition,507,5.07,Street Lighting and Electrical Infrastructure,DIRECT MATCH,"Streetlight failure, dark stretch, exposed electrical wiring"
+NYC 311 (SODA OpenData),Traffic Signal Condition,501,5.01,Transportation and Traffic Infrastructure,DIRECT MATCH,"Traffic signal malfunction, damaged signage, transit shelter"
+NYC 311 (SODA OpenData),Damaged Tree,476,4.76,Parks and Environment,DIRECT MATCH,"Fallen tree, dangerous branch, public park or playground maintenance"
+NYC 311 (SODA OpenData),Illegal Dumping,444,4.44,Sanitation and Waste Management,DIRECT MATCH,"Trash accumulation, missed garbage pickup, illegal dumping, street cleanliness"
+NYC 311 (SODA OpenData),Overgrown Tree/Branches,387,3.87,Parks and Environment,DIRECT MATCH,"Fallen tree, dangerous branch, public park or playground maintenance"
+NYC 311 (SODA OpenData),Sewer Maintenance,366,3.66,Drainage and Sewage,DIRECT MATCH,"Clogged storm basin, sewer backup, manhole issue, street flooding"
+NYC 311 (SODA OpenData),Missed Collection,366,3.66,Sanitation and Waste Management,DIRECT MATCH,"Trash accumulation, missed garbage pickup, illegal dumping, street cleanliness"
+NYC 311 (SODA OpenData),Maintenance or Facility,353,3.53,Parks and Environment,DIRECT MATCH,"Fallen tree, dangerous branch, public park or playground maintenance"
+NYC 311 (SODA OpenData),Obstruction,331,3.31,N/A,EXCLUDED,Non-municipal or specialized agency remit
+NYC 311 (SODA OpenData),Sidewalk Condition,329,3.29,Roads and Infrastructure,DIRECT MATCH,"Potholes, pavement cracking, roadway degradation, sidewalk cave-in"
+NYC 311 (SODA OpenData),Derelict Vehicles,297,2.97,Transportation and Traffic Infrastructure,POSSIBLE MATCH,Vehicular street obstruction / right-of-way blockage
+NYC 311 (SODA OpenData),Vendor Enforcement,287,2.87,N/A,EXCLUDED,Non-municipal or specialized agency remit
+NYC 311 (SODA OpenData),Lead,220,2.2,N/A,EXCLUDED,Non-municipal or specialized agency remit
+NYC 311 (SODA OpenData),Graffiti,156,1.56,Sanitation and Waste Management,DIRECT MATCH,"Trash accumulation, missed garbage pickup, illegal dumping, street cleanliness"
+NYC 311 (SODA OpenData),Dead/Dying Tree,156,1.56,N/A,EXCLUDED,Non-municipal or specialized agency remit
+NYC 311 (SODA OpenData),Residential Disposal Complaint,153,1.53,N/A,EXCLUDED,Non-municipal or specialized agency remit
+NYC 311 (SODA OpenData),Root/Sewer/Sidewalk Condition,145,1.45,Roads and Infrastructure,DIRECT MATCH,"Potholes, pavement cracking, roadway degradation, sidewalk cave-in"
+NYC 311 (SODA OpenData),Air Quality,131,1.31,N/A,EXCLUDED,Non-municipal or specialized agency remit
+NYC 311 (SODA OpenData),Dead Animal,113,1.13,Sanitation and Waste Management,DIRECT MATCH,"Trash accumulation, missed garbage pickup, illegal dumping, street cleanliness"
+NYC 311 (SODA OpenData),Curb Condition,100,1.0,Roads and Infrastructure,DIRECT MATCH,"Potholes, pavement cracking, roadway degradation, sidewalk cave-in"
+NYC 311 (SODA OpenData),Street Sweeping Complaint,97,0.97,Sanitation and Waste Management,DIRECT MATCH,"Trash accumulation, missed garbage pickup, illegal dumping, street cleanliness"
+NYC 311 (SODA OpenData),Illegal Tree Damage,75,0.75,N/A,EXCLUDED,Non-municipal or specialized agency remit
+NYC 311 (SODA OpenData),Violation of Park Rules,58,0.58,N/A,EXCLUDED,Non-municipal or specialized agency remit
+NYC 311 (SODA OpenData),Litter Basket Request,55,0.55,N/A,EXCLUDED,Non-municipal or specialized agency remit
+NYC 311 (SODA OpenData),Highway Condition,49,0.49,Roads and Infrastructure,DIRECT MATCH,"Potholes, pavement cracking, roadway degradation, sidewalk cave-in"
+NYC 311 (SODA OpenData),Illegal Posting,48,0.48,N/A,EXCLUDED,Non-municipal or specialized agency remit
+NYC 311 (SODA OpenData),Water Conservation,46,0.46,Water Supply,POSSIBLE MATCH,Municipal water service request
+NYC 311 (SODA OpenData),Broken Parking Meter,46,0.46,N/A,EXCLUDED,Non-municipal or specialized agency remit
+NYC 311 (SODA OpenData),Animal in a Park,45,0.45,General Civic Services,POSSIBLE MATCH,"Public nuisance, rodent infestation, environmental health inspection"
+NYC 311 (SODA OpenData),Street Sign - Damaged,44,0.44,Transportation and Traffic Infrastructure,DIRECT MATCH,"Traffic signal malfunction, damaged signage, transit shelter"
+NYC 311 (SODA OpenData),Street Sign - Missing,39,0.39,Transportation and Traffic Infrastructure,DIRECT MATCH,"Traffic signal malfunction, damaged signage, transit shelter"
+NYC 311 (SODA OpenData),Abandoned Bike,36,0.36,N/A,EXCLUDED,Non-municipal or specialized agency remit
+NYC 311 (SODA OpenData),Sanitation Worker or Vehicle Complaint,35,0.35,N/A,EXCLUDED,Non-municipal or specialized agency remit
+NYC 311 (SODA OpenData),Lot Condition,33,0.33,N/A,EXCLUDED,Non-municipal or specialized agency remit
+NYC 311 (SODA OpenData),Outdoor Dining,30,0.3,N/A,EXCLUDED,Non-municipal or specialized agency remit
+NYC 311 (SODA OpenData),Street Sign - Dangling,29,0.29,Transportation and Traffic Infrastructure,DIRECT MATCH,"Traffic signal malfunction, damaged signage, transit shelter"
+NYC 311 (SODA OpenData),Litter Basket Complaint,28,0.28,N/A,EXCLUDED,Non-municipal or specialized agency remit
+NYC 311 (SODA OpenData),Commercial Disposal Complaint,26,0.26,N/A,EXCLUDED,Non-municipal or specialized agency remit
+NYC 311 (SODA OpenData),Dumpster Complaint,24,0.24,N/A,EXCLUDED,Non-municipal or specialized agency remit
+NYC 311 (SODA OpenData),Hazardous Material,22,0.22,N/A,EXCLUDED,Non-municipal or specialized agency remit
+NYC 311 (SODA OpenData),Wood Pile Remaining,13,0.13,N/A,EXCLUDED,Non-municipal or specialized agency remit
+NYC 311 (SODA OpenData),Water Quality,13,0.13,Water Supply,DIRECT MATCH,"Public water distribution, pipeline maintenance, water quality"
+NYC 311 (SODA OpenData),Bus Stop Shelter Complaint,12,0.12,Transportation and Traffic Infrastructure,DIRECT MATCH,"Traffic signal malfunction, damaged signage, transit shelter"
+NYC 311 (SODA OpenData),Bike Rack,11,0.11,N/A,EXCLUDED,Non-municipal or specialized agency remit
+NYC 311 (SODA OpenData),Green Infrastructure,11,0.11,N/A,EXCLUDED,Non-municipal or specialized agency remit
+NYC 311 (SODA OpenData),Industrial Waste,11,0.11,N/A,EXCLUDED,Non-municipal or specialized agency remit
+NYC 311 (SODA OpenData),New Tree Request,8,0.08,Parks and Environment,DIRECT MATCH,"Fallen tree, dangerous branch, public park or playground maintenance"
+NYC 311 (SODA OpenData),Bridge Condition,6,0.06,Roads and Infrastructure,DIRECT MATCH,"Potholes, pavement cracking, roadway degradation, sidewalk cave-in"
+NYC 311 (SODA OpenData),Uprooted Stump,6,0.06,N/A,EXCLUDED,Non-municipal or specialized agency remit
+NYC 311 (SODA OpenData),Bus Stop Shelter Placement,5,0.05,Transportation and Traffic Infrastructure,DIRECT MATCH,"Traffic signal malfunction, damaged signage, transit shelter"
+NYC 311 (SODA OpenData),E-Scooter,4,0.04,N/A,EXCLUDED,Non-municipal or specialized agency remit
+NYC 311 (SODA OpenData),Municipal Parking Facility,4,0.04,N/A,EXCLUDED,Non-municipal or specialized agency remit
+NYC 311 (SODA OpenData),Bench,3,0.03,N/A,EXCLUDED,Non-municipal or specialized agency remit
+NYC 311 (SODA OpenData),Ferry Inquiry,3,0.03,N/A,EXCLUDED,Non-municipal or specialized agency remit
+NYC 311 (SODA OpenData),Ferry Complaint,2,0.02,N/A,EXCLUDED,Non-municipal or specialized agency remit
+NYC 311 (SODA OpenData),DEP Street Condition,1,0.01,Roads and Infrastructure,DIRECT MATCH,"Potholes, pavement cracking, roadway degradation, sidewalk cave-in"
+NYC 311 (SODA OpenData),Recycling Basket Complaint,1,0.01,N/A,EXCLUDED,Non-municipal or specialized agency remit
+NYC 311 (SODA OpenData),Incorrect Data,1,0.01,N/A,EXCLUDED,Non-municipal or specialized agency remit
+NYC 311 (SODA OpenData),Public Toilet,1,0.01,General Civic Services,POSSIBLE MATCH,"Public nuisance, rodent infestation, environmental health inspection"
+NYC 311 (SODA OpenData),Waste Water Treatment Plant,1,0.01,Water Supply,POSSIBLE MATCH,Municipal water service request

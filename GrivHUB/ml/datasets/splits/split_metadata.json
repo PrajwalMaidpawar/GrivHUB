@@ -1,0 +1,72 @@
+{
+  "split_strategy": "stratified_random",
+  "random_state": 42,
+  "total_records": 4282,
+  "train_records": 2997,
+  "validation_records": 642,
+  "test_records": 643,
+  "train_percentage": 69.99,
+  "validation_percentage": 14.99,
+  "test_percentage": 15.02,
+  "categories": [
+    "Power Outage / No Supply",
+    "Voltage Fluctuation / Low Voltage",
+    "Meter Issues",
+    "Billing and Payment",
+    "Transformer Fault",
+    "Pole / Wire / Electrical Hazard",
+    "New Connection / Service Request",
+    "Street/Public Electrical Infrastructure",
+    "Power Theft / Unauthorized Connection",
+    "General Consumer Services"
+  ],
+  "class_distribution": {
+    "training": {
+      "Power Outage / No Supply": 1,
+      "Voltage Fluctuation / Low Voltage": 0,
+      "Meter Issues": 0,
+      "Billing and Payment": 1,
+      "Transformer Fault": 0,
+      "Pole / Wire / Electrical Hazard": 9,
+      "New Connection / Service Request": 0,
+      "Street/Public Electrical Infrastructure": 406,
+      "Power Theft / Unauthorized Connection": 0,
+      "General Consumer Services": 2580
+    },
+    "validation": {
+      "Power Outage / No Supply": 0,
+      "Voltage Fluctuation / Low Voltage": 0,
+      "Meter Issues": 0,
+      "Billing and Payment": 0,
+      "Transformer Fault": 0,
+      "Pole / Wire / Electrical Hazard": 2,
+      "New Connection / Service Request": 0,
+      "Street/Public Electrical Infrastructure": 87,
+      "Power Theft / Unauthorized Connection": 0,
+      "General Consumer Services": 553
+    },
+    "testing": {
+      "Power Outage / No Supply": 0,
+      "Voltage Fluctuation / Low Voltage": 0,
+      "Meter Issues": 0,
+      "Billing and Payment": 1,
+      "Transformer Fault": 0,
+      "Pole / Wire / Electrical Hazard": 2,
+      "New Connection / Service Request": 0,
+      "Street/Public Electrical Infrastructure": 87,
+      "Power Theft / Unauthorized Connection": 0,
+      "General Consumer Services": 553
+    }
+  },
+  "source_distribution": {
+    "training": {
+      "INDIAN_OPENCITY_BBMP": 2997
+    },
+    "validation": {
+      "INDIAN_OPENCITY_BBMP": 642
+    },
+    "testing": {
+      "INDIAN_OPENCITY_BBMP": 643
+    }
+  }
+}

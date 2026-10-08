@@ -1,0 +1,514 @@
+{
+  "Street Condition": {
+    "source_complaint_type": "Street Condition",
+    "count": 1077,
+    "percentage": 10.77,
+    "target_category": "Street/Public Electrical Infrastructure",
+    "status": "DIRECT MATCH",
+    "reason": "Potholes, pavement cracking, roadway degradation, sidewalk cave-in"
+  },
+  "Dirty Condition": {
+    "source_complaint_type": "Dirty Condition",
+    "count": 811,
+    "percentage": 8.11,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Trash accumulation, missed garbage pickup, illegal dumping, street cleanliness"
+  },
+  "Water Maintenance": {
+    "source_complaint_type": "Water Maintenance",
+    "count": 795,
+    "percentage": 7.95,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Public water distribution, pipeline maintenance, water quality"
+  },
+  "Noise": {
+    "source_complaint_type": "Noise",
+    "count": 517,
+    "percentage": 5.17,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Non-municipal or specialized agency remit"
+  },
+  "Street Light Condition": {
+    "source_complaint_type": "Street Light Condition",
+    "count": 507,
+    "percentage": 5.07,
+    "target_category": "Street/Public Electrical Infrastructure",
+    "status": "DIRECT MATCH",
+    "reason": "Streetlight failure, dark stretch, exposed electrical wiring"
+  },
+  "Traffic Signal Condition": {
+    "source_complaint_type": "Traffic Signal Condition",
+    "count": 501,
+    "percentage": 5.01,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Traffic signal malfunction, damaged signage, transit shelter"
+  },
+  "Damaged Tree": {
+    "source_complaint_type": "Damaged Tree",
+    "count": 476,
+    "percentage": 4.76,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Fallen tree, dangerous branch, public park or playground maintenance"
+  },
+  "Illegal Dumping": {
+    "source_complaint_type": "Illegal Dumping",
+    "count": 444,
+    "percentage": 4.44,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Trash accumulation, missed garbage pickup, illegal dumping, street cleanliness"
+  },
+  "Overgrown Tree/Branches": {
+    "source_complaint_type": "Overgrown Tree/Branches",
+    "count": 387,
+    "percentage": 3.87,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Fallen tree, dangerous branch, public park or playground maintenance"
+  },
+  "Sewer Maintenance": {
+    "source_complaint_type": "Sewer Maintenance",
+    "count": 366,
+    "percentage": 3.66,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Clogged storm basin, sewer backup, manhole issue, street flooding"
+  },
+  "Missed Collection": {
+    "source_complaint_type": "Missed Collection",
+    "count": 366,
+    "percentage": 3.66,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Trash accumulation, missed garbage pickup, illegal dumping, street cleanliness"
+  },
+  "Maintenance or Facility": {
+    "source_complaint_type": "Maintenance or Facility",
+    "count": 353,
+    "percentage": 3.53,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Fallen tree, dangerous branch, public park or playground maintenance"
+  },
+  "Obstruction": {
+    "source_complaint_type": "Obstruction",
+    "count": 331,
+    "percentage": 3.31,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Non-municipal or specialized agency remit"
+  },
+  "Sidewalk Condition": {
+    "source_complaint_type": "Sidewalk Condition",
+    "count": 329,
+    "percentage": 3.29,
+    "target_category": "Street/Public Electrical Infrastructure",
+    "status": "DIRECT MATCH",
+    "reason": "Potholes, pavement cracking, roadway degradation, sidewalk cave-in"
+  },
+  "Derelict Vehicles": {
+    "source_complaint_type": "Derelict Vehicles",
+    "count": 297,
+    "percentage": 2.97,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Vehicular street obstruction / right-of-way blockage"
+  },
+  "Vendor Enforcement": {
+    "source_complaint_type": "Vendor Enforcement",
+    "count": 287,
+    "percentage": 2.87,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Non-municipal or specialized agency remit"
+  },
+  "Lead": {
+    "source_complaint_type": "Lead",
+    "count": 220,
+    "percentage": 2.2,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Non-municipal or specialized agency remit"
+  },
+  "Graffiti": {
+    "source_complaint_type": "Graffiti",
+    "count": 156,
+    "percentage": 1.56,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Trash accumulation, missed garbage pickup, illegal dumping, street cleanliness"
+  },
+  "Dead/Dying Tree": {
+    "source_complaint_type": "Dead/Dying Tree",
+    "count": 156,
+    "percentage": 1.56,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Non-municipal or specialized agency remit"
+  },
+  "Residential Disposal Complaint": {
+    "source_complaint_type": "Residential Disposal Complaint",
+    "count": 153,
+    "percentage": 1.53,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Non-municipal or specialized agency remit"
+  },
+  "Root/Sewer/Sidewalk Condition": {
+    "source_complaint_type": "Root/Sewer/Sidewalk Condition",
+    "count": 145,
+    "percentage": 1.45,
+    "target_category": "Street/Public Electrical Infrastructure",
+    "status": "DIRECT MATCH",
+    "reason": "Potholes, pavement cracking, roadway degradation, sidewalk cave-in"
+  },
+  "Air Quality": {
+    "source_complaint_type": "Air Quality",
+    "count": 131,
+    "percentage": 1.31,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Non-municipal or specialized agency remit"
+  },
+  "Dead Animal": {
+    "source_complaint_type": "Dead Animal",
+    "count": 113,
+    "percentage": 1.13,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Trash accumulation, missed garbage pickup, illegal dumping, street cleanliness"
+  },
+  "Curb Condition": {
+    "source_complaint_type": "Curb Condition",
+    "count": 100,
+    "percentage": 1.0,
+    "target_category": "Street/Public Electrical Infrastructure",
+    "status": "DIRECT MATCH",
+    "reason": "Potholes, pavement cracking, roadway degradation, sidewalk cave-in"
+  },
+  "Street Sweeping Complaint": {
+    "source_complaint_type": "Street Sweeping Complaint",
+    "count": 97,
+    "percentage": 0.97,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Trash accumulation, missed garbage pickup, illegal dumping, street cleanliness"
+  },
+  "Illegal Tree Damage": {
+    "source_complaint_type": "Illegal Tree Damage",
+    "count": 75,
+    "percentage": 0.75,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Non-municipal or specialized agency remit"
+  },
+  "Violation of Park Rules": {
+    "source_complaint_type": "Violation of Park Rules",
+    "count": 58,
+    "percentage": 0.58,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Non-municipal or specialized agency remit"
+  },
+  "Litter Basket Request": {
+    "source_complaint_type": "Litter Basket Request",
+    "count": 55,
+    "percentage": 0.55,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Non-municipal or specialized agency remit"
+  },
+  "Highway Condition": {
+    "source_complaint_type": "Highway Condition",
+    "count": 49,
+    "percentage": 0.49,
+    "target_category": "Street/Public Electrical Infrastructure",
+    "status": "DIRECT MATCH",
+    "reason": "Potholes, pavement cracking, roadway degradation, sidewalk cave-in"
+  },
+  "Illegal Posting": {
+    "source_complaint_type": "Illegal Posting",
+    "count": 48,
+    "percentage": 0.48,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Non-municipal or specialized agency remit"
+  },
+  "Water Conservation": {
+    "source_complaint_type": "Water Conservation",
+    "count": 46,
+    "percentage": 0.46,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Municipal water service request"
+  },
+  "Broken Parking Meter": {
+    "source_complaint_type": "Broken Parking Meter",
+    "count": 46,
+    "percentage": 0.46,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Non-municipal or specialized agency remit"
+  },
+  "Animal in a Park": {
+    "source_complaint_type": "Animal in a Park",
+    "count": 45,
+    "percentage": 0.45,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Public nuisance, rodent infestation, environmental health inspection"
+  },
+  "Street Sign - Damaged": {
+    "source_complaint_type": "Street Sign - Damaged",
+    "count": 44,
+    "percentage": 0.44,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Traffic signal malfunction, damaged signage, transit shelter"
+  },
+  "Street Sign - Missing": {
+    "source_complaint_type": "Street Sign - Missing",
+    "count": 39,
+    "percentage": 0.39,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Traffic signal malfunction, damaged signage, transit shelter"
+  },
+  "Abandoned Bike": {
+    "source_complaint_type": "Abandoned Bike",
+    "count": 36,
+    "percentage": 0.36,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Non-municipal or specialized agency remit"
+  },
+  "Sanitation Worker or Vehicle Complaint": {
+    "source_complaint_type": "Sanitation Worker or Vehicle Complaint",
+    "count": 35,
+    "percentage": 0.35,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Non-municipal or specialized agency remit"
+  },
+  "Lot Condition": {
+    "source_complaint_type": "Lot Condition",
+    "count": 33,
+    "percentage": 0.33,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Non-municipal or specialized agency remit"
+  },
+  "Outdoor Dining": {
+    "source_complaint_type": "Outdoor Dining",
+    "count": 30,
+    "percentage": 0.3,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Non-municipal or specialized agency remit"
+  },
+  "Street Sign - Dangling": {
+    "source_complaint_type": "Street Sign - Dangling",
+    "count": 29,
+    "percentage": 0.29,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Traffic signal malfunction, damaged signage, transit shelter"
+  },
+  "Litter Basket Complaint": {
+    "source_complaint_type": "Litter Basket Complaint",
+    "count": 28,
+    "percentage": 0.28,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Non-municipal or specialized agency remit"
+  },
+  "Commercial Disposal Complaint": {
+    "source_complaint_type": "Commercial Disposal Complaint",
+    "count": 26,
+    "percentage": 0.26,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Non-municipal or specialized agency remit"
+  },
+  "Dumpster Complaint": {
+    "source_complaint_type": "Dumpster Complaint",
+    "count": 24,
+    "percentage": 0.24,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Non-municipal or specialized agency remit"
+  },
+  "Hazardous Material": {
+    "source_complaint_type": "Hazardous Material",
+    "count": 22,
+    "percentage": 0.22,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Non-municipal or specialized agency remit"
+  },
+  "Wood Pile Remaining": {
+    "source_complaint_type": "Wood Pile Remaining",
+    "count": 13,
+    "percentage": 0.13,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Non-municipal or specialized agency remit"
+  },
+  "Water Quality": {
+    "source_complaint_type": "Water Quality",
+    "count": 13,
+    "percentage": 0.13,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Public water distribution, pipeline maintenance, water quality"
+  },
+  "Bus Stop Shelter Complaint": {
+    "source_complaint_type": "Bus Stop Shelter Complaint",
+    "count": 12,
+    "percentage": 0.12,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Traffic signal malfunction, damaged signage, transit shelter"
+  },
+  "Bike Rack": {
+    "source_complaint_type": "Bike Rack",
+    "count": 11,
+    "percentage": 0.11,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Non-municipal or specialized agency remit"
+  },
+  "Green Infrastructure": {
+    "source_complaint_type": "Green Infrastructure",
+    "count": 11,
+    "percentage": 0.11,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Non-municipal or specialized agency remit"
+  },
+  "Industrial Waste": {
+    "source_complaint_type": "Industrial Waste",
+    "count": 11,
+    "percentage": 0.11,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Non-municipal or specialized agency remit"
+  },
+  "New Tree Request": {
+    "source_complaint_type": "New Tree Request",
+    "count": 8,
+    "percentage": 0.08,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Fallen tree, dangerous branch, public park or playground maintenance"
+  },
+  "Bridge Condition": {
+    "source_complaint_type": "Bridge Condition",
+    "count": 6,
+    "percentage": 0.06,
+    "target_category": "Street/Public Electrical Infrastructure",
+    "status": "DIRECT MATCH",
+    "reason": "Potholes, pavement cracking, roadway degradation, sidewalk cave-in"
+  },
+  "Uprooted Stump": {
+    "source_complaint_type": "Uprooted Stump",
+    "count": 6,
+    "percentage": 0.06,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Non-municipal or specialized agency remit"
+  },
+  "Bus Stop Shelter Placement": {
+    "source_complaint_type": "Bus Stop Shelter Placement",
+    "count": 5,
+    "percentage": 0.05,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Traffic signal malfunction, damaged signage, transit shelter"
+  },
+  "E-Scooter": {
+    "source_complaint_type": "E-Scooter",
+    "count": 4,
+    "percentage": 0.04,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Non-municipal or specialized agency remit"
+  },
+  "Municipal Parking Facility": {
+    "source_complaint_type": "Municipal Parking Facility",
+    "count": 4,
+    "percentage": 0.04,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Non-municipal or specialized agency remit"
+  },
+  "Bench": {
+    "source_complaint_type": "Bench",
+    "count": 3,
+    "percentage": 0.03,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Non-municipal or specialized agency remit"
+  },
+  "Ferry Inquiry": {
+    "source_complaint_type": "Ferry Inquiry",
+    "count": 3,
+    "percentage": 0.03,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Non-municipal or specialized agency remit"
+  },
+  "Ferry Complaint": {
+    "source_complaint_type": "Ferry Complaint",
+    "count": 2,
+    "percentage": 0.02,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Non-municipal or specialized agency remit"
+  },
+  "DEP Street Condition": {
+    "source_complaint_type": "DEP Street Condition",
+    "count": 1,
+    "percentage": 0.01,
+    "target_category": "Street/Public Electrical Infrastructure",
+    "status": "DIRECT MATCH",
+    "reason": "Potholes, pavement cracking, roadway degradation, sidewalk cave-in"
+  },
+  "Recycling Basket Complaint": {
+    "source_complaint_type": "Recycling Basket Complaint",
+    "count": 1,
+    "percentage": 0.01,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Non-municipal or specialized agency remit"
+  },
+  "Incorrect Data": {
+    "source_complaint_type": "Incorrect Data",
+    "count": 1,
+    "percentage": 0.01,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Non-municipal or specialized agency remit"
+  },
+  "Public Toilet": {
+    "source_complaint_type": "Public Toilet",
+    "count": 1,
+    "percentage": 0.01,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Public nuisance, rodent infestation, environmental health inspection"
+  },
+  "Waste Water Treatment Plant": {
+    "source_complaint_type": "Waste Water Treatment Plant",
+    "count": 1,
+    "percentage": 0.01,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Municipal water service request"
+  }
+}

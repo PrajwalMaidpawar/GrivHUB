@@ -1,0 +1,8 @@
+record_id,complaint_text,actual_category,predicted_category,source_dataset,confidence_score
+20767251,obstructions Branches / Trees. in HBR Layout Please provide request letter tree photos tax paid receipt,General Consumer Services,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,1.0
+20769686,Garbage dump in Konanakunte Forwarded Task,General Consumer Services,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9989
+20762554,Garbage dumping in vacant sites in Konanakunte Clear,General Consumer Services,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,1.0
+20770149,Garbage dump in Konanakunte Field inspection assigned to Marshal officer.,General Consumer Services,Billing and Payment,INDIAN_OPENCITY_BBMP,1.0
+20764694,Potholes in Konanakunte Completed,General Consumer Services,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,1.0
+20769604,"obstructions Branches / Trees. in Konanakunte Please submit application to BBMP, Forest Department",General Consumer Services,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9988
+20762075,obstructions Branches / Trees. in Konanakunte Please submit application to Forest Department,General Consumer Services,Street/Public Electrical Infrastructure,INDIAN_OPENCITY_BBMP,0.9997

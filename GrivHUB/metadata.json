@@ -1,0 +1,8 @@
+{
+  "name": "GrievanceHUB - AI Civic Grievance Management System",
+  "description": "AI-powered multilingual civic grievance management and resolution system for Indian municipal corporations, featuring ML classification, duplicate detection, smart officer assignment, and role-based portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

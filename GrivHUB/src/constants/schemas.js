@@ -1,0 +1,35 @@
+/**
+ * GrievanceHUB Constants and Schema Specifications
+ * Pure JavaScript module.
+ */
+
+export const ROLES = {
+  CITIZEN: 'CITIZEN',
+  OFFICER: 'OFFICER',
+  ADMIN: 'ADMIN'
+};
+
+export const GRIEVANCE_STATUSES = {
+  SUBMITTED: 'SUBMITTED',
+  UNDER_REVIEW: 'UNDER_REVIEW',
+  ASSIGNED: 'ASSIGNED',
+  IN_PROGRESS: 'IN_PROGRESS',
+  RESOLVED: 'RESOLVED',
+  CLOSED: 'CLOSED',
+  REOPENED: 'REOPENED',
+  ESCALATED: 'ESCALATED'
+};
+
+export const PRIORITY_LEVELS = {
+  LOW: 'LOW',
+  MEDIUM: 'MEDIUM',
+  HIGH: 'HIGH',
+  CRITICAL: 'CRITICAL'
+};
+
+export const MODEL_STATUSES = {
+  NOT_TRAINED: 'NOT_TRAINED',
+  TRAINING: 'TRAINING',
+  ACTIVE: 'ACTIVE',
+  OFFLINE: 'OFFLINE'
+};

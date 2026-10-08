@@ -1,0 +1,55 @@
+version: '3.8'
+
+services:
+  # ============================================================================
+  # 1. MongoDB Production Persistence Engine
+  # ============================================================================
+  mongodb:
+    image: mongo:7.0
+    container_name: grievancehub-mongodb
+    restart: unless-stopped
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: password_change_me_in_prod
+      MONGO_INITDB_DATABASE: grievancehub_production
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongodb_data:/data/db
+    networks:
+      - grievancehub-net
+
+  # ============================================================================
+  # 2. GrievanceHUB Unified App (React Frontend + Django Backend + ML Engine)
+  # ============================================================================
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: grievancehub-app
+    restart: unless-stopped
+    depends_on:
+      - mongodb
+    environment:
+      DEBUG: "False"
+      DJANGO_SECRET_KEY: "change_this_to_a_secure_random_50_character_key_in_production"
+      ALLOWED_HOSTS: "localhost,127.0.0.1,app,0.0.0.0"
+      MONGODB_URI: "mongodb://admin:password_change_me_in_prod@mongodb:27017/grievancehub_production?authSource=admin"
+      MONGODB_DATABASE: "grievancehub_production"
+      ML_ARTIFACTS_DIR: "backend/ml_artifacts"
+      ML_REVIEW_THRESHOLD: "0.75"
+      VITE_API_BASE_URL: "/api"
+      PORT: "3000"
+    ports:
+      - "3000:3000"
+      - "8005:8005"
+    networks:
+      - grievancehub-net
+
+volumes:
+  mongodb_data:
+    driver: local
+
+networks:
+  grievancehub-net:
+    driver: bridge

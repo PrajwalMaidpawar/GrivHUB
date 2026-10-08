@@ -1,0 +1,132 @@
+[
+  {
+    "jurisdiction_id": "JUR-EZ",
+    "zone": "East Zone",
+    "corporation": "Bruhat Bengaluru Mahanagara Palike (BBMP)",
+    "headquarters": "Mayo Hall, MG Road, Bengaluru",
+    "wards": [
+      {
+        "ward_id": "W-111",
+        "ward_name": "Ward 111 - Indiranagar",
+        "population_est": 48500
+      },
+      {
+        "ward_id": "W-112",
+        "ward_name": "Ward 112 - Domlur",
+        "population_est": 52300
+      },
+      {
+        "ward_id": "W-113",
+        "ward_name": "Ward 113 - Konena Agrahara",
+        "population_est": 41200
+      }
+    ],
+    "active": true,
+    "created_at": "2026-08-21T20:28:00Z",
+    "updated_at": "2026-08-21T20:28:00Z"
+  },
+  {
+    "jurisdiction_id": "JUR-WZ",
+    "zone": "West Zone",
+    "corporation": "Bruhat Bengaluru Mahanagara Palike (BBMP)",
+    "headquarters": "Rajajinagar 1st Block, Bengaluru",
+    "wards": [
+      {
+        "ward_id": "W-095",
+        "ward_name": "Ward 95 - Rajajinagar",
+        "population_est": 54000
+      },
+      {
+        "ward_id": "W-096",
+        "ward_name": "Ward 96 - Malleshwaram",
+        "population_est": 61000
+      },
+      {
+        "ward_id": "W-097",
+        "ward_name": "Ward 97 - Basaveshwaranagar",
+        "population_est": 49000
+      }
+    ],
+    "active": true,
+    "created_at": "2026-08-21T20:28:00Z",
+    "updated_at": "2026-08-21T20:28:00Z"
+  },
+  {
+    "jurisdiction_id": "JUR-SZ",
+    "zone": "South Zone",
+    "corporation": "Bruhat Bengaluru Mahanagara Palike (BBMP)",
+    "headquarters": "Jayanagar 9th Block, Bengaluru",
+    "wards": [
+      {
+        "ward_id": "W-151",
+        "ward_name": "Ward 151 - Koramangala",
+        "population_est": 68000
+      },
+      {
+        "ward_id": "W-152",
+        "ward_name": "Ward 152 - Jayanagar",
+        "population_est": 59000
+      },
+      {
+        "ward_id": "W-153",
+        "ward_name": "Ward 153 - BTM Layout",
+        "population_est": 73000
+      }
+    ],
+    "active": true,
+    "created_at": "2026-08-21T20:28:00Z",
+    "updated_at": "2026-08-21T20:28:00Z"
+  },
+  {
+    "jurisdiction_id": "JUR-NZ",
+    "zone": "North Zone",
+    "corporation": "Bruhat Bengaluru Mahanagara Palike (BBMP)",
+    "headquarters": "Yelahanka Old Town, Bengaluru",
+    "wards": [
+      {
+        "ward_id": "W-035",
+        "ward_name": "Ward 35 - Hebbal",
+        "population_est": 55000
+      },
+      {
+        "ward_id": "W-036",
+        "ward_name": "Ward 36 - Yelahanka",
+        "population_est": 67000
+      },
+      {
+        "ward_id": "W-037",
+        "ward_name": "Ward 37 - Vidyaranyapura",
+        "population_est": 51000
+      }
+    ],
+    "active": true,
+    "created_at": "2026-08-21T20:28:00Z",
+    "updated_at": "2026-08-21T20:28:00Z"
+  },
+  {
+    "jurisdiction_id": "JUR-CZ",
+    "zone": "Central Zone",
+    "corporation": "Bruhat Bengaluru Mahanagara Palike (BBMP)",
+    "headquarters": "Hudson Circle, Corporation Square, Bengaluru",
+    "wards": [
+      {
+        "ward_id": "W-109",
+        "ward_name": "Ward 109 - Chickpet",
+        "population_est": 43000
+      },
+      {
+        "ward_id": "W-110",
+        "ward_name": "Ward 110 - Sampangiramnagar",
+        "population_est": 46000
+      },
+      {
+        "ward_id": "W-114",
+        "ward_name": "Ward 114 - Shanthinagar",
+        "population_est": 51500
+      }
+    ],
+    "active": true,
+    "created_at": "2026-08-21T20:28:00Z",
+    "updated_at": "2026-08-21T20:28:00Z"
+  }
+]

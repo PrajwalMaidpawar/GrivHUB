@@ -1,0 +1,839 @@
+[
+  {
+    "notification_id": "NOTIF-202608-DCD402",
+    "recipient_id": "CITIZEN-TEST-101",
+    "recipient_role": "CITIZEN",
+    "notification_type": "GRIEVANCE_SUBMITTED",
+    "title": "Grievance Submitted Successfully",
+    "message": "Your grievance 'Severe Sewage Flooding and Drain Overflow' (ID: GRV-202608-BC7E54) has been recorded and submitted for automated triage.",
+    "related_grievance_id": "GRV-202608-BC7E54",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T19:47:47Z",
+    "metadata": {
+      "title": "Severe Sewage Flooding and Drain Overflow",
+      "status": "SUBMITTED"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-DC20AE",
+    "recipient_id": "USR-OFF-009",
+    "recipient_role": "OFFICER",
+    "notification_type": "GRIEVANCE_ASSIGNED",
+    "title": "New Grievance Assigned",
+    "message": "You have been assigned grievance 'Severe Sewage Flooding and Drain Overflow' (ID: GRV-202608-BC7E54) in department DEP-DRAIN.",
+    "related_grievance_id": "GRV-202608-BC7E54",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T19:47:47Z",
+    "metadata": {
+      "department_id": "DEP-DRAIN",
+      "priority": "HIGH"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-30F28A",
+    "recipient_id": "CITIZEN-TEST-101",
+    "recipient_role": "CITIZEN",
+    "notification_type": "STATUS_UPDATED",
+    "title": "Officer Assigned to Your Grievance",
+    "message": "An officer from DEP-DRAIN has been assigned to address your grievance (ID: GRV-202608-BC7E54).",
+    "related_grievance_id": "GRV-202608-BC7E54",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T19:47:47Z",
+    "metadata": {
+      "status": "ASSIGNED",
+      "department_id": "DEP-DRAIN"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-B8A881",
+    "recipient_id": "CITIZEN-TEST-102",
+    "recipient_role": "CITIZEN",
+    "notification_type": "GRIEVANCE_SUBMITTED",
+    "title": "Grievance Submitted Successfully",
+    "message": "Your grievance 'Road Debris Issue' (ID: GRV-202608-DCB897) has been recorded and submitted for automated triage.",
+    "related_grievance_id": "GRV-202608-DCB897",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T19:47:47Z",
+    "metadata": {
+      "title": "Road Debris Issue",
+      "status": "SUBMITTED"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-AE912D",
+    "recipient_id": "USR-OFF-001",
+    "recipient_role": "OFFICER",
+    "notification_type": "GRIEVANCE_ASSIGNED",
+    "title": "New Grievance Assigned",
+    "message": "You have been assigned grievance 'Road Debris Issue' (ID: GRV-202608-DCB897) in department DEP-ROADS.",
+    "related_grievance_id": "GRV-202608-DCB897",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T19:47:47Z",
+    "metadata": {
+      "department_id": "DEP-ROADS",
+      "priority": "MEDIUM"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-D46FF5",
+    "recipient_id": "CITIZEN-TEST-102",
+    "recipient_role": "CITIZEN",
+    "notification_type": "STATUS_UPDATED",
+    "title": "Officer Assigned to Your Grievance",
+    "message": "An officer from DEP-ROADS has been assigned to address your grievance (ID: GRV-202608-DCB897).",
+    "related_grievance_id": "GRV-202608-DCB897",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T19:47:47Z",
+    "metadata": {
+      "status": "ASSIGNED",
+      "department_id": "DEP-ROADS"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-30ACDA",
+    "recipient_id": "USR-OFF-007",
+    "recipient_role": "OFFICER",
+    "notification_type": "GRIEVANCE_ASSIGNED",
+    "title": "New Grievance Assigned",
+    "message": "You have been assigned grievance 'Road Debris Issue' (ID: GRV-202608-DCB897) in department DEP-SWM.",
+    "related_grievance_id": "GRV-202608-DCB897",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T19:47:47Z",
+    "metadata": {
+      "department_id": "DEP-SWM",
+      "priority": "MEDIUM"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-859F56",
+    "recipient_id": "CITIZEN-TEST-102",
+    "recipient_role": "CITIZEN",
+    "notification_type": "STATUS_UPDATED",
+    "title": "Officer Assigned to Your Grievance",
+    "message": "An officer from DEP-SWM has been assigned to address your grievance (ID: GRV-202608-DCB897).",
+    "related_grievance_id": "GRV-202608-DCB897",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T19:47:47Z",
+    "metadata": {
+      "status": "ASSIGNED",
+      "department_id": "DEP-SWM"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-E4C82C",
+    "recipient_id": "USR-CITIZEN-001",
+    "recipient_role": "CITIZEN",
+    "notification_type": "GRIEVANCE_SUBMITTED",
+    "title": "Grievance Submitted Successfully",
+    "message": "Your grievance 'Severe road pothole causing motorcycle accidents' (ID: GRV-202608-4A864D) has been recorded and submitted for automated triage.",
+    "related_grievance_id": "GRV-202608-4A864D",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:02:43Z",
+    "metadata": {
+      "title": "Severe road pothole causing motorcycle accidents",
+      "status": "SUBMITTED"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-246C03",
+    "recipient_id": "DISPATCH-DEP-PARKS",
+    "recipient_role": "ADMIN",
+    "notification_type": "REVIEW_REQUIRED",
+    "title": "Grievance Requires Department Review",
+    "message": "Grievance (ID: GRV-202608-4A864D) requires manual review and routing. Reason: Low confidence classification threshold",
+    "related_grievance_id": "GRV-202608-4A864D",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:02:43Z",
+    "metadata": {
+      "department_id": "DEP-PARKS",
+      "reason": "Low confidence classification threshold"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-F9B4D8",
+    "recipient_id": "CITIZEN-002",
+    "recipient_role": "CITIZEN",
+    "notification_type": "STATUS_UPDATED",
+    "title": "Work Started on Grievance",
+    "message": "Officer Kavita Rao has started work on your grievance (ID: GRV-202608-1309C7).",
+    "related_grievance_id": "GRV-202608-1309C7",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:47:57Z",
+    "metadata": {
+      "status": "IN_PROGRESS"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-A83371",
+    "recipient_id": "CITIZEN-002",
+    "recipient_role": "CITIZEN",
+    "notification_type": "RESOLUTION_SUBMITTED",
+    "title": "Resolution Submitted by Officer",
+    "message": "Officer Kavita Rao has resolved your grievance (ID: GRV-202608-1309C7). Summary: Cleared bins.. Please confirm resolution or reopen if unsatisfied.",
+    "related_grievance_id": "GRV-202608-1309C7",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:47:57Z",
+    "metadata": {
+      "status": "RESOLVED",
+      "resolution_summary": "Cleared bins."
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-16F9BB",
+    "recipient_id": "USR-OFF-007",
+    "recipient_role": "OFFICER",
+    "notification_type": "GRIEVANCE_REOPENED",
+    "title": "Grievance Reopened by Citizen",
+    "message": "Grievance (ID: GRV-202608-1309C7) was reopened by CITIZEN-002. Reason: Garbage on opposite sidewalk was left uncollected and still smells bad.",
+    "related_grievance_id": "GRV-202608-1309C7",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:47:57Z",
+    "metadata": {
+      "status": "REOPENED",
+      "reason": "Garbage on opposite sidewalk was left uncollected and still smells bad."
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-4A414A",
+    "recipient_id": "USR-OFF-013",
+    "recipient_role": "OFFICER",
+    "notification_type": "GRIEVANCE_ASSIGNED",
+    "title": "New Grievance Assigned",
+    "message": "You have been assigned grievance 'Severe road crater and pothole causing accidents near school' (ID: GRV-202608-7A9F5A) in department DEP-CIVIC.",
+    "related_grievance_id": "GRV-202608-7A9F5A",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:48:46Z",
+    "metadata": {
+      "department_id": "DEP-CIVIC",
+      "priority": "HIGH"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-1BB6E2",
+    "recipient_id": "CITIZEN-PRAJWAL-001",
+    "recipient_role": "CITIZEN",
+    "notification_type": "STATUS_UPDATED",
+    "title": "Officer Assigned to Your Grievance",
+    "message": "An officer from DEP-CIVIC has been assigned to address your grievance (ID: GRV-202608-7A9F5A).",
+    "related_grievance_id": "GRV-202608-7A9F5A",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:48:46Z",
+    "metadata": {
+      "status": "ASSIGNED",
+      "department_id": "DEP-CIVIC"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-BB4996",
+    "recipient_id": "CITIZEN-002",
+    "recipient_role": "CITIZEN",
+    "notification_type": "STATUS_UPDATED",
+    "title": "Work Started on Grievance",
+    "message": "Officer Kavita Rao has started work on your grievance (ID: GRV-202608-1B13AC).",
+    "related_grievance_id": "GRV-202608-1B13AC",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:48:46Z",
+    "metadata": {
+      "status": "IN_PROGRESS"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-51E57C",
+    "recipient_id": "CITIZEN-002",
+    "recipient_role": "CITIZEN",
+    "notification_type": "RESOLUTION_SUBMITTED",
+    "title": "Resolution Submitted by Officer",
+    "message": "Officer Kavita Rao has resolved your grievance (ID: GRV-202608-1B13AC). Summary: Cleared bins.. Please confirm resolution or reopen if unsatisfied.",
+    "related_grievance_id": "GRV-202608-1B13AC",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:48:46Z",
+    "metadata": {
+      "status": "RESOLVED",
+      "resolution_summary": "Cleared bins."
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-E523F4",
+    "recipient_id": "USR-OFF-007",
+    "recipient_role": "OFFICER",
+    "notification_type": "GRIEVANCE_REOPENED",
+    "title": "Grievance Reopened by Citizen",
+    "message": "Grievance (ID: GRV-202608-1B13AC) was reopened by CITIZEN-002. Reason: Garbage on opposite sidewalk was left uncollected and still smells bad.",
+    "related_grievance_id": "GRV-202608-1B13AC",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:48:46Z",
+    "metadata": {
+      "status": "REOPENED",
+      "reason": "Garbage on opposite sidewalk was left uncollected and still smells bad."
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-51416D",
+    "recipient_id": "USR-OFF-007",
+    "recipient_role": "OFFICER",
+    "notification_type": "GRIEVANCE_REASSIGNED",
+    "title": "Grievance Reassigned",
+    "message": "Grievance 'Uncollected street garbage dumping' (ID: GRV-202608-1B13AC) has been reassigned to another officer. Reason: Citizen requested thorough inspection of entire street corner.",
+    "related_grievance_id": "GRV-202608-1B13AC",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:48:46Z",
+    "metadata": {
+      "reason": "Citizen requested thorough inspection of entire street corner.",
+      "reassigned_by": "USR-ADMIN-001"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-9B4D0C",
+    "recipient_id": "USR-OFF-007",
+    "recipient_role": "OFFICER",
+    "notification_type": "GRIEVANCE_ASSIGNED",
+    "title": "New Grievance Reassigned to You",
+    "message": "Grievance 'Uncollected street garbage dumping' (ID: GRV-202608-1B13AC) has been reassigned to you. Reason: Citizen requested thorough inspection of entire street corner.",
+    "related_grievance_id": "GRV-202608-1B13AC",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:48:46Z",
+    "metadata": {
+      "reason": "Citizen requested thorough inspection of entire street corner.",
+      "reassigned_by": "USR-ADMIN-001"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-6BA39C",
+    "recipient_id": "CITIZEN-002",
+    "recipient_role": "CITIZEN",
+    "notification_type": "STATUS_UPDATED",
+    "title": "Grievance Reassigned to Officer",
+    "message": "Your grievance (ID: GRV-202608-1B13AC) has been reassigned to an active field officer for faster resolution.",
+    "related_grievance_id": "GRV-202608-1B13AC",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:48:46Z",
+    "metadata": {
+      "status": "ASSIGNED"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-1EB47B",
+    "recipient_id": "USR-OFF-003",
+    "recipient_role": "OFFICER",
+    "notification_type": "GRIEVANCE_ASSIGNED",
+    "title": "New Grievance Assigned",
+    "message": "You have been assigned grievance 'Severe road crater and pothole causing accidents near school' (ID: GRV-202608-12A55F) in department DEP-ROADS.",
+    "related_grievance_id": "GRV-202608-12A55F",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:49:31Z",
+    "metadata": {
+      "department_id": "DEP-ROADS",
+      "priority": "HIGH"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-0B5BDC",
+    "recipient_id": "CITIZEN-PRAJWAL-001",
+    "recipient_role": "CITIZEN",
+    "notification_type": "STATUS_UPDATED",
+    "title": "Officer Assigned to Your Grievance",
+    "message": "An officer from DEP-ROADS has been assigned to address your grievance (ID: GRV-202608-12A55F).",
+    "related_grievance_id": "GRV-202608-12A55F",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:49:31Z",
+    "metadata": {
+      "status": "ASSIGNED",
+      "department_id": "DEP-ROADS"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-639A21",
+    "recipient_id": "CITIZEN-002",
+    "recipient_role": "CITIZEN",
+    "notification_type": "STATUS_UPDATED",
+    "title": "Work Started on Grievance",
+    "message": "Officer Kavita Rao has started work on your grievance (ID: GRV-202608-49662A).",
+    "related_grievance_id": "GRV-202608-49662A",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:49:32Z",
+    "metadata": {
+      "status": "IN_PROGRESS"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-0213C1",
+    "recipient_id": "CITIZEN-002",
+    "recipient_role": "CITIZEN",
+    "notification_type": "RESOLUTION_SUBMITTED",
+    "title": "Resolution Submitted by Officer",
+    "message": "Officer Kavita Rao has resolved your grievance (ID: GRV-202608-49662A). Summary: Cleared bins.. Please confirm resolution or reopen if unsatisfied.",
+    "related_grievance_id": "GRV-202608-49662A",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:49:32Z",
+    "metadata": {
+      "status": "RESOLVED",
+      "resolution_summary": "Cleared bins."
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-F10A61",
+    "recipient_id": "USR-OFF-007",
+    "recipient_role": "OFFICER",
+    "notification_type": "GRIEVANCE_REOPENED",
+    "title": "Grievance Reopened by Citizen",
+    "message": "Grievance (ID: GRV-202608-49662A) was reopened by CITIZEN-002. Reason: Garbage on opposite sidewalk was left uncollected and still smells bad.",
+    "related_grievance_id": "GRV-202608-49662A",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:49:32Z",
+    "metadata": {
+      "status": "REOPENED",
+      "reason": "Garbage on opposite sidewalk was left uncollected and still smells bad."
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-DA492F",
+    "recipient_id": "USR-OFF-007",
+    "recipient_role": "OFFICER",
+    "notification_type": "GRIEVANCE_REASSIGNED",
+    "title": "Grievance Reassigned",
+    "message": "Grievance 'Uncollected street garbage dumping' (ID: GRV-202608-49662A) has been reassigned to another officer. Reason: Citizen requested thorough inspection of entire street corner.",
+    "related_grievance_id": "GRV-202608-49662A",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:49:32Z",
+    "metadata": {
+      "reason": "Citizen requested thorough inspection of entire street corner.",
+      "reassigned_by": "USR-ADMIN-001"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-DA5E86",
+    "recipient_id": "USR-OFF-007",
+    "recipient_role": "OFFICER",
+    "notification_type": "GRIEVANCE_ASSIGNED",
+    "title": "New Grievance Reassigned to You",
+    "message": "Grievance 'Uncollected street garbage dumping' (ID: GRV-202608-49662A) has been reassigned to you. Reason: Citizen requested thorough inspection of entire street corner.",
+    "related_grievance_id": "GRV-202608-49662A",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:49:32Z",
+    "metadata": {
+      "reason": "Citizen requested thorough inspection of entire street corner.",
+      "reassigned_by": "USR-ADMIN-001"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-5E28DA",
+    "recipient_id": "CITIZEN-002",
+    "recipient_role": "CITIZEN",
+    "notification_type": "STATUS_UPDATED",
+    "title": "Grievance Reassigned to Officer",
+    "message": "Your grievance (ID: GRV-202608-49662A) has been reassigned to an active field officer for faster resolution.",
+    "related_grievance_id": "GRV-202608-49662A",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:49:32Z",
+    "metadata": {
+      "status": "ASSIGNED"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-4B194F",
+    "recipient_id": "USR-OFF-001",
+    "recipient_role": "OFFICER",
+    "notification_type": "GRIEVANCE_ASSIGNED",
+    "title": "New Grievance Assigned",
+    "message": "You have been assigned grievance 'Severe road crater and pothole causing accidents near school' (ID: GRV-202608-E551B2) in department DEP-ROADS.",
+    "related_grievance_id": "GRV-202608-E551B2",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:50:21Z",
+    "metadata": {
+      "department_id": "DEP-ROADS",
+      "priority": "HIGH"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-5D0412",
+    "recipient_id": "CITIZEN-PRAJWAL-001",
+    "recipient_role": "CITIZEN",
+    "notification_type": "STATUS_UPDATED",
+    "title": "Officer Assigned to Your Grievance",
+    "message": "An officer from DEP-ROADS has been assigned to address your grievance (ID: GRV-202608-E551B2).",
+    "related_grievance_id": "GRV-202608-E551B2",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:50:21Z",
+    "metadata": {
+      "status": "ASSIGNED",
+      "department_id": "DEP-ROADS"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-DE4F6F",
+    "recipient_id": "CITIZEN-PRAJWAL-001",
+    "recipient_role": "CITIZEN",
+    "notification_type": "STATUS_UPDATED",
+    "title": "Work Started on Grievance",
+    "message": "Officer Rajesh Kumar has started work on your grievance (ID: GRV-202608-E551B2).",
+    "related_grievance_id": "GRV-202608-E551B2",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:50:21Z",
+    "metadata": {
+      "status": "IN_PROGRESS"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-846FA8",
+    "recipient_id": "CITIZEN-PRAJWAL-001",
+    "recipient_role": "CITIZEN",
+    "notification_type": "PROGRESS_UPDATED",
+    "title": "Progress Update: Work Initiated",
+    "message": "Officer Rajesh Kumar posted an update: Bitumen base laid, roller compaction in progress.",
+    "related_grievance_id": "GRV-202608-E551B2",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:50:21Z",
+    "metadata": {
+      "stage": "WORK_INITIATED",
+      "note": "Bitumen base laid, roller compaction in progress."
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-7D99BA",
+    "recipient_id": "CITIZEN-PRAJWAL-001",
+    "recipient_role": "CITIZEN",
+    "notification_type": "RESOLUTION_SUBMITTED",
+    "title": "Resolution Submitted by Officer",
+    "message": "Officer Rajesh Kumar has resolved your grievance (ID: GRV-202608-E551B2). Summary: Pothole completely repaired and leveled with high-grade asphalt.. Please confirm resolution or reopen if unsatisfied.",
+    "related_grievance_id": "GRV-202608-E551B2",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:50:21Z",
+    "metadata": {
+      "status": "RESOLVED",
+      "resolution_summary": "Pothole completely repaired and leveled with high-grade asphalt."
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-D12BE4",
+    "recipient_id": "CITIZEN-002",
+    "recipient_role": "CITIZEN",
+    "notification_type": "STATUS_UPDATED",
+    "title": "Work Started on Grievance",
+    "message": "Officer Kavita Rao has started work on your grievance (ID: GRV-202608-C42DDF).",
+    "related_grievance_id": "GRV-202608-C42DDF",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:50:21Z",
+    "metadata": {
+      "status": "IN_PROGRESS"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-A9C76D",
+    "recipient_id": "CITIZEN-002",
+    "recipient_role": "CITIZEN",
+    "notification_type": "RESOLUTION_SUBMITTED",
+    "title": "Resolution Submitted by Officer",
+    "message": "Officer Kavita Rao has resolved your grievance (ID: GRV-202608-C42DDF). Summary: Cleared bins.. Please confirm resolution or reopen if unsatisfied.",
+    "related_grievance_id": "GRV-202608-C42DDF",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:50:21Z",
+    "metadata": {
+      "status": "RESOLVED",
+      "resolution_summary": "Cleared bins."
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-F9E259",
+    "recipient_id": "USR-OFF-007",
+    "recipient_role": "OFFICER",
+    "notification_type": "GRIEVANCE_REOPENED",
+    "title": "Grievance Reopened by Citizen",
+    "message": "Grievance (ID: GRV-202608-C42DDF) was reopened by CITIZEN-002. Reason: Garbage on opposite sidewalk was left uncollected and still smells bad.",
+    "related_grievance_id": "GRV-202608-C42DDF",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:50:21Z",
+    "metadata": {
+      "status": "REOPENED",
+      "reason": "Garbage on opposite sidewalk was left uncollected and still smells bad."
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-8E8D09",
+    "recipient_id": "USR-OFF-007",
+    "recipient_role": "OFFICER",
+    "notification_type": "GRIEVANCE_REASSIGNED",
+    "title": "Grievance Reassigned",
+    "message": "Grievance 'Uncollected street garbage dumping' (ID: GRV-202608-C42DDF) has been reassigned to another officer. Reason: Citizen requested thorough inspection of entire street corner.",
+    "related_grievance_id": "GRV-202608-C42DDF",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:50:21Z",
+    "metadata": {
+      "reason": "Citizen requested thorough inspection of entire street corner.",
+      "reassigned_by": "USR-ADMIN-001"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-2A0967",
+    "recipient_id": "USR-OFF-007",
+    "recipient_role": "OFFICER",
+    "notification_type": "GRIEVANCE_ASSIGNED",
+    "title": "New Grievance Reassigned to You",
+    "message": "Grievance 'Uncollected street garbage dumping' (ID: GRV-202608-C42DDF) has been reassigned to you. Reason: Citizen requested thorough inspection of entire street corner.",
+    "related_grievance_id": "GRV-202608-C42DDF",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:50:21Z",
+    "metadata": {
+      "reason": "Citizen requested thorough inspection of entire street corner.",
+      "reassigned_by": "USR-ADMIN-001"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-CC131F",
+    "recipient_id": "CITIZEN-002",
+    "recipient_role": "CITIZEN",
+    "notification_type": "STATUS_UPDATED",
+    "title": "Grievance Reassigned to Officer",
+    "message": "Your grievance (ID: GRV-202608-C42DDF) has been reassigned to an active field officer for faster resolution.",
+    "related_grievance_id": "GRV-202608-C42DDF",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:50:21Z",
+    "metadata": {
+      "status": "ASSIGNED"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-402E1C",
+    "recipient_id": "USR-OFF-001",
+    "recipient_role": "OFFICER",
+    "notification_type": "GRIEVANCE_ASSIGNED",
+    "title": "New Grievance Assigned",
+    "message": "You have been assigned grievance 'Severe road crater and pothole causing accidents near school' (ID: GRV-202608-23262A) in department DEP-ROADS.",
+    "related_grievance_id": "GRV-202608-23262A",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:50:49Z",
+    "metadata": {
+      "department_id": "DEP-ROADS",
+      "priority": "HIGH"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-2C668A",
+    "recipient_id": "CITIZEN-PRAJWAL-001",
+    "recipient_role": "CITIZEN",
+    "notification_type": "STATUS_UPDATED",
+    "title": "Officer Assigned to Your Grievance",
+    "message": "An officer from DEP-ROADS has been assigned to address your grievance (ID: GRV-202608-23262A).",
+    "related_grievance_id": "GRV-202608-23262A",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:50:49Z",
+    "metadata": {
+      "status": "ASSIGNED",
+      "department_id": "DEP-ROADS"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-C22C02",
+    "recipient_id": "CITIZEN-PRAJWAL-001",
+    "recipient_role": "CITIZEN",
+    "notification_type": "STATUS_UPDATED",
+    "title": "Work Started on Grievance",
+    "message": "Officer Rajesh Kumar has started work on your grievance (ID: GRV-202608-23262A).",
+    "related_grievance_id": "GRV-202608-23262A",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:50:49Z",
+    "metadata": {
+      "status": "IN_PROGRESS"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-EC8F02",
+    "recipient_id": "CITIZEN-PRAJWAL-001",
+    "recipient_role": "CITIZEN",
+    "notification_type": "PROGRESS_UPDATED",
+    "title": "Progress Update: Work Initiated",
+    "message": "Officer Rajesh Kumar posted an update: Bitumen base laid, roller compaction in progress.",
+    "related_grievance_id": "GRV-202608-23262A",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:50:49Z",
+    "metadata": {
+      "stage": "WORK_INITIATED",
+      "note": "Bitumen base laid, roller compaction in progress."
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-FC1ED6",
+    "recipient_id": "CITIZEN-PRAJWAL-001",
+    "recipient_role": "CITIZEN",
+    "notification_type": "RESOLUTION_SUBMITTED",
+    "title": "Resolution Submitted by Officer",
+    "message": "Officer Rajesh Kumar has resolved your grievance (ID: GRV-202608-23262A). Summary: Pothole completely repaired and leveled with high-grade asphalt.. Please confirm resolution or reopen if unsatisfied.",
+    "related_grievance_id": "GRV-202608-23262A",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:50:49Z",
+    "metadata": {
+      "status": "RESOLVED",
+      "resolution_summary": "Pothole completely repaired and leveled with high-grade asphalt."
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-7D45EE",
+    "recipient_id": "CITIZEN-002",
+    "recipient_role": "CITIZEN",
+    "notification_type": "STATUS_UPDATED",
+    "title": "Work Started on Grievance",
+    "message": "Officer Kavita Rao has started work on your grievance (ID: GRV-202608-72C419).",
+    "related_grievance_id": "GRV-202608-72C419",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:50:49Z",
+    "metadata": {
+      "status": "IN_PROGRESS"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-8DE256",
+    "recipient_id": "CITIZEN-002",
+    "recipient_role": "CITIZEN",
+    "notification_type": "RESOLUTION_SUBMITTED",
+    "title": "Resolution Submitted by Officer",
+    "message": "Officer Kavita Rao has resolved your grievance (ID: GRV-202608-72C419). Summary: Cleared bins.. Please confirm resolution or reopen if unsatisfied.",
+    "related_grievance_id": "GRV-202608-72C419",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:50:49Z",
+    "metadata": {
+      "status": "RESOLVED",
+      "resolution_summary": "Cleared bins."
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-4A9C75",
+    "recipient_id": "USR-OFF-007",
+    "recipient_role": "OFFICER",
+    "notification_type": "GRIEVANCE_REOPENED",
+    "title": "Grievance Reopened by Citizen",
+    "message": "Grievance (ID: GRV-202608-72C419) was reopened by CITIZEN-002. Reason: Garbage on opposite sidewalk was left uncollected and still smells bad.",
+    "related_grievance_id": "GRV-202608-72C419",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:50:49Z",
+    "metadata": {
+      "status": "REOPENED",
+      "reason": "Garbage on opposite sidewalk was left uncollected and still smells bad."
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-0F7DE0",
+    "recipient_id": "USR-OFF-007",
+    "recipient_role": "OFFICER",
+    "notification_type": "GRIEVANCE_REASSIGNED",
+    "title": "Grievance Reassigned",
+    "message": "Grievance 'Uncollected street garbage dumping' (ID: GRV-202608-72C419) has been reassigned to another officer. Reason: Citizen requested thorough inspection of entire street corner.",
+    "related_grievance_id": "GRV-202608-72C419",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:50:49Z",
+    "metadata": {
+      "reason": "Citizen requested thorough inspection of entire street corner.",
+      "reassigned_by": "USR-ADMIN-001"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-22D8A6",
+    "recipient_id": "USR-OFF-007",
+    "recipient_role": "OFFICER",
+    "notification_type": "GRIEVANCE_ASSIGNED",
+    "title": "New Grievance Reassigned to You",
+    "message": "Grievance 'Uncollected street garbage dumping' (ID: GRV-202608-72C419) has been reassigned to you. Reason: Citizen requested thorough inspection of entire street corner.",
+    "related_grievance_id": "GRV-202608-72C419",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:50:49Z",
+    "metadata": {
+      "reason": "Citizen requested thorough inspection of entire street corner.",
+      "reassigned_by": "USR-ADMIN-001"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-95977A",
+    "recipient_id": "CITIZEN-002",
+    "recipient_role": "CITIZEN",
+    "notification_type": "STATUS_UPDATED",
+    "title": "Grievance Reassigned to Officer",
+    "message": "Your grievance (ID: GRV-202608-72C419) has been reassigned to an active field officer for faster resolution.",
+    "related_grievance_id": "GRV-202608-72C419",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T20:50:49Z",
+    "metadata": {
+      "status": "ASSIGNED"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-94BF5D",
+    "recipient_id": "usr_cit_01",
+    "recipient_role": "CITIZEN",
+    "notification_type": "GRIEVANCE_SUBMITTED",
+    "title": "Grievance Submitted Successfully",
+    "message": "Your grievance 'Electric wire are open in Chatrapati Square' (ID: GRV-202608-004221) has been recorded and submitted for automated triage.",
+    "related_grievance_id": "GRV-202608-004221",
+    "is_read": true,
+    "read_at": "2026-08-21T21:38:23Z",
+    "created_at": "2026-08-21T21:38:01Z",
+    "metadata": {
+      "title": "Electric wire are open in Chatrapati Square",
+      "status": "SUBMITTED"
+    }
+  },
+  {
+    "notification_id": "NOTIF-202608-BF7DE8",
+    "recipient_id": "DISPATCH-DEP-ELEC",
+    "recipient_role": "ADMIN",
+    "notification_type": "REVIEW_REQUIRED",
+    "title": "Grievance Requires Department Review",
+    "message": "Grievance (ID: GRV-202608-004221) requires manual review and routing. Reason: Low confidence classification threshold",
+    "related_grievance_id": "GRV-202608-004221",
+    "is_read": false,
+    "read_at": null,
+    "created_at": "2026-08-21T21:38:01Z",
+    "metadata": {
+      "department_id": "DEP-ELEC",
+      "reason": "Low confidence classification threshold"
+    }
+  }
+]

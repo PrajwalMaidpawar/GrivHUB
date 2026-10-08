@@ -1,0 +1,1181 @@
+{
+  "Solid Waste (Garbage) Related -> Garbage dump": {
+    "source_category": "Solid Waste (Garbage) Related",
+    "source_subcategory": "Garbage dump",
+    "count": 2661,
+    "percentage": 26.61,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Solid waste collection, street sweeping, dumping, or dead animal disposal"
+  },
+  "Electrical -> Street Light Not Working": {
+    "source_category": "Electrical",
+    "source_subcategory": "Street Light Not Working",
+    "count": 2497,
+    "percentage": 24.97,
+    "target_category": "Street/Public Electrical Infrastructure",
+    "status": "DIRECT MATCH",
+    "reason": "Streetlight failure and electrical utility maintenance"
+  },
+  "Solid Waste (Garbage) Related -> Garbage vehicle not arrived": {
+    "source_category": "Solid Waste (Garbage) Related",
+    "source_subcategory": "Garbage vehicle not arrived",
+    "count": 916,
+    "percentage": 9.16,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Solid waste collection, street sweeping, dumping, or dead animal disposal"
+  },
+  "Forest -> Removal of dead/fallen trees": {
+    "source_category": "Forest",
+    "source_subcategory": "Removal of dead/fallen trees",
+    "count": 297,
+    "percentage": 2.97,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Fallen tree removal, branch pruning, park maintenance, or lake preservation"
+  },
+  "Forest -> obstructions Branches / Trees.": {
+    "source_category": "Forest",
+    "source_subcategory": "obstructions Branches / Trees.",
+    "count": 277,
+    "percentage": 2.77,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Fallen tree removal, branch pruning, park maintenance, or lake preservation"
+  },
+  "Road Maintenance(Engg) -> Potholes": {
+    "source_category": "Road Maintenance(Engg)",
+    "source_subcategory": "Potholes",
+    "count": 253,
+    "percentage": 2.53,
+    "target_category": "Street/Public Electrical Infrastructure",
+    "status": "DIRECT MATCH",
+    "reason": "Road surface degradation, pothole, or footpath defect"
+  },
+  "Road Maintenance(Engg) -> Road side drains": {
+    "source_category": "Road Maintenance(Engg)",
+    "source_subcategory": "Road side drains",
+    "count": 194,
+    "percentage": 1.94,
+    "target_category": "Street/Public Electrical Infrastructure",
+    "status": "DIRECT MATCH",
+    "reason": "Road surface degradation, pothole, or footpath defect"
+  },
+  "veterinary -> Stray dog related complaints": {
+    "source_category": "veterinary",
+    "source_subcategory": "Stray dog related complaints",
+    "count": 179,
+    "percentage": 1.79,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Stray animal control, dog menace, animal welfare"
+  },
+  "Road Infrastructure -> Road Infrastructure": {
+    "source_category": "Road Infrastructure",
+    "source_subcategory": "Road Infrastructure",
+    "count": 174,
+    "percentage": 1.74,
+    "target_category": "Street/Public Electrical Infrastructure",
+    "status": "DIRECT MATCH",
+    "reason": "Road surface degradation, pothole, or footpath defect"
+  },
+  "Solid Waste (Garbage) Related -> Garbage dumping in vacant sites": {
+    "source_category": "Solid Waste (Garbage) Related",
+    "source_subcategory": "Garbage dumping in vacant sites",
+    "count": 167,
+    "percentage": 1.67,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Solid waste collection, street sweeping, dumping, or dead animal disposal"
+  },
+  "Road Maintenance(Engg) -> Debris Removal / Construction Material": {
+    "source_category": "Road Maintenance(Engg)",
+    "source_subcategory": "Debris Removal / Construction Material",
+    "count": 149,
+    "percentage": 1.49,
+    "target_category": "Street/Public Electrical Infrastructure",
+    "status": "POSSIBLE MATCH",
+    "reason": "Municipal engineering road infrastructure maintenance"
+  },
+  "Health Dept -> Dengue positive": {
+    "source_category": "Health Dept",
+    "source_subcategory": "Dengue positive",
+    "count": 132,
+    "percentage": 1.32,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Public health, hygiene inspection, food safety"
+  },
+  "Solid Waste (Garbage) Related -> Sweeping not done": {
+    "source_category": "Solid Waste (Garbage) Related",
+    "source_subcategory": "Sweeping not done",
+    "count": 126,
+    "percentage": 1.26,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Solid waste collection, street sweeping, dumping, or dead animal disposal"
+  },
+  "veterinary -> Animal Rescue - Not well - Requires attention": {
+    "source_category": "veterinary",
+    "source_subcategory": "Animal Rescue - Not well - Requires attention",
+    "count": 97,
+    "percentage": 0.97,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Stray animal control, dog menace, animal welfare"
+  },
+  "Road Maintenance(Engg) -> water stagnation": {
+    "source_category": "Road Maintenance(Engg)",
+    "source_subcategory": "water stagnation",
+    "count": 89,
+    "percentage": 0.89,
+    "target_category": "Street/Public Electrical Infrastructure",
+    "status": "POSSIBLE MATCH",
+    "reason": "Municipal engineering road infrastructure maintenance"
+  },
+  "Solid Waste (Garbage) Related -> Dead animal(s)": {
+    "source_category": "Solid Waste (Garbage) Related",
+    "source_subcategory": "Dead animal(s)",
+    "count": 89,
+    "percentage": 0.89,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Solid waste collection, street sweeping, dumping, or dead animal disposal"
+  },
+  "veterinary -> Fatally injured - Needs immediate attention": {
+    "source_category": "veterinary",
+    "source_subcategory": "Fatally injured - Needs immediate attention",
+    "count": 87,
+    "percentage": 0.87,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Municipal veterinary service"
+  },
+  "Others -> Others": {
+    "source_category": "Others",
+    "source_subcategory": "Others",
+    "count": 86,
+    "percentage": 0.86,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Unclear/unsupported municipal jurisdiction or unspecified category"
+  },
+  "Road Maintenance(Engg) -> Footpath": {
+    "source_category": "Road Maintenance(Engg)",
+    "source_subcategory": "Footpath",
+    "count": 81,
+    "percentage": 0.81,
+    "target_category": "Street/Public Electrical Infrastructure",
+    "status": "DIRECT MATCH",
+    "reason": "Road surface degradation, pothole, or footpath defect"
+  },
+  "Road Maintenance(Engg) -> Road cutting": {
+    "source_category": "Road Maintenance(Engg)",
+    "source_subcategory": "Road cutting",
+    "count": 69,
+    "percentage": 0.69,
+    "target_category": "Street/Public Electrical Infrastructure",
+    "status": "DIRECT MATCH",
+    "reason": "Road surface degradation, pothole, or footpath defect"
+  },
+  "veterinary -> Animal birth control/neutering of stray dogs": {
+    "source_category": "veterinary",
+    "source_subcategory": "Animal birth control/neutering of stray dogs",
+    "count": 65,
+    "percentage": 0.65,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Stray animal control, dog menace, animal welfare"
+  },
+  "Road Maintenance(Engg) -> footpath encroachment": {
+    "source_category": "Road Maintenance(Engg)",
+    "source_subcategory": "footpath encroachment",
+    "count": 63,
+    "percentage": 0.63,
+    "target_category": "Street/Public Electrical Infrastructure",
+    "status": "DIRECT MATCH",
+    "reason": "Road surface degradation, pothole, or footpath defect"
+  },
+  "E khata / Khata services -> ekhata approval pending with ARO": {
+    "source_category": "E khata / Khata services",
+    "source_subcategory": "ekhata approval pending with ARO",
+    "count": 63,
+    "percentage": 0.63,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Municipal documentation, property tax/khata records, civic administration"
+  },
+  "E khata / Khata services -> Other Khata / ekhata issues": {
+    "source_category": "E khata / Khata services",
+    "source_subcategory": "Other Khata / ekhata issues",
+    "count": 59,
+    "percentage": 0.59,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Municipal documentation, property tax/khata records, civic administration"
+  },
+  "Parks and Play grounds -> Issues Related to Parks/Medians/Circles/Island.": {
+    "source_category": "Parks and Play grounds",
+    "source_subcategory": "Issues Related to Parks/Medians/Circles/Island.",
+    "count": 54,
+    "percentage": 0.54,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Fallen tree removal, branch pruning, park maintenance, or lake preservation"
+  },
+  "Electrical -> Street Lights Switched On During Day Time": {
+    "source_category": "Electrical",
+    "source_subcategory": "Street Lights Switched On During Day Time",
+    "count": 53,
+    "percentage": 0.53,
+    "target_category": "Street/Public Electrical Infrastructure",
+    "status": "DIRECT MATCH",
+    "reason": "Streetlight failure and electrical utility maintenance"
+  },
+  "Electrical -> Requirement For New Street Lights": {
+    "source_category": "Electrical",
+    "source_subcategory": "Requirement For New Street Lights",
+    "count": 51,
+    "percentage": 0.51,
+    "target_category": "Street/Public Electrical Infrastructure",
+    "status": "DIRECT MATCH",
+    "reason": "Streetlight failure and electrical utility maintenance"
+  },
+  "veterinary -> Stray/Rabid dog bite": {
+    "source_category": "veterinary",
+    "source_subcategory": "Stray/Rabid dog bite",
+    "count": 44,
+    "percentage": 0.44,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Stray animal control, dog menace, animal welfare"
+  },
+  "E khata / Khata services -> Technical Issue In Ekhata": {
+    "source_category": "E khata / Khata services",
+    "source_subcategory": "Technical Issue In Ekhata",
+    "count": 42,
+    "percentage": 0.42,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Municipal documentation, property tax/khata records, civic administration"
+  },
+  "Storm  Water Drain(SWD) -> Maintenance of SWD": {
+    "source_category": "Storm  Water Drain(SWD)",
+    "source_subcategory": "Maintenance of SWD",
+    "count": 41,
+    "percentage": 0.41,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Stormwater drain, desilting, sewer overflow, or culvert issue"
+  },
+  "Storm  Water Drain(SWD) -> Sewerage water left in SWD": {
+    "source_category": "Storm  Water Drain(SWD)",
+    "source_subcategory": "Sewerage water left in SWD",
+    "count": 40,
+    "percentage": 0.4,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Stormwater drain, desilting, sewer overflow, or culvert issue"
+  },
+  "Health Dept -> Increase in mosquito density": {
+    "source_category": "Health Dept",
+    "source_subcategory": "Increase in mosquito density",
+    "count": 40,
+    "percentage": 0.4,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Public health, hygiene inspection, food safety"
+  },
+  "Revenue Department -> Khata Services (Registration, Transfer, Bifurcation and Amalgamation)": {
+    "source_category": "Revenue Department",
+    "source_subcategory": "Khata Services (Registration, Transfer, Bifurcation and Amalgamation)",
+    "count": 40,
+    "percentage": 0.4,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Municipal documentation, property tax/khata records, civic administration"
+  },
+  "Solid Waste (Garbage) Related -> Complaint against SW collector/ SWM official for violation of SWM Rules": {
+    "source_category": "Solid Waste (Garbage) Related",
+    "source_subcategory": "Complaint against SW collector/ SWM official for violation of SWM Rules",
+    "count": 37,
+    "percentage": 0.37,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Sanitation & waste related municipal issue"
+  },
+  "Health Dept -> Air/Noise pollution": {
+    "source_category": "Health Dept",
+    "source_subcategory": "Air/Noise pollution",
+    "count": 36,
+    "percentage": 0.36,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Public health, hygiene inspection, food safety"
+  },
+  "E khata / Khata services -> Ekhata missing in online": {
+    "source_category": "E khata / Khata services",
+    "source_subcategory": "Ekhata missing in online",
+    "count": 35,
+    "percentage": 0.35,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Municipal documentation, property tax/khata records, civic administration"
+  },
+  "veterinary -> shifting of the street dogs to other places": {
+    "source_category": "veterinary",
+    "source_subcategory": "shifting of the street dogs to other places",
+    "count": 32,
+    "percentage": 0.32,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Stray animal control, dog menace, animal welfare"
+  },
+  "Solid Waste (Garbage) Related -> Burning of Garbage in Open Space": {
+    "source_category": "Solid Waste (Garbage) Related",
+    "source_subcategory": "Burning of Garbage in Open Space",
+    "count": 31,
+    "percentage": 0.31,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Solid waste collection, street sweeping, dumping, or dead animal disposal"
+  },
+  "Solid Waste (Garbage) Related -> Garbage transfer not as per norms & area not kept clean": {
+    "source_category": "Solid Waste (Garbage) Related",
+    "source_subcategory": "Garbage transfer not as per norms & area not kept clean",
+    "count": 28,
+    "percentage": 0.28,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Solid waste collection, street sweeping, dumping, or dead animal disposal"
+  },
+  "E khata / Khata services -> Ekhata - name correction": {
+    "source_category": "E khata / Khata services",
+    "source_subcategory": "Ekhata - name correction",
+    "count": 26,
+    "percentage": 0.26,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Municipal documentation, property tax/khata records, civic administration"
+  },
+  "Solid Waste (Garbage) Related -> Public dustbins not cleaned": {
+    "source_category": "Solid Waste (Garbage) Related",
+    "source_subcategory": "Public dustbins not cleaned",
+    "count": 24,
+    "percentage": 0.24,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Sanitation & waste related municipal issue"
+  },
+  "Advertisement -> Flex and banners": {
+    "source_category": "Advertisement",
+    "source_subcategory": "Flex and banners",
+    "count": 22,
+    "percentage": 0.22,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Illegal hoarding/flex banner removal"
+  },
+  "veterinary -> Anti Rabies Vaccination of stray dogs": {
+    "source_category": "veterinary",
+    "source_subcategory": "Anti Rabies Vaccination of stray dogs",
+    "count": 21,
+    "percentage": 0.21,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Stray animal control, dog menace, animal welfare"
+  },
+  "Town Planning -> UnAuthorised Building Constructions": {
+    "source_category": "Town Planning",
+    "source_subcategory": "UnAuthorised Building Constructions",
+    "count": 20,
+    "percentage": 0.2,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Municipal documentation, property tax/khata records, civic administration"
+  },
+  "Solid Waste (Garbage) Related -> Garbage nuisance while transporting": {
+    "source_category": "Solid Waste (Garbage) Related",
+    "source_subcategory": "Garbage nuisance while transporting",
+    "count": 18,
+    "percentage": 0.18,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Solid waste collection, street sweeping, dumping, or dead animal disposal"
+  },
+  "Health Dept -> Unhygienic premises in Hotel etc": {
+    "source_category": "Health Dept",
+    "source_subcategory": "Unhygienic premises in Hotel etc",
+    "count": 18,
+    "percentage": 0.18,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Public health, hygiene inspection, food safety"
+  },
+  "Road Maintenance(Engg) -> UnAuthorised Constructions": {
+    "source_category": "Road Maintenance(Engg)",
+    "source_subcategory": "UnAuthorised Constructions",
+    "count": 17,
+    "percentage": 0.17,
+    "target_category": "Street/Public Electrical Infrastructure",
+    "status": "POSSIBLE MATCH",
+    "reason": "Municipal engineering road infrastructure maintenance"
+  },
+  "Parks and Play grounds -> Gym/Children Play equipment in the parks": {
+    "source_category": "Parks and Play grounds",
+    "source_subcategory": "Gym/Children Play equipment in the parks",
+    "count": 16,
+    "percentage": 0.16,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Fallen tree removal, branch pruning, park maintenance, or lake preservation"
+  },
+  "E khata / Khata services -> Ekhata Other corrections": {
+    "source_category": "E khata / Khata services",
+    "source_subcategory": "Ekhata Other corrections",
+    "count": 16,
+    "percentage": 0.16,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Municipal documentation, property tax/khata records, civic administration"
+  },
+  "Health Dept -> Spraying": {
+    "source_category": "Health Dept",
+    "source_subcategory": "Spraying",
+    "count": 15,
+    "percentage": 0.15,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Public health, hygiene inspection, food safety"
+  },
+  "Storm  Water Drain(SWD) -> Garbage thrown in storm water drain": {
+    "source_category": "Storm  Water Drain(SWD)",
+    "source_subcategory": "Garbage thrown in storm water drain",
+    "count": 15,
+    "percentage": 0.15,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Stormwater drain, desilting, sewer overflow, or culvert issue"
+  },
+  "veterinary -> Stray cattle related complaints": {
+    "source_category": "veterinary",
+    "source_subcategory": "Stray cattle related complaints",
+    "count": 14,
+    "percentage": 0.14,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Stray animal control, dog menace, animal welfare"
+  },
+  "Electrical -> Earthing Issue relate to Electric Poles/Panel Boards": {
+    "source_category": "Electrical",
+    "source_subcategory": "Earthing Issue relate to Electric Poles/Panel Boards",
+    "count": 13,
+    "percentage": 0.13,
+    "target_category": "Street/Public Electrical Infrastructure",
+    "status": "DIRECT MATCH",
+    "reason": "Streetlight failure and electrical utility maintenance"
+  },
+  "Electrical -> Park Lights Not Working": {
+    "source_category": "Electrical",
+    "source_subcategory": "Park Lights Not Working",
+    "count": 12,
+    "percentage": 0.12,
+    "target_category": "Street/Public Electrical Infrastructure",
+    "status": "DIRECT MATCH",
+    "reason": "Streetlight failure and electrical utility maintenance"
+  },
+  "E khata / Khata services -> Ekhata Area Correction": {
+    "source_category": "E khata / Khata services",
+    "source_subcategory": "Ekhata Area Correction",
+    "count": 12,
+    "percentage": 0.12,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Municipal documentation, property tax/khata records, civic administration"
+  },
+  "Town Planning -> Construction not done as per approved plan (Building Bye Law Violations)": {
+    "source_category": "Town Planning",
+    "source_subcategory": "Construction not done as per approved plan (Building Bye Law Violations)",
+    "count": 10,
+    "percentage": 0.1,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Municipal documentation, property tax/khata records, civic administration"
+  },
+  "Sanitation -> Urination in Public/Open Defecation": {
+    "source_category": "Sanitation",
+    "source_subcategory": "Urination in Public/Open Defecation",
+    "count": 10,
+    "percentage": 0.1,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Sanitation & waste related municipal issue"
+  },
+  "Road Maintenance(Engg) -> water leakage on road": {
+    "source_category": "Road Maintenance(Engg)",
+    "source_subcategory": "water leakage on road",
+    "count": 10,
+    "percentage": 0.1,
+    "target_category": "Street/Public Electrical Infrastructure",
+    "status": "DIRECT MATCH",
+    "reason": "Road surface degradation, pothole, or footpath defect"
+  },
+  "E khata / Khata services -> Khata / Ekhata mutation / transfer": {
+    "source_category": "E khata / Khata services",
+    "source_subcategory": "Khata / Ekhata mutation / transfer",
+    "count": 9,
+    "percentage": 0.09,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Municipal documentation, property tax/khata records, civic administration"
+  },
+  "Revenue Department -> Discrepancy In Khata Certificate and Khata Extract": {
+    "source_category": "Revenue Department",
+    "source_subcategory": "Discrepancy In Khata Certificate and Khata Extract",
+    "count": 8,
+    "percentage": 0.08,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Municipal documentation, property tax/khata records, civic administration"
+  },
+  "Traffic Engineer Cell (TEC) -> TEC": {
+    "source_category": "Traffic Engineer Cell (TEC)",
+    "source_subcategory": "TEC",
+    "count": 8,
+    "percentage": 0.08,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Traffic management facility"
+  },
+  "veterinary -> Animal Cruelty/Ill-Treated / Abused": {
+    "source_category": "veterinary",
+    "source_subcategory": "Animal Cruelty/Ill-Treated / Abused",
+    "count": 8,
+    "percentage": 0.08,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Stray animal control, dog menace, animal welfare"
+  },
+  "Revenue Department -> Unable to generate the property tax challan": {
+    "source_category": "Revenue Department",
+    "source_subcategory": "Unable to generate the property tax challan",
+    "count": 8,
+    "percentage": 0.08,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Municipal documentation, property tax/khata records, civic administration"
+  },
+  "Health Dept -> Fogging": {
+    "source_category": "Health Dept",
+    "source_subcategory": "Fogging",
+    "count": 8,
+    "percentage": 0.08,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Public health, hygiene inspection, food safety"
+  },
+  "veterinary -> Mutton/Chicken/fish stall Unhygienic maintenance": {
+    "source_category": "veterinary",
+    "source_subcategory": "Mutton/Chicken/fish stall Unhygienic maintenance",
+    "count": 8,
+    "percentage": 0.08,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Municipal veterinary service"
+  },
+  "Forest -> Issues related Snakes/Birds/Monkeys": {
+    "source_category": "Forest",
+    "source_subcategory": "Issues related Snakes/Birds/Monkeys",
+    "count": 7,
+    "percentage": 0.07,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Urban greenery, lake or park infrastructure"
+  },
+  "Sanitation -> Public toilet(s) blockage": {
+    "source_category": "Sanitation",
+    "source_subcategory": "Public toilet(s) blockage",
+    "count": 6,
+    "percentage": 0.06,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Public convenience / toilet facility cleanliness"
+  },
+  "Road Maintenance(Engg) -> Overhanging cables": {
+    "source_category": "Road Maintenance(Engg)",
+    "source_subcategory": "Overhanging cables",
+    "count": 6,
+    "percentage": 0.06,
+    "target_category": "Street/Public Electrical Infrastructure",
+    "status": "POSSIBLE MATCH",
+    "reason": "Municipal engineering road infrastructure maintenance"
+  },
+  "Electrical -> Open Electrical Junction Box": {
+    "source_category": "Electrical",
+    "source_subcategory": "Open Electrical Junction Box",
+    "count": 6,
+    "percentage": 0.06,
+    "target_category": "Street/Public Electrical Infrastructure",
+    "status": "POSSIBLE MATCH",
+    "reason": "General municipal electrical grievance"
+  },
+  "Town Planning -> Noise during Building Construction": {
+    "source_category": "Town Planning",
+    "source_subcategory": "Noise during Building Construction",
+    "count": 6,
+    "percentage": 0.06,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Municipal documentation, property tax/khata records, civic administration"
+  },
+  "Plastic -> Use of banned single use plastic": {
+    "source_category": "Plastic",
+    "source_subcategory": "Use of banned single use plastic",
+    "count": 5,
+    "percentage": 0.05,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Unclear/unsupported municipal jurisdiction or unspecified category"
+  },
+  "Optical Fiber Cables (OFC) -> Without permission digging of road": {
+    "source_category": "Optical Fiber Cables (OFC)",
+    "source_subcategory": "Without permission digging of road",
+    "count": 5,
+    "percentage": 0.05,
+    "target_category": "Street/Public Electrical Infrastructure",
+    "status": "POSSIBLE MATCH",
+    "reason": "Road digging/cable hazard on street"
+  },
+  "Parks and Play grounds -> Play Grounds": {
+    "source_category": "Parks and Play grounds",
+    "source_subcategory": "Play Grounds",
+    "count": 5,
+    "percentage": 0.05,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Urban greenery, lake or park infrastructure"
+  },
+  "veterinary -> Dog, cat Poor conditions / Breeding license validation": {
+    "source_category": "veterinary",
+    "source_subcategory": "Dog, cat Poor conditions / Breeding license validation",
+    "count": 5,
+    "percentage": 0.05,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Stray animal control, dog menace, animal welfare"
+  },
+  "E khata / Khata services -> new Khata / Ekhata registration / creation": {
+    "source_category": "E khata / Khata services",
+    "source_subcategory": "new Khata / Ekhata registration / creation",
+    "count": 5,
+    "percentage": 0.05,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Municipal documentation, property tax/khata records, civic administration"
+  },
+  "veterinary -> Feeder Harassment  by Individual / Mob but no association": {
+    "source_category": "veterinary",
+    "source_subcategory": "Feeder Harassment  by Individual / Mob but no association",
+    "count": 4,
+    "percentage": 0.04,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Municipal veterinary service"
+  },
+  "Solid Waste (Garbage) Related -> Segregation of waste is not done": {
+    "source_category": "Solid Waste (Garbage) Related",
+    "source_subcategory": "Segregation of waste is not done",
+    "count": 4,
+    "percentage": 0.04,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Solid waste collection, street sweeping, dumping, or dead animal disposal"
+  },
+  "E khata / Khata services -> Ekhata in previous owner name": {
+    "source_category": "E khata / Khata services",
+    "source_subcategory": "Ekhata in previous owner name",
+    "count": 4,
+    "percentage": 0.04,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Municipal documentation, property tax/khata records, civic administration"
+  },
+  "Lakes -> Lake not maintained properly": {
+    "source_category": "Lakes",
+    "source_subcategory": "Lake not maintained properly",
+    "count": 4,
+    "percentage": 0.04,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Fallen tree removal, branch pruning, park maintenance, or lake preservation"
+  },
+  "Water Crisis -> Water related issue": {
+    "source_category": "Water Crisis",
+    "source_subcategory": "Water related issue",
+    "count": 4,
+    "percentage": 0.04,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Drinking water supply, pipeline defect, or water pressure issue"
+  },
+  "Information Technology -> Others(Technical or Software Issues)": {
+    "source_category": "Information Technology",
+    "source_subcategory": "Others(Technical or Software Issues)",
+    "count": 3,
+    "percentage": 0.03,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Unclear/unsupported municipal jurisdiction or unspecified category"
+  },
+  "veterinary -> Animal Cruelty/Relocated": {
+    "source_category": "veterinary",
+    "source_subcategory": "Animal Cruelty/Relocated",
+    "count": 3,
+    "percentage": 0.03,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Stray animal control, dog menace, animal welfare"
+  },
+  "Health Dept -> Zonal Violation of the Building": {
+    "source_category": "Health Dept",
+    "source_subcategory": "Zonal Violation of the Building",
+    "count": 3,
+    "percentage": 0.03,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Public health, hygiene inspection, food safety"
+  },
+  "Health Dept -> Unavailability of staff": {
+    "source_category": "Health Dept",
+    "source_subcategory": "Unavailability of staff",
+    "count": 3,
+    "percentage": 0.03,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Public health, hygiene inspection, food safety"
+  },
+  "Advertisement -> Unsafe Hoardings": {
+    "source_category": "Advertisement",
+    "source_subcategory": "Unsafe Hoardings",
+    "count": 3,
+    "percentage": 0.03,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Illegal hoarding/flex banner removal"
+  },
+  "Lakes -> Dumping of garbage into lake": {
+    "source_category": "Lakes",
+    "source_subcategory": "Dumping of garbage into lake",
+    "count": 3,
+    "percentage": 0.03,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Fallen tree removal, branch pruning, park maintenance, or lake preservation"
+  },
+  "Parks and Play grounds -> Environmental protection": {
+    "source_category": "Parks and Play grounds",
+    "source_subcategory": "Environmental protection",
+    "count": 3,
+    "percentage": 0.03,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Urban greenery, lake or park infrastructure"
+  },
+  "Indira Canteen -> Food Quantity": {
+    "source_category": "Indira Canteen",
+    "source_subcategory": "Food Quantity",
+    "count": 3,
+    "percentage": 0.03,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Civic public dining facility"
+  },
+  "veterinary -> Animal Death Need cremartion support": {
+    "source_category": "veterinary",
+    "source_subcategory": "Animal Death Need cremartion support",
+    "count": 3,
+    "percentage": 0.03,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Stray animal control, dog menace, animal welfare"
+  },
+  "Information Technology -> App Related Issues": {
+    "source_category": "Information Technology",
+    "source_subcategory": "App Related Issues",
+    "count": 2,
+    "percentage": 0.02,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Unclear/unsupported municipal jurisdiction or unspecified category"
+  },
+  "veterinary -> Dog bite pet dog": {
+    "source_category": "veterinary",
+    "source_subcategory": "Dog bite pet dog",
+    "count": 2,
+    "percentage": 0.02,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Stray animal control, dog menace, animal welfare"
+  },
+  "Markets -> Encroachment": {
+    "source_category": "Markets",
+    "source_subcategory": "Encroachment",
+    "count": 2,
+    "percentage": 0.02,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Unclear/unsupported municipal jurisdiction or unspecified category"
+  },
+  "Estate -> Encroachment": {
+    "source_category": "Estate",
+    "source_subcategory": "Encroachment",
+    "count": 2,
+    "percentage": 0.02,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Municipal documentation, property tax/khata records, civic administration"
+  },
+  "Sanitation -> Public toilet(s) cleaning": {
+    "source_category": "Sanitation",
+    "source_subcategory": "Public toilet(s) cleaning",
+    "count": 2,
+    "percentage": 0.02,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Public convenience / toilet facility cleanliness"
+  },
+  "Indira Canteen -> Others": {
+    "source_category": "Indira Canteen",
+    "source_subcategory": "Others",
+    "count": 2,
+    "percentage": 0.02,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Civic public dining facility"
+  },
+  "veterinary -> Street dogs attacking-pet Dogs": {
+    "source_category": "veterinary",
+    "source_subcategory": "Street dogs attacking-pet Dogs",
+    "count": 2,
+    "percentage": 0.02,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Stray animal control, dog menace, animal welfare"
+  },
+  "Indira Canteen -> Food Quality": {
+    "source_category": "Indira Canteen",
+    "source_subcategory": "Food Quality",
+    "count": 2,
+    "percentage": 0.02,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Civic public dining facility"
+  },
+  "E khata / Khata services -> eKhata - name Mismatch": {
+    "source_category": "E khata / Khata services",
+    "source_subcategory": "eKhata - name Mismatch",
+    "count": 2,
+    "percentage": 0.02,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Municipal documentation, property tax/khata records, civic administration"
+  },
+  "veterinary -> Stray pig related complaints": {
+    "source_category": "veterinary",
+    "source_subcategory": "Stray pig related complaints",
+    "count": 2,
+    "percentage": 0.02,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Municipal veterinary service"
+  },
+  "veterinary -> Illegal pet shop / Animal cruelty / license check": {
+    "source_category": "veterinary",
+    "source_subcategory": "Illegal pet shop / Animal cruelty / license check",
+    "count": 2,
+    "percentage": 0.02,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Stray animal control, dog menace, animal welfare"
+  },
+  "Welfare Schemes -> Senior  Citizen": {
+    "source_category": "Welfare Schemes",
+    "source_subcategory": "Senior  Citizen",
+    "count": 2,
+    "percentage": 0.02,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Unclear/unsupported municipal jurisdiction or unspecified category"
+  },
+  "Revenue Department -> Unable to Generate the receipt after property tax payment.": {
+    "source_category": "Revenue Department",
+    "source_subcategory": "Unable to Generate the receipt after property tax payment.",
+    "count": 2,
+    "percentage": 0.02,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Municipal documentation, property tax/khata records, civic administration"
+  },
+  "veterinary -> Aged street dogs please take action": {
+    "source_category": "veterinary",
+    "source_subcategory": "Aged street dogs please take action",
+    "count": 2,
+    "percentage": 0.02,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Stray animal control, dog menace, animal welfare"
+  },
+  "Call Center -> Call center Issues": {
+    "source_category": "Call Center",
+    "source_subcategory": "Call center Issues",
+    "count": 2,
+    "percentage": 0.02,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Unclear/unsupported municipal jurisdiction or unspecified category"
+  },
+  "Health Dept -> Unhygienic  premises in hospital": {
+    "source_category": "Health Dept",
+    "source_subcategory": "Unhygienic  premises in hospital",
+    "count": 1,
+    "percentage": 0.01,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Public health, hygiene inspection, food safety"
+  },
+  "veterinary -> Collect the food available to feed dogs": {
+    "source_category": "veterinary",
+    "source_subcategory": "Collect the food available to feed dogs",
+    "count": 1,
+    "percentage": 0.01,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Stray animal control, dog menace, animal welfare"
+  },
+  "veterinary -> Street dog Adaptation process details": {
+    "source_category": "veterinary",
+    "source_subcategory": "Street dog Adaptation process details",
+    "count": 1,
+    "percentage": 0.01,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Stray animal control, dog menace, animal welfare"
+  },
+  "veterinary -> Animal Death Need to file FIR": {
+    "source_category": "veterinary",
+    "source_subcategory": "Animal Death Need to file FIR",
+    "count": 1,
+    "percentage": 0.01,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Stray animal control, dog menace, animal welfare"
+  },
+  "veterinary -> Feeder Harassment by Association / Gated Community": {
+    "source_category": "veterinary",
+    "source_subcategory": "Feeder Harassment by Association / Gated Community",
+    "count": 1,
+    "percentage": 0.01,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Municipal veterinary service"
+  },
+  "veterinary -> Request for ABC": {
+    "source_category": "veterinary",
+    "source_subcategory": "Request for ABC",
+    "count": 1,
+    "percentage": 0.01,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Municipal veterinary service"
+  },
+  "Education -> Examination Related Issues": {
+    "source_category": "Education",
+    "source_subcategory": "Examination Related Issues",
+    "count": 1,
+    "percentage": 0.01,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Unclear/unsupported municipal jurisdiction or unspecified category"
+  },
+  "Markets -> Trade License": {
+    "source_category": "Markets",
+    "source_subcategory": "Trade License",
+    "count": 1,
+    "percentage": 0.01,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Unclear/unsupported municipal jurisdiction or unspecified category"
+  },
+  "Health Dept -> Birth & Death Registration": {
+    "source_category": "Health Dept",
+    "source_subcategory": "Birth & Death Registration",
+    "count": 1,
+    "percentage": 0.01,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Public health, hygiene inspection, food safety"
+  },
+  "Sanitation -> No electricity in public toilet(s)": {
+    "source_category": "Sanitation",
+    "source_subcategory": "No electricity in public toilet(s)",
+    "count": 1,
+    "percentage": 0.01,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Public convenience / toilet facility cleanliness"
+  },
+  "Lakes -> Dying of fishes in lake": {
+    "source_category": "Lakes",
+    "source_subcategory": "Dying of fishes in lake",
+    "count": 1,
+    "percentage": 0.01,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Fallen tree removal, branch pruning, park maintenance, or lake preservation"
+  },
+  "veterinary -> Pet dog licence": {
+    "source_category": "veterinary",
+    "source_subcategory": "Pet dog licence",
+    "count": 1,
+    "percentage": 0.01,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Stray animal control, dog menace, animal welfare"
+  },
+  "Projects Central -> Potholes": {
+    "source_category": "Projects Central",
+    "source_subcategory": "Potholes",
+    "count": 1,
+    "percentage": 0.01,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Unclear/unsupported municipal jurisdiction or unspecified category"
+  },
+  "veterinary -> Animal Surgery gone wrong": {
+    "source_category": "veterinary",
+    "source_subcategory": "Animal Surgery gone wrong",
+    "count": 1,
+    "percentage": 0.01,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Stray animal control, dog menace, animal welfare"
+  },
+  "Projects Central -> Stagnation of water on road/ Water logging": {
+    "source_category": "Projects Central",
+    "source_subcategory": "Stagnation of water on road/ Water logging",
+    "count": 1,
+    "percentage": 0.01,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Unclear/unsupported municipal jurisdiction or unspecified category"
+  },
+  "Revenue Department -> Others (JC)": {
+    "source_category": "Revenue Department",
+    "source_subcategory": "Others (JC)",
+    "count": 1,
+    "percentage": 0.01,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Municipal documentation, property tax/khata records, civic administration"
+  },
+  "veterinary -> Awareness session / Request for a session": {
+    "source_category": "veterinary",
+    "source_subcategory": "Awareness session / Request for a session",
+    "count": 1,
+    "percentage": 0.01,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Municipal veterinary service"
+  },
+  "Indira Canteen -> Cleanliness of Canteen /Food Area": {
+    "source_category": "Indira Canteen",
+    "source_subcategory": "Cleanliness of Canteen /Food Area",
+    "count": 1,
+    "percentage": 0.01,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Civic public dining facility"
+  },
+  "Lakes -> Lake fencing damaged": {
+    "source_category": "Lakes",
+    "source_subcategory": "Lake fencing damaged",
+    "count": 1,
+    "percentage": 0.01,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Fallen tree removal, branch pruning, park maintenance, or lake preservation"
+  },
+  "Health Dept -> Indira Canteen": {
+    "source_category": "Health Dept",
+    "source_subcategory": "Indira Canteen",
+    "count": 1,
+    "percentage": 0.01,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Public health, hygiene inspection, food safety"
+  },
+  "Lakes -> Sewage inflow to lake": {
+    "source_category": "Lakes",
+    "source_subcategory": "Sewage inflow to lake",
+    "count": 1,
+    "percentage": 0.01,
+    "target_category": "General Consumer Services",
+    "status": "DIRECT MATCH",
+    "reason": "Fallen tree removal, branch pruning, park maintenance, or lake preservation"
+  },
+  "Markets -> Violation of rules by Shop rent / Leaser": {
+    "source_category": "Markets",
+    "source_subcategory": "Violation of rules by Shop rent / Leaser",
+    "count": 1,
+    "percentage": 0.01,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Unclear/unsupported municipal jurisdiction or unspecified category"
+  },
+  "Estate -> BBMP  Properties Lease issues": {
+    "source_category": "Estate",
+    "source_subcategory": "BBMP  Properties Lease issues",
+    "count": 1,
+    "percentage": 0.01,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Municipal documentation, property tax/khata records, civic administration"
+  },
+  "Estate -> Violation of rules by property Leasers": {
+    "source_category": "Estate",
+    "source_subcategory": "Violation of rules by property Leasers",
+    "count": 1,
+    "percentage": 0.01,
+    "target_category": "General Consumer Services",
+    "status": "POSSIBLE MATCH",
+    "reason": "Municipal documentation, property tax/khata records, civic administration"
+  },
+  "Property Tax services -> unable to generate property tax challan": {
+    "source_category": "Property Tax services",
+    "source_subcategory": "unable to generate property tax challan",
+    "count": 1,
+    "percentage": 0.01,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Unclear/unsupported municipal jurisdiction or unspecified category"
+  },
+  "Markets -> Garbage In Market Premises": {
+    "source_category": "Markets",
+    "source_subcategory": "Garbage In Market Premises",
+    "count": 1,
+    "percentage": 0.01,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Unclear/unsupported municipal jurisdiction or unspecified category"
+  },
+  "Call Center -> others": {
+    "source_category": "Call Center",
+    "source_subcategory": "others",
+    "count": 1,
+    "percentage": 0.01,
+    "target_category": null,
+    "status": "EXCLUDED",
+    "reason": "Unclear/unsupported municipal jurisdiction or unspecified category"
+  }
+}

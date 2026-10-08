@@ -1,0 +1,33 @@
+{
+  "model_name": "TF-IDF + Logistic Regression (C=1.0, Balanced)",
+  "model_type": "logistic_regression",
+  "random_state": 42,
+  "feature_extraction": {
+    "ngram_range": [
+      1,
+      2
+    ],
+    "min_df": 2,
+    "max_df": 0.85,
+    "max_features": 12000,
+    "sublinear_tf": true,
+    "stop_words": "english"
+  },
+  "hyperparameters": {
+    "C": 1.0,
+    "max_iter": 35,
+    "class_weight": "balanced"
+  },
+  "target_classes": [
+    "Power Outage / No Supply",
+    "Voltage Fluctuation / Low Voltage",
+    "Meter Issues",
+    "Billing and Payment",
+    "Transformer Fault",
+    "Pole / Wire / Electrical Hazard",
+    "New Connection / Service Request",
+    "Street/Public Electrical Infrastructure",
+    "Power Theft / Unauthorized Connection",
+    "General Consumer Services"
+  ]
+}

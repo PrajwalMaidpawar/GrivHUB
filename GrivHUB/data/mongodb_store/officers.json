@@ -1,0 +1,303 @@
+[
+  {
+    "officer_id": "OFF-ROADS-001",
+    "user_id": "USR-OFF-001",
+    "name": "Rajesh Kumar",
+    "email": "rajesh.roads@bbmp.gov.in",
+    "phone": "+91-9880112201",
+    "department_id": "DEP-ROADS",
+    "designation": "Assistant Executive Engineer (Roads)",
+    "assigned_jurisdictions": [
+      {
+        "zone": "East Zone",
+        "ward": "Ward 112"
+      },
+      {
+        "zone": "East Zone",
+        "ward": "Ward 113"
+      }
+    ],
+    "active": true,
+    "availability_status": "AVAILABLE",
+    "maximum_workload": 10,
+    "last_assigned_at": "2026-08-21T19:47:47Z",
+    "created_at": "2026-08-21T19:35:54Z",
+    "updated_at": "2026-08-21T19:47:47Z"
+  },
+  {
+    "officer_id": "OFF-ROADS-002",
+    "user_id": "USR-OFF-002",
+    "name": "Ananya Sharma",
+    "email": "ananya.roads@bbmp.gov.in",
+    "phone": "+91-9880112202",
+    "department_id": "DEP-ROADS",
+    "designation": "Assistant Engineer (Civil Infrastructure)",
+    "assigned_jurisdictions": [
+      {
+        "zone": "East Zone",
+        "ward": "Ward 111"
+      },
+      {
+        "zone": "East Zone",
+        "ward": "Ward 112"
+      }
+    ],
+    "active": true,
+    "availability_status": "AVAILABLE",
+    "maximum_workload": 8,
+    "last_assigned_at": "2026-08-21T19:36:34Z",
+    "created_at": "2026-08-21T19:35:54Z",
+    "updated_at": "2026-08-21T19:36:34Z"
+  },
+  {
+    "officer_id": "OFF-ROADS-003",
+    "user_id": "USR-OFF-003",
+    "name": "Suresh Gowda",
+    "email": "suresh.roads@bbmp.gov.in",
+    "phone": "+91-9880112203",
+    "department_id": "DEP-ROADS",
+    "designation": "Executive Engineer (West Zone Roads)",
+    "assigned_jurisdictions": [
+      {
+        "zone": "West Zone",
+        "ward": "*"
+      }
+    ],
+    "active": true,
+    "availability_status": "AVAILABLE",
+    "maximum_workload": 12,
+    "last_assigned_at": "2026-08-21T19:36:30Z",
+    "created_at": "2026-08-21T19:35:54Z",
+    "updated_at": "2026-08-21T19:36:30Z"
+  },
+  {
+    "officer_id": "OFF-ROADS-004",
+    "user_id": "USR-OFF-004",
+    "name": "Vikram Patil",
+    "email": "vikram.roads@bbmp.gov.in",
+    "phone": "+91-9880112204",
+    "department_id": "DEP-ROADS",
+    "designation": "Senior Roads Inspector",
+    "assigned_jurisdictions": [
+      {
+        "zone": "*",
+        "ward": "*"
+      }
+    ],
+    "active": true,
+    "availability_status": "ON_LEAVE",
+    "maximum_workload": 10,
+    "last_assigned_at": "2026-07-20T10:00:00Z",
+    "created_at": "2026-08-21T19:35:54Z",
+    "updated_at": "2026-08-21T19:35:54Z"
+  },
+  {
+    "officer_id": "OFF-WATER-001",
+    "user_id": "USR-OFF-005",
+    "name": "Pooja Hegde",
+    "email": "pooja.water@bbmp.gov.in",
+    "phone": "+91-9880112205",
+    "department_id": "DEP-WATER",
+    "designation": "Assistant Executive Engineer (Water Supply)",
+    "assigned_jurisdictions": [
+      {
+        "zone": "East Zone",
+        "ward": "Ward 112"
+      },
+      {
+        "zone": "South Zone",
+        "ward": "Ward 131"
+      }
+    ],
+    "active": true,
+    "availability_status": "AVAILABLE",
+    "maximum_workload": 10,
+    "last_assigned_at": "2026-08-21T19:36:30Z",
+    "created_at": "2026-08-21T19:35:54Z",
+    "updated_at": "2026-08-21T19:36:30Z"
+  },
+  {
+    "officer_id": "OFF-WATER-002",
+    "user_id": "USR-OFF-006",
+    "name": "Manoj Deshmukh",
+    "email": "manoj.water@bbmp.gov.in",
+    "phone": "+91-9880112206",
+    "department_id": "DEP-WATER",
+    "designation": "Zonal Water Distribution Officer",
+    "assigned_jurisdictions": [
+      {
+        "zone": "South Zone",
+        "ward": "*"
+      },
+      {
+        "zone": "Mahadevapura Zone",
+        "ward": "*"
+      }
+    ],
+    "active": true,
+    "availability_status": "AVAILABLE",
+    "maximum_workload": 15,
+    "last_assigned_at": "2026-08-01T08:30:00Z",
+    "created_at": "2026-08-21T19:35:54Z",
+    "updated_at": "2026-08-21T19:35:54Z"
+  },
+  {
+    "officer_id": "OFF-SWM-001",
+    "user_id": "USR-OFF-007",
+    "name": "Kavita Rao",
+    "email": "kavita.swm@bbmp.gov.in",
+    "phone": "+91-9880112207",
+    "department_id": "DEP-SWM",
+    "designation": "Senior Health Inspector (Solid Waste)",
+    "assigned_jurisdictions": [
+      {
+        "zone": "East Zone",
+        "ward": "Ward 111"
+      },
+      {
+        "zone": "East Zone",
+        "ward": "Ward 112"
+      },
+      {
+        "zone": "East Zone",
+        "ward": "Ward 113"
+      }
+    ],
+    "active": true,
+    "availability_status": "AVAILABLE",
+    "maximum_workload": 12,
+    "last_assigned_at": "2026-08-21T19:47:47Z",
+    "created_at": "2026-08-21T19:35:54Z",
+    "updated_at": "2026-08-21T19:47:47Z"
+  },
+  {
+    "officer_id": "OFF-SWM-002",
+    "user_id": "USR-OFF-008",
+    "name": "Ramesh Nayak",
+    "email": "ramesh.swm@bbmp.gov.in",
+    "phone": "+91-9880112208",
+    "department_id": "DEP-SWM",
+    "designation": "Junior Health Officer (City Waste Management)",
+    "assigned_jurisdictions": [
+      {
+        "zone": "*",
+        "ward": "*"
+      }
+    ],
+    "active": true,
+    "availability_status": "AVAILABLE",
+    "maximum_workload": 10,
+    "last_assigned_at": "2026-08-21T19:37:04Z",
+    "created_at": "2026-08-21T19:35:54Z",
+    "updated_at": "2026-08-21T19:37:04Z"
+  },
+  {
+    "officer_id": "OFF-DRAIN-001",
+    "user_id": "USR-OFF-009",
+    "name": "Arun Kulkarni",
+    "email": "arun.drain@bbmp.gov.in",
+    "phone": "+91-9880112209",
+    "department_id": "DEP-DRAIN",
+    "designation": "Stormwater Drainage Engineer",
+    "assigned_jurisdictions": [
+      {
+        "zone": "East Zone",
+        "ward": "*"
+      },
+      {
+        "zone": "Mahadevapura Zone",
+        "ward": "*"
+      }
+    ],
+    "active": true,
+    "availability_status": "AVAILABLE",
+    "maximum_workload": 10,
+    "last_assigned_at": "2026-08-21T19:47:47Z",
+    "created_at": "2026-08-21T19:35:54Z",
+    "updated_at": "2026-08-21T19:47:47Z"
+  },
+  {
+    "officer_id": "OFF-ELEC-001",
+    "user_id": "USR-OFF-010",
+    "name": "Deepak Joshi",
+    "email": "deepak.elec@bbmp.gov.in",
+    "phone": "+91-9880112210",
+    "department_id": "DEP-ELEC",
+    "designation": "Assistant Engineer (Street Lighting)",
+    "assigned_jurisdictions": [
+      {
+        "zone": "*",
+        "ward": "*"
+      }
+    ],
+    "active": true,
+    "availability_status": "AVAILABLE",
+    "maximum_workload": 15,
+    "last_assigned_at": "2026-08-21T19:36:30Z",
+    "created_at": "2026-08-21T19:35:54Z",
+    "updated_at": "2026-08-21T19:36:30Z"
+  },
+  {
+    "officer_id": "OFF-PARKS-001",
+    "user_id": "USR-OFF-011",
+    "name": "Shilpa Reddy",
+    "email": "shilpa.parks@bbmp.gov.in",
+    "phone": "+91-9880112211",
+    "department_id": "DEP-PARKS",
+    "designation": "Horticulture Officer & Park Inspector",
+    "assigned_jurisdictions": [
+      {
+        "zone": "*",
+        "ward": "*"
+      }
+    ],
+    "active": true,
+    "availability_status": "AVAILABLE",
+    "maximum_workload": 10,
+    "last_assigned_at": "2026-08-01T08:00:00Z",
+    "created_at": "2026-08-21T19:35:54Z",
+    "updated_at": "2026-08-21T19:35:54Z"
+  },
+  {
+    "officer_id": "OFF-TRANS-001",
+    "user_id": "USR-OFF-012",
+    "name": "Girish Bhat",
+    "email": "girish.trans@bbmp.gov.in",
+    "phone": "+91-9880112212",
+    "department_id": "DEP-TRANS",
+    "designation": "Traffic Engineering Superintendent",
+    "assigned_jurisdictions": [
+      {
+        "zone": "*",
+        "ward": "*"
+      }
+    ],
+    "active": true,
+    "availability_status": "AVAILABLE",
+    "maximum_workload": 10,
+    "last_assigned_at": "2026-08-01T08:00:00Z",
+    "created_at": "2026-08-21T19:35:54Z",
+    "updated_at": "2026-08-21T19:35:54Z"
+  },
+  {
+    "officer_id": "OFF-CIVIC-001",
+    "user_id": "USR-OFF-013",
+    "name": "Sunita Verma",
+    "email": "sunita.civic@bbmp.gov.in",
+    "phone": "+91-9880112213",
+    "department_id": "DEP-CIVIC",
+    "designation": "Revenue and General Civic Inspector",
+    "assigned_jurisdictions": [
+      {
+        "zone": "*",
+        "ward": "*"
+      }
+    ],
+    "active": true,
+    "availability_status": "AVAILABLE",
+    "maximum_workload": 15,
+    "last_assigned_at": "2026-08-01T08:00:00Z",
+    "created_at": "2026-08-21T19:35:54Z",
+    "updated_at": "2026-08-21T19:35:54Z"
+  }
+]

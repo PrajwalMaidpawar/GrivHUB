@@ -1,0 +1,295 @@
+{
+  "nyc_311": {
+    "dataset_name": "NYC 311 Service Requests",
+    "total_records": 10000,
+    "columns": [
+      "unique_key",
+      "created_date",
+      "agency",
+      "agency_name",
+      "complaint_type",
+      "descriptor",
+      "location_type",
+      "incident_zip",
+      "incident_address",
+      "street_name",
+      "city",
+      "borough",
+      "status",
+      "latitude",
+      "longitude",
+      "resolution_description"
+    ],
+    "column_presence": {
+      "unique_key": 10000,
+      "created_date": 10000,
+      "agency": 10000,
+      "agency_name": 10000,
+      "complaint_type": 10000,
+      "descriptor": 10000,
+      "location_type": 8471,
+      "incident_zip": 9797,
+      "incident_address": 9054,
+      "street_name": 9054,
+      "city": 8698,
+      "borough": 10000,
+      "status": 10000,
+      "latitude": 9339,
+      "longitude": 9339,
+      "resolution_description": 5603
+    },
+    "missing_counts": {
+      "resolution_description": 4693,
+      "city": 1302,
+      "location_type": 1773,
+      "latitude": 661,
+      "longitude": 661,
+      "incident_address": 946,
+      "street_name": 946,
+      "incident_zip": 203
+    },
+    "types_map": {
+      "unique_key": [
+        "str"
+      ],
+      "created_date": [
+        "str"
+      ],
+      "agency": [
+        "str"
+      ],
+      "agency_name": [
+        "str"
+      ],
+      "complaint_type": [
+        "str"
+      ],
+      "descriptor": [
+        "str"
+      ],
+      "location_type": [
+        "str"
+      ],
+      "incident_zip": [
+        "str"
+      ],
+      "incident_address": [
+        "str"
+      ],
+      "street_name": [
+        "str"
+      ],
+      "city": [
+        "str"
+      ],
+      "borough": [
+        "str"
+      ],
+      "status": [
+        "str"
+      ],
+      "latitude": [
+        "str"
+      ],
+      "longitude": [
+        "str"
+      ],
+      "resolution_description": [
+        "str"
+      ]
+    },
+    "unique_counts": {
+      "unique_key": 500,
+      "created_date": 500,
+      "agency": 4,
+      "agency_name": 4,
+      "complaint_type": 64,
+      "descriptor": 299,
+      "location_type": 41,
+      "incident_zip": 189,
+      "incident_address": 500,
+      "street_name": 500,
+      "city": 48,
+      "borough": 6,
+      "status": 6,
+      "latitude": 500,
+      "longitude": 500,
+      "resolution_description": 186
+    },
+    "sample_records": [
+      {
+        "unique_key": "70115201",
+        "created_date": "2026-08-20T01:50:46.000",
+        "agency": "DEP",
+        "agency_name": "Department of Environmental Protection",
+        "complaint_type": "Water Maintenance",
+        "descriptor": "Fire Hydrant Running Full",
+        "location_type": "Sidewalk",
+        "incident_zip": "10472",
+        "incident_address": "1963 WATSON AVENUE",
+        "street_name": "WATSON AVENUE",
+        "city": "BRONX",
+        "borough": "BRONX",
+        "status": "In Progress",
+        "latitude": "40.82876638164466",
+        "longitude": "-73.85805712987411"
+      },
+      {
+        "unique_key": "70118094",
+        "created_date": "2026-08-20T01:49:45.000",
+        "agency": "DEP",
+        "agency_name": "Department of Environmental Protection",
+        "complaint_type": "Noise",
+        "descriptor": "Construction",
+        "location_type": "Street/Sidewalk",
+        "incident_zip": "10029",
+        "incident_address": "254 EAST 110 STREET",
+        "street_name": "EAST 110 STREET",
+        "city": "NEW YORK",
+        "borough": "MANHATTAN",
+        "status": "In Progress",
+        "latitude": "40.79361867513618",
+        "longitude": "-73.94161249436475"
+      },
+      {
+        "unique_key": "70119508",
+        "created_date": "2026-08-20T01:48:48.000",
+        "agency": "DEP",
+        "agency_name": "Department of Environmental Protection",
+        "complaint_type": "Noise",
+        "descriptor": "Private Garbage Truck",
+        "location_type": "Street",
+        "incident_zip": "10014",
+        "incident_address": "110 BARROW STREET",
+        "street_name": "BARROW STREET",
+        "city": "NEW YORK",
+        "borough": "MANHATTAN",
+        "status": "In Progress",
+        "latitude": "40.73185448671073",
+        "longitude": "-74.00850086275602"
+      }
+    ],
+    "files": [
+      "nyc311_offset_0_2000.json",
+      "nyc311_offset_2000_2000.json",
+      "nyc311_offset_4000_2000.json",
+      "nyc311_offset_6000_2000.json",
+      "nyc311_offset_8000_2000.json"
+    ],
+    "total_size_bytes": 6286423,
+    "total_size_mb": 6.0
+  },
+  "indian_opencity": {
+    "dataset_name": "Indian OpenCity BBMP Sahaaya Grievances",
+    "total_records": 10000,
+    "columns": [
+      "_id",
+      "Complaint ID",
+      "Category",
+      "Sub Category",
+      "Grievance Date",
+      "Ward Name",
+      "Grievance Status",
+      "Staff Remarks",
+      "Staff Name"
+    ],
+    "column_presence": {
+      "_id": 10000,
+      "Complaint ID": 10000,
+      "Category": 10000,
+      "Sub Category": 10000,
+      "Grievance Date": 10000,
+      "Ward Name": 10000,
+      "Grievance Status": 10000,
+      "Staff Remarks": 10000,
+      "Staff Name": 10000
+    },
+    "missing_counts": {
+      "Staff Remarks": 366
+    },
+    "types_map": {
+      "_id": [
+        "int"
+      ],
+      "Complaint ID": [
+        "str"
+      ],
+      "Category": [
+        "str"
+      ],
+      "Sub Category": [
+        "str"
+      ],
+      "Grievance Date": [
+        "str"
+      ],
+      "Ward Name": [
+        "str"
+      ],
+      "Grievance Status": [
+        "str"
+      ],
+      "Staff Remarks": [
+        "str"
+      ],
+      "Staff Name": [
+        "str"
+      ]
+    },
+    "unique_counts": {
+      "_id": 500,
+      "Complaint ID": 500,
+      "Category": 29,
+      "Sub Category": 128,
+      "Grievance Date": 500,
+      "Ward Name": 198,
+      "Grievance Status": 7,
+      "Staff Remarks": 500,
+      "Staff Name": 500
+    },
+    "sample_records": [
+      {
+        "_id": 1,
+        "Complaint ID": "20771690",
+        "Category": "Electrical",
+        "Sub Category": "Street Light Not Working",
+        "Grievance Date": "2025-06-19 10:39:00.000000000",
+        "Ward Name": "Jagajeevanram Nagar",
+        "Grievance Status": "Registered",
+        "Staff Remarks": "1st Assignment Based on Ward Mapping",
+        "Staff Name": "syed zameer/JE"
+      },
+      {
+        "_id": 2,
+        "Complaint ID": "20771689",
+        "Category": "Electrical",
+        "Sub Category": "Street Light Not Working",
+        "Grievance Date": "2025-06-19 10:36:00.000000000",
+        "Ward Name": "Kammanahalli",
+        "Grievance Status": "Registered",
+        "Staff Remarks": "1st Assignment Based on Ward Mapping",
+        "Staff Name": "Vinay Kumar/AE"
+      },
+      {
+        "_id": 3,
+        "Complaint ID": "20771688",
+        "Category": "Solid Waste (Garbage) Related",
+        "Sub Category": "Garbage dump",
+        "Grievance Date": "2025-06-19 10:35:00.000000000",
+        "Ward Name": "Banaswadi",
+        "Grievance Status": "Registered",
+        "Staff Remarks": "1st Assignment Based on Ward Mapping",
+        "Staff Name": "Marshal Ward No 27/Marshal"
+      }
+    ],
+    "files": [
+      "batch_offset_0_2000.json",
+      "batch_offset_2000_2000.json",
+      "batch_offset_4000_2000.json",
+      "batch_offset_6000_2000.json",
+      "batch_offset_8000_2000.json"
+    ],
+    "total_size_bytes": 3582033,
+    "total_size_mb": 3.42
+  }
+}

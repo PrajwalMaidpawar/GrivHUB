@@ -1,0 +1,11 @@
+target_category,record_count,percentage
+Power Outage / No Supply,1,0.02
+Voltage Fluctuation / Low Voltage,0,0.0
+Meter Issues,0,0.0
+Billing and Payment,2,0.05
+Transformer Fault,0,0.0
+Pole / Wire / Electrical Hazard,13,0.3
+New Connection / Service Request,0,0.0
+Street/Public Electrical Infrastructure,580,13.55
+Power Theft / Unauthorized Connection,0,0.0
+General Consumer Services,3686,86.08

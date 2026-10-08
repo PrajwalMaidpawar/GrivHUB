@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+venv/
+.venv/
+
+# Build and Production Artifacts
+dist/
+build/
+coverage/
+
+# Python Bytecode and Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+
+# Runtime Logs and Dev State
+*.log
+.dev/
+*.tmp
+
+# Local Environment Variables
+.env
+.env.local
+!.env.example
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini

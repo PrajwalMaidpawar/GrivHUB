@@ -1,0 +1,26 @@
+# Python virtual environment & cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# Node dependencies & caches
+node_modules/
+dist/
+build/
+.vite/
+
+# Development runtime state
+.dev/pids.json
+*.sqlite3
+
+# Environment secrets
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini

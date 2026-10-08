@@ -1,0 +1,34 @@
+{
+  "dataset_name": "NYC 311 Service Requests (Targeted Municipal Agencies)",
+  "source_organization": "NYC OpenData / City of New York",
+  "api_endpoint": "https://data.cityofnewyork.us/resource/erm2-nwe9.json",
+  "download_date": "2026-08-21T17:53:11Z",
+  "records_downloaded": 10000,
+  "download_method": "Incremental Paginated JSON via SODA API SoQL",
+  "batch_size": 2000,
+  "selected_agencies": [
+    "DEP",
+    "DSNY",
+    "DOT",
+    "DPR"
+  ],
+  "storage_directory": "ml/datasets/raw/nyc_311",
+  "fields_acquired": [
+    "unique_key",
+    "created_date",
+    "agency",
+    "agency_name",
+    "complaint_type",
+    "descriptor",
+    "location_type",
+    "incident_zip",
+    "incident_address",
+    "street_name",
+    "city",
+    "borough",
+    "status",
+    "resolution_description",
+    "latitude",
+    "longitude"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "model_name": "TF-IDF + Multinomial Naive Bayes (alpha=0.1)",
+  "model_type": "naive_bayes",
+  "random_state": 42,
+  "feature_extraction": {
+    "ngram_range": [
+      1,
+      2
+    ],
+    "min_df": 2,
+    "max_df": 0.85,
+    "max_features": 10000,
+    "sublinear_tf": true,
+    "stop_words": "english"
+  },
+  "hyperparameters": {
+    "alpha": 0.1,
+    "fit_prior": true
+  },
+  "target_classes": [
+    "Power Outage / No Supply",
+    "Voltage Fluctuation / Low Voltage",
+    "Meter Issues",
+    "Billing and Payment",
+    "Transformer Fault",
+    "Pole / Wire / Electrical Hazard",
+    "New Connection / Service Request",
+    "Street/Public Electrical Infrastructure",
+    "Power Theft / Unauthorized Connection",
+    "General Consumer Services"
+  ]
+}

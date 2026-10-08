@@ -1,0 +1,103 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "GrievanceHUB Standardized Dataset Schema",
+  "description": "Standardized internal schema mapping raw multi-source municipal records to a uniform training and evaluation format",
+  "standard_fields": {
+    "source_dataset": {
+      "type": "string",
+      "description": "Identifier of the originating open data repository (e.g., 'INDIAN_OPENCITY_BBMP', 'NYC_311')"
+    },
+    "source_record_id": {
+      "type": "string",
+      "description": "Original primary key / unique token from source dataset"
+    },
+    "complaint_text": {
+      "type": "string",
+      "description": "Composite normalized text containing raw problem description, sub-category, and staff resolution / remarks"
+    },
+    "source_category": {
+      "type": "string",
+      "description": "Original raw high-level category string from source"
+    },
+    "source_subcategory": {
+      "type": "string",
+      "description": "Original raw sub-category or descriptor string from source"
+    },
+    "target_category": {
+      "type": "string",
+      "enum": [
+        "Water Supply",
+        "Roads and Infrastructure",
+        "Sanitation and Waste Management",
+        "Drainage and Sewage",
+        "Street Lighting and Electrical Infrastructure",
+        "Parks and Environment",
+        "Transportation and Traffic Infrastructure",
+        "General Civic Services"
+      ],
+      "description": "Normalized target classification label among the 8 GrievanceHUB classes"
+    },
+    "mapping_status": {
+      "type": "string",
+      "enum": ["DIRECT MATCH", "POSSIBLE MATCH", "AMBIGUOUS", "EXCLUDED"],
+      "description": "Verification confidence of the category mapping rule"
+    },
+    "agency": {
+      "type": "string",
+      "description": "Responsible government department or authority"
+    },
+    "location": {
+      "type": "object",
+      "properties": {
+        "ward_or_borough": {"type": "string"},
+        "address": {"type": "string"},
+        "zip_code": {"type": "string"},
+        "latitude": {"type": "number"},
+        "longitude": {"type": "number"}
+      }
+    },
+    "created_date": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO timestamp of complaint submission"
+    },
+    "status": {
+      "type": "string",
+      "description": "Lifecycle state of the grievance at time of dataset acquisition"
+    }
+  },
+  "dataset_field_mappings": {
+    "indian_opencity": {
+      "source_record_id": "Complaint ID",
+      "complaint_text_components": ["Category", "Sub Category", "Staff Remarks"],
+      "source_category": "Category",
+      "source_subcategory": "Sub Category",
+      "agency_derived_from": ["Category", "Staff Name"],
+      "location": {
+        "ward_or_borough": "Ward Name",
+        "address": null,
+        "zip_code": null,
+        "latitude": null,
+        "longitude": null
+      },
+      "created_date": "Grievance Date",
+      "status": "Grievance Status"
+    },
+    "nyc_311": {
+      "source_record_id": "unique_key",
+      "complaint_text_components": ["complaint_type", "descriptor", "resolution_description"],
+      "source_category": "complaint_type",
+      "source_subcategory": "descriptor",
+      "agency": "agency",
+      "location": {
+        "ward_or_borough": "borough",
+        "address": "incident_address",
+        "zip_code": "incident_zip",
+        "latitude": "latitude",
+        "longitude": "longitude"
+      },
+      "created_date": "created_date",
+      "status": "status"
+    }
+  }
+}

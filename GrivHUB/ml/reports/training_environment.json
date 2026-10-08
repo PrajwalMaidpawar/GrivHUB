@@ -1,0 +1,22 @@
+{
+  "python_version": "3.14.7",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "processor": "Intel64 Family 6 Model 186 Stepping 2, GenuineIntel",
+  "training_implementation": "GrievanceHUB High-Performance Pure-Python ML Engine (Zero External Dependencies)",
+  "vectorizer_standard": "TF-IDF (scikit-learn compatible, sublinear TF, smooth IDF, L2 norm)",
+  "random_state": 42,
+  "dataset_version": "1.0.0",
+  "training_timestamp": "2026-09-09T15:51:18Z",
+  "target_classes": [
+    "Power Outage / No Supply",
+    "Voltage Fluctuation / Low Voltage",
+    "Meter Issues",
+    "Billing and Payment",
+    "Transformer Fault",
+    "Pole / Wire / Electrical Hazard",
+    "New Connection / Service Request",
+    "Street/Public Electrical Infrastructure",
+    "Power Theft / Unauthorized Connection",
+    "General Consumer Services"
+  ]
+}

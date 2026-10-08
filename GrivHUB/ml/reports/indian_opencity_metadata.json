@@ -1,0 +1,23 @@
+{
+  "dataset_name": "Bruhat Bengaluru Mahanagara Palike (BBMP Sahaaya) Civic Grievances",
+  "source_organization": "OpenCity.in / CivicDataLab",
+  "api_endpoint": "https://data.opencity.in/api/action/datastore_search",
+  "resource_id": "1342a93b-9a61-4766-9c34-c8357b7926c2",
+  "download_date": "2026-08-21T17:52:40Z",
+  "total_records_in_resource": 126974,
+  "records_downloaded": 10000,
+  "download_method": "Incremental Paginated JSON via CKAN datastore_search",
+  "batch_size": 2000,
+  "storage_directory": "ml/datasets/raw/indian_opencity",
+  "fields_acquired": [
+    "_id",
+    "Complaint ID",
+    "Category",
+    "Sub Category",
+    "Grievance Date",
+    "Ward Name",
+    "Grievance Status",
+    "Staff Remarks",
+    "Staff Name"
+  ]
+}

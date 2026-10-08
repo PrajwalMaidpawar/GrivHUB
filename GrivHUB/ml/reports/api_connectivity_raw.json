@@ -1,0 +1,474 @@
+{
+  "opencity": {
+    "source": "Indian OpenCity",
+    "status": 200,
+    "success": true,
+    "total": 126974,
+    "fields": [
+      {
+        "id": "_id",
+        "type": "int"
+      },
+      {
+        "id": "Complaint ID",
+        "type": "text"
+      },
+      {
+        "id": "Category",
+        "type": "text"
+      },
+      {
+        "id": "Sub Category",
+        "type": "text"
+      },
+      {
+        "id": "Grievance Date",
+        "type": "text"
+      },
+      {
+        "id": "Ward Name",
+        "type": "text"
+      },
+      {
+        "id": "Grievance Status",
+        "type": "text"
+      },
+      {
+        "id": "Staff Remarks",
+        "type": "text"
+      },
+      {
+        "id": "Staff Name",
+        "type": "text"
+      }
+    ],
+    "sample_records": [
+      {
+        "_id": 1,
+        "Complaint ID": "20771690",
+        "Category": "Electrical",
+        "Sub Category": "Street Light Not Working",
+        "Grievance Date": "2025-06-19 10:39:00.000000000",
+        "Ward Name": "Jagajeevanram Nagar",
+        "Grievance Status": "Registered",
+        "Staff Remarks": "1st Assignment Based on Ward Mapping",
+        "Staff Name": "syed zameer/JE"
+      },
+      {
+        "_id": 2,
+        "Complaint ID": "20771689",
+        "Category": "Electrical",
+        "Sub Category": "Street Light Not Working",
+        "Grievance Date": "2025-06-19 10:36:00.000000000",
+        "Ward Name": "Kammanahalli",
+        "Grievance Status": "Registered",
+        "Staff Remarks": "1st Assignment Based on Ward Mapping",
+        "Staff Name": "Vinay Kumar/AE"
+      },
+      {
+        "_id": 3,
+        "Complaint ID": "20771688",
+        "Category": "Solid Waste (Garbage) Related",
+        "Sub Category": "Garbage dump",
+        "Grievance Date": "2025-06-19 10:35:00.000000000",
+        "Ward Name": "Banaswadi",
+        "Grievance Status": "Registered",
+        "Staff Remarks": "1st Assignment Based on Ward Mapping",
+        "Staff Name": "Marshal Ward No 27/Marshal"
+      },
+      {
+        "_id": 4,
+        "Complaint ID": "20771687",
+        "Category": "Electrical",
+        "Sub Category": "Street Light Not Working",
+        "Grievance Date": "2025-06-19 10:34:00.000000000",
+        "Ward Name": "Gandhi Nagar",
+        "Grievance Status": "Registered",
+        "Staff Remarks": "1st Assignment Based on Ward Mapping",
+        "Staff Name": "syed zameer/JE"
+      },
+      {
+        "_id": 5,
+        "Complaint ID": "20771686",
+        "Category": "Solid Waste (Garbage) Related",
+        "Sub Category": "Garbage dump",
+        "Grievance Date": "2025-06-19 10:34:00.000000000",
+        "Ward Name": "Kumaraswamy Layout",
+        "Grievance Status": "Registered",
+        "Staff Remarks": "1st Assignment Based on Ward Mapping",
+        "Staff Name": "Marshal Ward No 181/Marshal"
+      }
+    ],
+    "raw_sample": {
+      "help": "https://data.opencity.in/api/3/action/help_show?name=datastore_search",
+      "success": true,
+      "result": {
+        "include_total": true,
+        "limit": 5,
+        "records_format": "objects",
+        "resource_id": "1342a93b-9a61-4766-9c34-c8357b7926c2",
+        "total_estimation_threshold": null,
+        "records": [
+          {
+            "_id": 1,
+            "Complaint ID": "20771690",
+            "Category": "Electrical",
+            "Sub Category": "Street Light Not Working",
+            "Grievance Date": "2025-06-19 10:39:00.000000000",
+            "Ward Name": "Jagajeevanram Nagar",
+            "Grievance Status": "Registered",
+            "Staff Remarks": "1st Assignment Based on Ward Mapping",
+            "Staff Name": "syed zameer/JE"
+          },
+          {
+            "_id": 2,
+            "Complaint ID": "20771689",
+            "Category": "Electrical",
+            "Sub Category": "Street Light Not Working",
+            "Grievance Date": "2025-06-19 10:36:00.000000000",
+            "Ward Name": "Kammanahalli",
+            "Grievance Status": "Registered",
+            "Staff Remarks": "1st Assignment Based on Ward Mapping",
+            "Staff Name": "Vinay Kumar/AE"
+          },
+          {
+            "_id": 3,
+            "Complaint ID": "20771688",
+            "Category": "Solid Waste (Garbage) Related",
+            "Sub Category": "Garbage dump",
+            "Grievance Date": "2025-06-19 10:35:00.000000000",
+            "Ward Name": "Banaswadi",
+            "Grievance Status": "Registered",
+            "Staff Remarks": "1st Assignment Based on Ward Mapping",
+            "Staff Name": "Marshal Ward No 27/Marshal"
+          },
+          {
+            "_id": 4,
+            "Complaint ID": "20771687",
+            "Category": "Electrical",
+            "Sub Category": "Street Light Not Working",
+            "Grievance Date": "2025-06-19 10:34:00.000000000",
+            "Ward Name": "Gandhi Nagar",
+            "Grievance Status": "Registered",
+            "Staff Remarks": "1st Assignment Based on Ward Mapping",
+            "Staff Name": "syed zameer/JE"
+          },
+          {
+            "_id": 5,
+            "Complaint ID": "20771686",
+            "Category": "Solid Waste (Garbage) Related",
+            "Sub Category": "Garbage dump",
+            "Grievance Date": "2025-06-19 10:34:00.000000000",
+            "Ward Name": "Kumaraswamy Layout",
+            "Grievance Status": "Registered",
+            "Staff Remarks": "1st Assignment Based on Ward Mapping",
+            "Staff Name": "Marshal Ward No 181/Marshal"
+          }
+        ],
+        "fields": [
+          {
+            "id": "_id",
+            "type": "int"
+          },
+          {
+            "id": "Complaint ID",
+            "type": "text"
+          },
+          {
+            "id": "Category",
+            "type": "text"
+          },
+          {
+            "id": "Sub Category",
+            "type": "text"
+          },
+          {
+            "id": "Grievance Date",
+            "type": "text"
+          },
+          {
+            "id": "Ward Name",
+            "type": "text"
+          },
+          {
+            "id": "Grievance Status",
+            "type": "text"
+          },
+          {
+            "id": "Staff Remarks",
+            "type": "text"
+          },
+          {
+            "id": "Staff Name",
+            "type": "text"
+          }
+        ],
+        "_links": {
+          "start": "/api/action/datastore_search?resource_id=1342a93b-9a61-4766-9c34-c8357b7926c2&limit=5",
+          "next": "/api/action/datastore_search?resource_id=1342a93b-9a61-4766-9c34-c8357b7926c2&limit=5&offset=5"
+        },
+        "total": 126974,
+        "total_was_estimated": false
+      }
+    }
+  },
+  "nyc": {
+    "source": "NYC 311",
+    "status": 200,
+    "success": true,
+    "sample_records": [
+      {
+        "unique_key": "70117611",
+        "created_date": "2026-08-20T01:50:51.000",
+        "agency": "NYPD",
+        "agency_name": "New York City Police Department",
+        "complaint_type": "Blocked Driveway",
+        "descriptor": "Partial Access",
+        "location_type": "Street/Sidewalk",
+        "incident_zip": "11369",
+        "incident_address": "24-29 95 STREET",
+        "street_name": "95 STREET",
+        "cross_street_1": "24 AVENUE",
+        "cross_street_2": "JACKSON MILL ROAD",
+        "intersection_street_1": "24 AVENUE",
+        "intersection_street_2": "JACKSON MILL ROAD",
+        "address_type": "ADDRESS",
+        "city": "EAST ELMHURST",
+        "landmark": "95 STREET",
+        "status": "In Progress",
+        "community_board": "03 QUEENS",
+        "council_district": "21",
+        "police_precinct": "Precinct 115",
+        "bbl": "4011060053",
+        "borough": "QUEENS",
+        "x_coordinate_state_plane": "1018980",
+        "y_coordinate_state_plane": "218103",
+        "open_data_channel_type": "ONLINE",
+        "park_facility_name": "Unspecified",
+        "park_borough": "QUEENS",
+        "latitude": "40.76525055292101",
+        "longitude": "-73.87462516861908",
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            -73.874625168619,
+            40.765250552921
+          ]
+        },
+        ":@computed_region_f5dn_yrer": "65",
+        ":@computed_region_yeji_bk3q": "3",
+        ":@computed_region_sbqj_enih": "73",
+        ":@computed_region_92fq_4b7q": "21"
+      },
+      {
+        "unique_key": "70115201",
+        "created_date": "2026-08-20T01:50:46.000",
+        "agency": "DEP",
+        "agency_name": "Department of Environmental Protection",
+        "complaint_type": "Water Maintenance",
+        "descriptor": "Fire Hydrant Running Full",
+        "descriptor_2": "N/A",
+        "location_type": "Sidewalk",
+        "incident_zip": "10472",
+        "incident_address": "1963 WATSON AVENUE",
+        "street_name": "WATSON AVENUE",
+        "cross_street_1": "VIRGINIA AVENUE",
+        "cross_street_2": "PUGSLEY AVENUE",
+        "intersection_street_1": "VIRGINIA AVENUE",
+        "intersection_street_2": "PUGSLEY AVENUE",
+        "address_type": "ADDRESS",
+        "city": "BRONX",
+        "landmark": "WATSON AVENUE",
+        "status": "In Progress",
+        "community_board": "09 BRONX",
+        "council_district": "18",
+        "police_precinct": "Precinct 43",
+        "borough": "BRONX",
+        "x_coordinate_state_plane": "1023532",
+        "y_coordinate_state_plane": "241251",
+        "open_data_channel_type": "MOBILE",
+        "park_facility_name": "Unspecified",
+        "park_borough": "BRONX",
+        "latitude": "40.82876638164466",
+        "longitude": "-73.85805712987411",
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            -73.858057129874,
+            40.828766381645
+          ]
+        },
+        ":@computed_region_f5dn_yrer": "58",
+        ":@computed_region_yeji_bk3q": "5",
+        ":@computed_region_sbqj_enih": "26",
+        ":@computed_region_92fq_4b7q": "31"
+      },
+      {
+        "unique_key": "70122725",
+        "created_date": "2026-08-20T01:50:15.000",
+        "agency": "NYPD",
+        "agency_name": "New York City Police Department",
+        "complaint_type": "Noise - Street/Sidewalk",
+        "descriptor": "Loud Talking",
+        "location_type": "Street/Sidewalk",
+        "incident_zip": "11211",
+        "incident_address": "759 GRAND STREET",
+        "street_name": "GRAND STREET",
+        "cross_street_1": "GRAHAM AVENUE",
+        "cross_street_2": "HUMBOLDT STREET",
+        "intersection_street_1": "GRAHAM AVENUE",
+        "intersection_street_2": "HUMBOLDT STREET",
+        "address_type": "ADDRESS",
+        "city": "BROOKLYN",
+        "landmark": "GRAND STREET",
+        "status": "In Progress",
+        "community_board": "01 BROOKLYN",
+        "council_district": "34",
+        "police_precinct": "Precinct 90",
+        "bbl": "3027830031",
+        "borough": "BROOKLYN",
+        "x_coordinate_state_plane": "1000111",
+        "y_coordinate_state_plane": "198594",
+        "open_data_channel_type": "ONLINE",
+        "park_facility_name": "Unspecified",
+        "park_borough": "BROOKLYN",
+        "latitude": "40.71175718620469",
+        "longitude": "-73.942787970944",
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            -73.942787970944,
+            40.711757186205
+          ]
+        },
+        ":@computed_region_f5dn_yrer": "36",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "56",
+        ":@computed_region_92fq_4b7q": "30"
+      },
+      {
+        "unique_key": "70120375",
+        "created_date": "2026-08-20T01:49:57.000",
+        "agency": "NYPD",
+        "agency_name": "New York City Police Department",
+        "complaint_type": "Blocked Driveway",
+        "descriptor": "No Access",
+        "location_type": "Street/Sidewalk",
+        "incident_zip": "11435",
+        "incident_address": "145-38 LAKEWOOD AVENUE",
+        "street_name": "LAKEWOOD AVENUE",
+        "cross_street_1": "PRINCETON STREET",
+        "cross_street_2": "LIVERPOOL STREET",
+        "intersection_street_1": "PRINCETON STREET",
+        "intersection_street_2": "LIVERPOOL STREET",
+        "address_type": "ADDRESS",
+        "city": "JAMAICA",
+        "landmark": "LAKEWOOD AVENUE",
+        "status": "In Progress",
+        "community_board": "12 QUEENS",
+        "council_district": "28",
+        "police_precinct": "Precinct 103",
+        "bbl": "4119380019",
+        "borough": "QUEENS",
+        "x_coordinate_state_plane": "1039049",
+        "y_coordinate_state_plane": "191081",
+        "open_data_channel_type": "MOBILE",
+        "park_facility_name": "Unspecified",
+        "park_borough": "QUEENS",
+        "latitude": "40.6909803280198",
+        "longitude": "-73.80239660294104",
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            -73.802396602941,
+            40.69098032802
+          ]
+        },
+        ":@computed_region_f5dn_yrer": "41",
+        ":@computed_region_yeji_bk3q": "3",
+        ":@computed_region_sbqj_enih": "61",
+        ":@computed_region_92fq_4b7q": "46"
+      },
+      {
+        "unique_key": "70120333",
+        "created_date": "2026-08-20T01:49:53.000",
+        "agency": "NYPD",
+        "agency_name": "New York City Police Department",
+        "complaint_type": "Noise - Residential",
+        "descriptor": "Banging/Pounding",
+        "location_type": "Residential Building/House",
+        "incident_zip": "10035",
+        "incident_address": "2400 2 AVENUE",
+        "street_name": "2 AVENUE",
+        "cross_street_1": "EAST 123 STREET",
+        "cross_street_2": "EAST 124 STREET",
+        "intersection_street_1": "EAST 123 STREET",
+        "intersection_street_2": "EAST 124 STREET",
+        "address_type": "ADDRESS",
+        "city": "NEW YORK",
+        "landmark": "2 AVENUE",
+        "status": "In Progress",
+        "community_board": "11 MANHATTAN",
+        "council_district": "08",
+        "police_precinct": "Precinct 25",
+        "bbl": "1017970001",
+        "borough": "MANHATTAN",
+        "x_coordinate_state_plane": "1002403",
+        "y_coordinate_state_plane": "231268",
+        "open_data_channel_type": "MOBILE",
+        "park_facility_name": "Unspecified",
+        "park_borough": "MANHATTAN",
+        "latitude": "40.80143454654757",
+        "longitude": "-73.93443230896085",
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            -73.934432308961,
+            40.801434546548
+          ]
+        },
+        ":@computed_region_f5dn_yrer": "7",
+        ":@computed_region_yeji_bk3q": "4",
+        ":@computed_region_sbqj_enih": "16",
+        ":@computed_region_92fq_4b7q": "35"
+      }
+    ],
+    "fields": [
+      "unique_key",
+      "created_date",
+      "agency",
+      "agency_name",
+      "complaint_type",
+      "descriptor",
+      "location_type",
+      "incident_zip",
+      "incident_address",
+      "street_name",
+      "cross_street_1",
+      "cross_street_2",
+      "intersection_street_1",
+      "intersection_street_2",
+      "address_type",
+      "city",
+      "landmark",
+      "status",
+      "community_board",
+      "council_district",
+      "police_precinct",
+      "bbl",
+      "borough",
+      "x_coordinate_state_plane",
+      "y_coordinate_state_plane",
+      "open_data_channel_type",
+      "park_facility_name",
+      "park_borough",
+      "latitude",
+      "longitude",
+      "location",
+      ":@computed_region_f5dn_yrer",
+      ":@computed_region_yeji_bk3q",
+      ":@computed_region_sbqj_enih",
+      ":@computed_region_92fq_4b7q"
+    ]
+  }
+}
